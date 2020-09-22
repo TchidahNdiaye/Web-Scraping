@@ -1,0 +1,832 @@
+gigya.callback({
+  "threadCount": 25,
+  "settings": {
+    "useSiteLogin": false,
+    "shareToSNCheckboxChecked": true,
+    "enableFBComments": false,
+    "mode": "reviews",
+    "newCommentPosition": "top",
+    "disableRSS": true,
+    "disableCommentsCount": false,
+    "repliesCollapsed": true,
+    "displayPosNegVotes": true,
+    "refreshMode": "off",
+    "refreshInterval": 0,
+    "maxCommentLength": 5000,
+    "enableRichTextEditing": false,
+    "enableUserTagging": false,
+    "enableUserSorting": false,
+    "requireGuestName": true,
+    "enableMediaItems": false,
+    "enableDirectCommentLinking": false,
+    "enableLinks": false,
+    "readOnly": false,
+    "threadingDepth": 0,
+    "sortBy": "ratingDesc",
+    "allowNegativeVoting": true,
+    "allowGuest": false,
+    "pageSize": 25,
+    "enableCommentTitles": "firstInThread_optional",
+    "enableCommentBody": "enabled_optional",
+    "allowCommentDeletion": false,
+    "isGuestEmailRequired": false,
+    "enableFlagging": true,
+    "enableRatings": "firstInThread_mandatory",
+    "flaggingEmailAfter": 0,
+    "flaggingPendingAfter": 0,
+    "moderationState": 0,
+    "moderationModes": {
+      "text": "post",
+      "image": "post",
+      "video": "post",
+      "url": "post",
+      "other": "post"
+    },
+    "enableVoting": true,
+    "allowMultipleReviewsPerUser": false,
+    "allowAnonymous": true,
+    "ratingDims": [],
+    "highlightGroupsSettings": [
+      {
+        "name": "Moderators",
+        "type": "moderator",
+        "enabled": true,
+        "showBadge": false,
+        "badgeText": "Moderator",
+        "badgeColor": "#00AEEF",
+        "badgeFrame": "rectangle",
+        "commenterNameColor": "#00AEEF"
+      },
+      {
+        "name": "Experts",
+        "type": "user",
+        "enabled": false,
+        "showBadge": true,
+        "badgeText": "Expert",
+        "badgeColor": "#828282",
+        "badgeFrame": "rectangle",
+        "commenterNameColor": "#000000"
+      },
+      {
+        "name": "Journalists",
+        "type": "user",
+        "enabled": false,
+        "showBadge": true,
+        "badgeText": "Journalist",
+        "badgeColor": "#7A3CC6",
+        "badgeFrame": "rectangle",
+        "commenterNameColor": "#000000"
+      },
+      {
+        "name": "Staff",
+        "type": "user",
+        "enabled": false,
+        "showBadge": true,
+        "badgeText": "Staff",
+        "badgeColor": "#39B54A",
+        "badgeFrame": "rectangle",
+        "commenterNameColor": "#000000"
+      },
+      {
+        "name": "Pick",
+        "type": "comment",
+        "enabled": false,
+        "showBadge": true,
+        "badgeText": "Editor's Pick",
+        "badgeColor": "#009CDC",
+        "badgeFrame": "none",
+        "badgeImageURL": "https://cdns.gigya.com/gs/i/comments2/editors_pick.png",
+        "commentBackgroundColor": "#E5F8FF"
+      }
+    ],
+    "userEditComment": false
+  },
+  "streamInfo": {
+    "status": "enabled",
+    "streamURL": "http://www.bn.com/comments?workID=1117254679",
+    "streamTitle": "Capital in the Twenty-First Century",
+    "streamTags": [],
+    "createDate": 1433963017729,
+    "commentCount": 42,
+    "approvedCommentCount": 42,
+    "threadCount": 42,
+    "ratingCount": 42,
+    "rssURL": "http://comments.us1.gigya.com/comments/rss/6494161/Products/1117254679",
+    "avgRatings": {
+      "_overall": 4.4
+    },
+    "lastCommentTimestamp": 1580186271317,
+    "isUserSubscribed": false,
+    "moderationMode": "inherit",
+    "moderationModes": {
+      "text": "inherit",
+      "image": "inherit",
+      "video": "inherit",
+      "url": "inherit",
+      "other": "inherit"
+    }
+  },
+  "comments": [
+    {
+      "ID": "175bc19e8ee84a2ca82310cb1e2ff531",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "This book will be remembered in the year 2100 on the list of mos",
+      "commentText": "This book will be remembered in the year 2100 on the list of most influential works of economics of all time along with Smith's Wealth of \n Nations, Marx's Das Kapital, Keynes' General Theory, Hayek's Road to Serfdom, Friedmans' Free to Choose.  The detailed, data driven\nhistory is compelling and revealing for its departure from most conventional wisdom.  Even if you don't agree with the impractical policy \nprescriptions, you will see the world differently as a result of this book's insights.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 33,
+      "posVotes": 35,
+      "negVotes": 2,
+      "vote": "none",
+      "sender": {
+        "name": "pfahey68",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1398180392000,
+      "threadTimestamp": 1398180392000,
+      "status": "published"
+    },
+    {
+      "ID": "f8e11dc61cc84b529072820869238212",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Excellent book!  A Great introduction into the distribution of w",
+      "commentText": "Excellent book!  A Great introduction into the distribution of wealth and why income inequality has been allowed to prosper and flourish within the United States.  He bases his work on many of the early greats of economics and drives his own scholarship with data driven models and heavy emphasis on graphs and models.  You can access extra supplemental materials and spreadsheets for free on his own website, in both French and English.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 17,
+      "posVotes": 19,
+      "negVotes": 2,
+      "vote": "none",
+      "sender": {
+        "name": "kitkat",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1398781541000,
+      "threadTimestamp": 1398781541000,
+      "status": "published"
+    },
+    {
+      "ID": "8a47d63d675641149fc0d0a55de01da1",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "What is the Grand Strategy of the Super-Rich in America?  Thomas",
+      "commentText": "What is the Grand Strategy of the Super-Rich in America?  Thomas Picketty's Capital really sees the problem from one side of the economic prism: One of incredible rates of return for the wealthy vs. the advanced economies going to  !% for the the next  85 years!!!\nThe Grand Strategy of the Super-Rich is to do the following: (1) Continue capital accumulation in the areas of Energy, Utilities, Technology, Materials, Consumer Staples, Consumer Discretionaries, Industrial, Health Care and Financials.  The capital accumulation will lead to \ndynastic families who will continue wealth accumulation: Wealth over Work! (2) Use democratic and republican parties as politicaly proxy for the advancement of wealth; \n(3)Use lobby groups and media like Fox news for advancement of wealth at the expense of the economy; \n\n",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 12,
+      "posVotes": 15,
+      "negVotes": 3,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1399720197000,
+      "threadTimestamp": 1399720197000,
+      "status": "published"
+    },
+    {
+      "ID": "c2717d407ba345fab38263c948d0c213",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "I am not your everyday reader of economic works but I have found",
+      "commentText": "I am not your everyday reader of economic works but I have found this book to be an important work in answering some of the questions I have today about America and the world economy outlook.  Because I am not an expert in the area of economics I think it speaks to the writer's talent to make the complex accessible for the everyday person who wants to understand this complicated subject.  Take your time with this book. ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 8,
+      "posVotes": 8,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1400855651000,
+      "threadTimestamp": 1400855651000,
+      "status": "published"
+    },
+    {
+      "ID": "3862f9ed260f41609997f9ae75f78df0",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "In 1953 Simon Kuznets, then at the University of Pennsylvania, p",
+      "commentText": "In 1953 Simon Kuznets, then at the University of Pennsylvania, proposed an economic theory of declining income inequality based on data collected over a period of 35 years (1913-1948).  Kuznet's conclusion that income inequality within the framework of free-market capitalism would inevitably follow an arching path over time - an initial increase in inequality followed by a decline - became a foundational principle of conservatism during subsequent decades.  Kuznet's model appeared to accurately predict the income distribution during the period 1945-1973 -  when economic boom and near-global prosperity followed World War II.  But subsequent to the Reagan/Thatcher years income inequality did not decline, and in fact is now (at least in the developed world) following a course that may see that inequality exceed levels reached at any time in human history.\nThat failure of income and wealth distribution to relax to more equitable levels is the current &amp;quot;hot&amp;quot; economic topic - of interest to more than just Pope Francis and Occupy Wall Street.  Jumping into the fray comes Thomas Piketty, professor of economics at Paris' Ecole d'Economie with this English translation of his book Le Capital in XXI Siecle.  Piketty's lengthy (639 pages in the eBook) tome is heavy on data analysis and illustrations, only rarely relieved by historical asides and literary references (to Jane Austen and Honore de Balzac and their pre-occupation with the mechanics of 19th century wealth.)\nCapital is divided into four parts and 16 chapters.  There are nearly 100 pages of Notes and a detailed Index which serve to emphasize the scholarly nature of the work in contrast to the overall text that is written in a very down-to-earth.  Capital is supplemented by a web site which contains the figures used in Capital, supplemental figures, spreadsheets of data used in the analyses, and methods.\nThe presentation tends to be repetitive and could have used some trimming and altered emphasis.  Piketty wants to hammer his arguments home, but, for example, he presents only a very superficial explanation of why inequality is important in the first place - leaving the reader with little more of a rationale than intellectual curiosity.\nCapital touches only very briefly on the concept of externalities as they relate to inequalities in income and wealth.  Fundamental to the view that 19th-century-style free-market capitalism is, ultimately, the best and fairest economic system is the idea of a &amp;quot;level playing field&amp;quot;.  Earning that $1 over $1,000,000 should take the same effort as $1 over $1,000.  One aspect of the reason why it doesn't is that there are factors external to the accumulation of additional income and wealth for which the earner does not &amp;quot;pay&amp;quot;.  Perhaps the best recent example of such &amp;quot;externalities&amp;quot; is the .com, Internet, explosion in multi-billion dollar corporations and individuals.  The cost of creating the Internet has been spread more-or-less uniformly, and, perhaps, even regressively, across the entire national and global population.  The opportunities provided by the Internet were exploited in admittedly creative ways to build overnight fortunes.  Progressive income tax, inheritance taxes or the progressive wealth tax proposed by Piketty may be clumsy ways to address this economic reality, but may be the only way to do so consistent with democratic institutions.\nCapital is an important book that is destined to be a central player in discussions of economic inequality.",
+      "ratings": {
+        "_overall": 4
+      },
+      "TotalVotes": 4,
+      "posVotes": 5,
+      "negVotes": 1,
+      "vote": "none",
+      "sender": {
+        "name": "leopardiNJ",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1405902290000,
+      "threadTimestamp": 1405902290000,
+      "status": "published"
+    },
+    {
+      "ID": "d833a758e66a46e49c8168f5d418e4ce",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "As a systems analyst the Defense Dept., I can truly say that thi",
+      "commentText": "As a systems analyst the Defense Dept., I can truly say that this is how economic analysis should be done. I firmly believe if there is ever to be a &amp;quot;paradigm shift&amp;quot; this might well be it. ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 3,
+      "posVotes": 3,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1404243155000,
+      "threadTimestamp": 1404243155000,
+      "status": "published"
+    },
+    {
+      "ID": "e7cac0cf8ef547e1a26132c17368bbec",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "A Thoughtful Book",
+      "commentText": "Capital in the Twenty-First Century is an unusual experience for those used to the more frenetic and visibly argumentative policy-driven books of the recent past.  Professor Piketty addresses the issues relative to the accumulation of wealth by the holders of capital with a serene air, and while his conclusions are intriguing, there are two points he makes that are, to me, worth repeating:\r\n\r\n 1. Economics, if it is a science, is a social science, related to and informed by history.  A profusion of equations does not worthwhile precision in policy make, and Professor Piketty's references to novels of Balzac and Austen remind us that the views and observations of novelists hundreds of years ago are still meaningful and relevant now; and\r\n\r\n2. It is foolish to assume that capitalism and neo-liberalism will cure all mankind's ills, or at least guarantee that none proliferate.   Finding a social order acceptable to all and dealing with the rights and duties of every member of society to every other member is not likely to occur by accident, nor is it the assured by-product of liberalism, or any other political or economic theory.  \r\n\r\nI recommend this, even (especially) to those who find his conclusions and recommendations unappealing or wrong-headed.   Professor Piketty's policy recommendation, a tax on capital, and his clear-eyed analysis, deserves to be considered, even by those who find the recommendation dangerous or foolish.  His research is available to all, and those with other inclinations and policy recommendations should see this book as a challenge to sharpen arguments and test positions.\r\n\r\nFinally, the critical point of the book is to remind us that the shape and direction of our society is a matter for constant debate and discussion, to be resolved in political debate and enacted openly and publicly, after all are permitted to argue their point.   Neither our society nor our economy were presented to us by the gods, and issues such as the proper division of rights and, yes, capital, are matters that must be addressed every year, certainly every generation.\r\n\r\nFor those who worry that the book is unreadable, or obscure, I can only say I found it neither.  The prose was certainly workmanlike rather than inspired, but nonetheless easy to follow.  While Professor Piketty's use of French records and his reference to French history were more difficult to follow at first for this U.S. reader, his explanations for his choices of source materials and his comparisons and allusions to French economic history made sense.  \r\n\r\nAll in all, I thoroughly enjoyed the read, and finished it with at least new metrics to apply to policy debates.  The stir it created is appropriate, and I recommend it to you.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 2,
+      "posVotes": 2,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1410816963000,
+      "threadTimestamp": 1410816963000,
+      "status": "published"
+    },
+    {
+      "ID": "3ec5c78fb7124b54b46e57333745e57e",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "In a league beyond the vast majority of books on economics acces",
+      "commentText": "In a league beyond the vast majority of books on economics accessible by the lay person.  Piketty\nand his team of researchers and analysts go beyond the ideological concepts of traditional left and\n right economics to deliver a rigorous historically and factually grounded reevaluation\n of the dynamics of modern capitalism.  This will challenge the assumptions of capitalist\n true-believers and anti-capitalists alike.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 2,
+      "posVotes": 2,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Mason_Dixon",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1403649188000,
+      "threadTimestamp": 1403649188000,
+      "status": "published"
+    },
+    {
+      "ID": "5678603e795a45e4b67704607386dc5e",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Excellent",
+      "commentText": "Timely analysis",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 2,
+      "posVotes": 2,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1401437564000,
+      "threadTimestamp": 1401437564000,
+      "status": "published"
+    },
+    {
+      "ID": "d61c26c6664940b0804ca189babf95e0",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Data-driven and meticulous",
+      "commentText": "Data, research, and thoughtful discourse will win over ideology and dogma every time. At least, as long as people keep writing (and reading) books like this. ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 1,
+      "posVotes": 1,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1420217401000,
+      "threadTimestamp": 1420217401000,
+      "status": "published"
+    },
+    {
+      "ID": "423cabe8d99f4346b26c4f5b78acad86",
+      "streamId": "1117254679",
+      "tags": [
+        "9781491534663"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "The book is a challenging read specially the data and analysis. ",
+      "commentText": "The book is a challenging read specially the data and analysis. Nonetheless, and having also read the criticism about the book, one must agree with the authors conclusions. At the end of the day there needs to be a tax on wealth if income inequality is ever to end. ",
+      "ratings": {
+        "_overall": 4
+      },
+      "TotalVotes": 1,
+      "posVotes": 1,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "SyedBK",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1407044255000,
+      "threadTimestamp": 1407044255000,
+      "status": "published"
+    },
+    {
+      "ID": "5133f28b79bc42268a97cc76036b8d79",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Important Book!",
+      "commentText": "As many other reviewers have noted, this may well be the most important book on economics written in many years. With masses of carefully collected and analyzed data, Piketty demonstrates beyond reasonable doubt the causes and consequence of inequality. While some of the details remain open to debate, the basic argument is so powerfully argued as to become a foundation for all future economic policy in any state which values freedom, democracy, and the basic equality of individuals. A must read!",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 1,
+      "posVotes": 1,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1404470687000,
+      "threadTimestamp": 1404470687000,
+      "status": "published"
+    },
+    {
+      "ID": "7276f6d5d2f24f4b894807412f4078be",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "An excellent book.  The author provides a lot of history and det",
+      "commentText": "An excellent book.  The author provides a lot of history and detailed information to support his conclusions.  Even if you do not agree with him as to what should be done, the book will cause you to think and answer some serious questions.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 1,
+      "posVotes": 1,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "BKLaw",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1404202355000,
+      "threadTimestamp": 1404202355000,
+      "status": "published"
+    },
+    {
+      "ID": "43a5bea8701f4029910f3deeeb00bbf3",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674979857"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "The author of the book mentions about capital inequality in the pr ...",
+      "commentText": "The author of the book mentions about capital inequality in the present and in the past worldwide. He says that with the lack of inherited wealth, every generation must in some way construct itself. He says that the advantage of owning enough things is that one can consume and and accumulate without having to work. One can consume and accumulate more than one could produce on one’s own. The owners of enough capital do not have to work. He says the inequality reached its lowest ebb in the United States between 1950 and 1980. However, income inequality has exploded in the US. In the author’s view, the increase in inequality was the virtual stagnation of the purchasing power of the lower and middle classes in the US during the Last Great Recession in the US. In some countries, the least wealthy half of the population owns virtually nothing (little more than 5% of the total wealth). He mentioned that money tends to reproduce itself. Steve Jobs’ fortune was only $8 billion in 2011 and it was not inherited wealth. The Forbes ranking listed dozens of people with inherited fortunes larger than the earned wealth of Steve Jobs. The author points out that obviously, wealth is not just a matter of merit. In Aristotle’s view, money ought not to give birth to more money. The author of the book feels that one of the possible solutions is for natural resources to be the common property of all, not just a single monopolist or an oligopolist.\n\n\n",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1580186271317,
+      "threadTimestamp": 1580186271317,
+      "status": "published"
+    },
+    {
+      "ID": "e2fbd041eb2544af9a702e66aa573ae3",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674979857"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "It's not that this book isn't good, it's just that it was so hyped ...",
+      "commentText": "It's not that this book isn't good, it's just that it was so hyped by everyone on the left that I had set high expectations, which weren't met 100%.\n\nI consider myself a centrist for what it's worth. Anyway, this is a good book and you can tell a lot of work went into it. But I just consider it 4-star good and not 5-star good.",
+      "ratings": {
+        "_overall": 4
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1539012887933,
+      "threadTimestamp": 1539012887933,
+      "status": "published"
+    },
+    {
+      "ID": "ec36f24dbae44c7d8c83de4d0b35e95e",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674979857"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "This work is outside my expertise, of course, and maybe outside my ...",
+      "commentText": "This work is outside my expertise, of course, and maybe outside my abilities. However, it impresses me as a vital study for our time. Lay or not, we need to deal with the topic of fair distribution of wealth. ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "photoURL": "https://graph.facebook.com/v2.12/10154974215878737/picture?type=square",
+        "profileURL": "https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEhKMlZA5TmdoZAVREQ0ZAGazYzNVN2dm5wWURVZAVZAweGhRSnd2T25LS2M1aXdMaUd5bXZAWYUROc0xqMFlkeFBYYk11VUg1OFF2QkkySnpfd1NsdHNlTV80aG1QT1FIVC1xOWNsa2RiWjBR/",
+        "name": "TedMorgan",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1534906996112,
+      "threadTimestamp": 1534906996112,
+      "status": "published"
+    },
+    {
+      "ID": "183929feca5544bebd4939a0374bf9f2",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Superbly written compilation of historical data and analysis. This ...",
+      "commentText": "Superbly written compilation of historical data and analysis. This is how economics should be done. Probably read well over a hundred books on economics. Far and away the best.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "growingoldoffensively",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1439603812509,
+      "threadTimestamp": 1439603812509,
+      "status": "published"
+    },
+    {
+      "ID": "e8f8710c848341d19f209addf11fc5cf",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1435254740899,
+      "threadTimestamp": 1435254740899,
+      "status": "published"
+    },
+    {
+      "ID": "4a3b703b61384a518bf89c6d54779a67",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": " ",
+      "ratings": {
+        "_overall": 2
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1424276527000,
+      "threadTimestamp": 1424276527000,
+      "status": "published"
+    },
+    {
+      "ID": "05db5a96aa8148fcac8392a15651e39e",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "I really enjoyed this book, it helped me understand economics on",
+      "commentText": "I really enjoyed this book, it helped me understand economics on a much broader level.\nI don't no to pick between this and Guide to Options Trading by George Roseman!",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Jake_Madson",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1420269881000,
+      "threadTimestamp": 1420269881000,
+      "status": "published"
+    },
+    {
+      "ID": "2918f13ad8da4967b961e2742bf3f8f2",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": " ",
+      "ratings": {
+        "_overall": 4
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1419786083000,
+      "threadTimestamp": 1419786083000,
+      "status": "published"
+    },
+    {
+      "ID": "8634a819b9f446f282fe717ce6bc9eed",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": " ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1415987784000,
+      "threadTimestamp": 1415987784000,
+      "status": "published"
+    },
+    {
+      "ID": "2f37676773e74c52815a3d42c5fcba94",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": " ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1415347609000,
+      "threadTimestamp": 1415347609000,
+      "status": "published"
+    },
+    {
+      "ID": "1a92f796b3b64418a8e6812c683d7060",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674430006"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "Economic clarity at last!!!",
+      "commentText": "Clear exposition of modern economic world. math in early pages that is hopelessly confusing soon(pages53-56) is clarified so don't worry. Gives you all the talking points you will need for the next few years of political economic warfare.",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "CMAJORME",
+        "isSelf": false,
+        "loginProvider": "Site"
+      },
+      "flagCount": 0,
+      "highlightGroups": [],
+      "edited": false,
+      "timestamp": 1407144384000,
+      "threadTimestamp": 1407144384000,
+      "status": "published"
+    },
+    {
+      "ID": "cf48017519e849fe9b166d9778ccc43b",
+      "streamId": "1117254679",
+      "tags": [
+        "9780674369559"
+      ],
+      "threadID": "",
+      "isModerator": false,
+      "commentTitle": "An absolute read for any member of society ",
+      "commentText": "Had a whole review but hit the back button on the nook by accident but simply put highly suggest this book has many truths to learn that may suprise some, while explain what others have always knew but there just hasnt been the long overdue historical study of the political economy in relation to income inequality, misconceptions (or plain flaws) of capitalism, and insuffient democratic opportunties that will need repair in the century to come. ",
+      "ratings": {
+        "_overall": 5
+      },
+      "TotalVotes": 0,
+      "posVotes": 0,
+      "negVotes": 0,
+      "vote": "none",
+      "sender": {
+        "name": "Anonymous",
+        "isSelf": false
+      },
+      "flagCount": 0,
+      "edited": false,
+      "timestamp": 1407027268000,
+      "threadTimestamp": 1407027268000,
+      "status": "published"
+    }
+  ],
+  "commentCount": 25,
+  "next": "12|0",
+  "nextTS": 0,
+  "hasMore": true,
+  "statusCode": 200,
+  "errorCode": 0,
+  "statusReason": "OK",
+  "callId": "229c7e972bec419782413525fa631e28",
+  "time": "2020-03-07T15:09:43.812Z",
+  "context": "R1284068403"
+});
