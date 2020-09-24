@@ -1,0 +1,885 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Les villes fran&ccedil;aises investies par les firmes transnationales &eacute;trang&egrave;res : des r&eacute;seaux d'entreprises aux &eacute;tablissements localis&eacute;s"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2016PA01H047"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Les firmes transnationales, acteurs majeurs de la mondialisation contemporaine de l'&eacute;conomie, int&egrave;grent et excluent des territoires &agrave; diverses &eacute;chelles par leurs strat&eacute;gies de localisation. La connaissance de cette int&eacute;gration diverse, si elle est bien cern&eacute;e &agrave; l'&eacute;chelle internationale, reste pourtant tr&egrave;s limit&eacute;e &agrave; des &eacute;chelons urbains, alors que les villes voire les m&eacute;tropoles mondiales sont pr&eacute;sent&eacute;es comme des n&oelig;uds majeurs des r&eacute;seaux mondialis&eacute;s. La France et les pays de l&rsquo;OCDE apparaissent certes en position tr&egrave;s centrale dans les r&eacute;seaux que tissent les firmes, mais la connaissance de la place des villes dans les r&eacute;seaux d'investissement des firmes &eacute;trang&egrave;res demeure tr&egrave;s partielle. Cette th&egrave;se propose ainsi d'approcher les donn&eacute;es conventionnelles d&rsquo;Investissement Direct &Eacute;tranger dans le cas fran&ccedil;ais par la mobilisation de donn&eacute;es d'entreprises. Une d&eacute;composition fine des r&eacute;seaux de filiation des firmes transnationales a ainsi pu &ecirc;tre men&eacute;e jusqu'&agrave; l'&eacute;chelon des &eacute;tablissements, briques &eacute;conomiques et g&eacute;ographiques de base de ces r&eacute;seaux transnationaux. La construction d'une base in&eacute;dite des stocks d'IDE localis&eacute;s a permis d'appr&eacute;cier la pr&eacute;sence &eacute;trang&egrave;re dans les &eacute;conomies locales de l'ensemble des 355 aires urbaines du syst&egrave;me de villes. Ces donn&eacute;es r&eacute;v&egrave;lent alors, de mani&egrave;re large et syst&eacute;matique, l'int&eacute;gration diff&eacute;renci&eacute;e des territoires, entre d&eacute;pendance et attractivit&eacute; vis-&agrave;-vis des investisseurs &eacute;trangers. La mobilisation des lois d'&eacute;chelle, outil d'analyse majeur dans cette th&egrave;se, a conduit &agrave; l'identification des facteurs explicatifs majeurs de la diversit&eacute; d'int&eacute;gration des villes, qui se traduit &agrave; la fois par des in&eacute;galit&eacute;s hi&eacute;rarchiques et r&eacute;gionales."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2016PA01H047.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Olivier Finance , Les villes fran&ccedil;aises investies par les firmes transnationales &eacute;trang&egrave;res : des r&eacute;seaux d'entreprises aux &eacute;tablissements localis&eacute;s">
+<meta name="description" content="Les firmes transnationales, acteurs majeurs de la mondialisation contemporaine de l'&eacute;conomie, int&egrave;grent et excluent des territoires &agrave; diverses &eacute;chelles par leurs strat&eacute;gies de localisation. La connaissance de cette int&eacute;gration diverse, si elle est bien cern&eacute;e &agrave; l'&eacute;chelle internationale, reste pourtant tr&egrave;s limit&eacute;e &agrave; des &eacute;chelons urbains, alors que les villes voire les m&eacute;tropoles mondiales sont pr&eacute;sent&eacute;es comme des n&oelig;uds majeurs des r&eacute;seaux mondialis&eacute;s. La France et les pays de l&rsquo;OCDE apparaissent certes en position tr&egrave;s centrale dans les r&eacute;seaux que tissent les firmes, mais la connaissance de la place des villes dans les r&eacute;seaux d'investissement des firmes &eacute;trang&egrave;res demeure tr&egrave;s partielle. Cette th&egrave;se propose ainsi d'approcher les donn&eacute;es conventionnelles d&rsquo;Investissement Direct &Eacute;tranger dans le cas fran&ccedil;ais par la mobilisation de donn&eacute;es d'entreprises. Une d&eacute;composition fine des r&eacute;seaux de filiation des firmes transnationales a ainsi pu &ecirc;tre men&eacute;e jusqu'&agrave; l'&eacute;chelon des &eacute;tablissements, briques &eacute;conomiques et g&eacute;ographiques de base de ces r&eacute;seaux transnationaux. La construction d'une base in&eacute;dite des stocks d'IDE localis&eacute;s a permis d'appr&eacute;cier la pr&eacute;sence &eacute;trang&egrave;re dans les &eacute;conomies locales de l'ensemble des 355 aires urbaines du syst&egrave;me de villes. Ces donn&eacute;es r&eacute;v&egrave;lent alors, de mani&egrave;re large et syst&eacute;matique, l'int&eacute;gration diff&eacute;renci&eacute;e des territoires, entre d&eacute;pendance et attractivit&eacute; vis-&agrave;-vis des investisseurs &eacute;trangers. La mobilisation des lois d'&eacute;chelle, outil d'analyse majeur dans cette th&egrave;se, a conduit &agrave; l'identification des facteurs explicatifs majeurs de la diversit&eacute; d'int&eacute;gration des villes, qui se traduit &agrave; la fois par des in&eacute;galit&eacute;s hi&eacute;rarchiques et r&eacute;gionales." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Firmes transnationales Investissement Direct Etranger Syst&egrave;mes de villes France Lois d'&eacute;chelle " xml:lang="FR" />
+<meta name="description" content="Transnational corporations, which are amongst the major players in the contemporary global economy, integrate and exclude territories at various scales, due to their specific location strategies. These inequalities are well known at an international scale, yet the knowledge of this diverse integration is much more limited regarding urban levels, although cities and metropolises are considered as being the major nodes of the globalized networks. France and the OECD countries certainly appear in central positions in the networks that characterize these corporations, but observations made at the urban level remain very partial due to the lack of localized data. This thesis suggests to both approach and localize conventional data about Foreign Direct Investment (FDI) in the French case by mobilizing data about financial links connecting economic units. The detailed breakdown of transnational corporations affiliation networks has been conducted up to the level of the establishments, which are the real individual economic and geographic cells of these transnational networks. An original database about localized inward FDI stocks has been built and explored to appreciate how far foreign transnational corporations integrate the 355 main cities into the French urban system. These data revealed the diverse integration of French cities, between dependence and attractiveness for the investors. The mobilization of scaling laws, which constituted a major analytical tool in this work, allowed us to identify the major factors explaining the diverse integration of French cities into the whole system of cities, reflected both by inequalities of hierarchical and regional order." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Transnational corporations Foreign Direct Investment Urban system France Scaling laws " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Les villes fran&ccedil;aises investies par les firmes transnationales &eacute;trang&egrave;res : des r&eacute;seaux d'entreprises aux &eacute;tablissements localis&eacute;s">
+<meta name="DC.creator" content="Olivier Finance" />
+<meta name="DC.contributor" content="Pumain Denise Paulus Fabien "/>
+<meta name="DC.publisher" content="Paris 1" />
+<meta name="DC.description.abstract" content="Les firmes transnationales, acteurs majeurs de la mondialisation contemporaine de l'&eacute;conomie, int&egrave;grent et excluent des territoires &agrave; diverses &eacute;chelles par leurs strat&eacute;gies de localisation. La connaissance de cette int&eacute;gration diverse, si elle est bien cern&eacute;e &agrave; l'&eacute;chelle internationale, reste pourtant tr&egrave;s limit&eacute;e &agrave; des &eacute;chelons urbains, alors que les villes voire les m&eacute;tropoles mondiales sont pr&eacute;sent&eacute;es comme des n&oelig;uds majeurs des r&eacute;seaux mondialis&eacute;s. La France et les pays de l&rsquo;OCDE apparaissent certes en position tr&egrave;s centrale dans les r&eacute;seaux que tissent les firmes, mais la connaissance de la place des villes dans les r&eacute;seaux d'investissement des firmes &eacute;trang&egrave;res demeure tr&egrave;s partielle. Cette th&egrave;se propose ainsi d'approcher les donn&eacute;es conventionnelles d&rsquo;Investissement Direct &Eacute;tranger dans le cas fran&ccedil;ais par la mobilisation de donn&eacute;es d'entreprises. Une d&eacute;composition fine des r&eacute;seaux de filiation des firmes transnationales a ainsi pu &ecirc;tre men&eacute;e jusqu'&agrave; l'&eacute;chelon des &eacute;tablissements, briques &eacute;conomiques et g&eacute;ographiques de base de ces r&eacute;seaux transnationaux. La construction d'une base in&eacute;dite des stocks d'IDE localis&eacute;s a permis d'appr&eacute;cier la pr&eacute;sence &eacute;trang&egrave;re dans les &eacute;conomies locales de l'ensemble des 355 aires urbaines du syst&egrave;me de villes. Ces donn&eacute;es r&eacute;v&egrave;lent alors, de mani&egrave;re large et syst&eacute;matique, l'int&eacute;gration diff&eacute;renci&eacute;e des territoires, entre d&eacute;pendance et attractivit&eacute; vis-&agrave;-vis des investisseurs &eacute;trangers. La mobilisation des lois d'&eacute;chelle, outil d'analyse majeur dans cette th&egrave;se, a conduit &agrave; l'identification des facteurs explicatifs majeurs de la diversit&eacute; d'int&eacute;gration des villes, qui se traduit &agrave; la fois par des in&eacute;galit&eacute;s hi&eacute;rarchiques et r&eacute;gionales." xml:lang="FR"/>
+<meta name="DC.subject" content="Firmes transnationales Investissement Direct Etranger Syst&egrave;mes de villes France Lois d'&eacute;chelle  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="Transnational corporations, which are amongst the major players in the contemporary global economy, integrate and exclude territories at various scales, due to their specific location strategies. These inequalities are well known at an international scale, yet the knowledge of this diverse integration is much more limited regarding urban levels, although cities and metropolises are considered as being the major nodes of the globalized networks. France and the OECD countries certainly appear in central positions in the networks that characterize these corporations, but observations made at the urban level remain very partial due to the lack of localized data. This thesis suggests to both approach and localize conventional data about Foreign Direct Investment (FDI) in the French case by mobilizing data about financial links connecting economic units. The detailed breakdown of transnational corporations affiliation networks has been conducted up to the level of the establishments, which are the real individual economic and geographic cells of these transnational networks. An original database about localized inward FDI stocks has been built and explored to appreciate how far foreign transnational corporations integrate the 355 main cities into the French urban system. These data revealed the diverse integration of French cities, between dependence and attractiveness for the investors. The mobilization of scaling laws, which constituted a major analytical tool in this work, allowed us to identify the major factors explaining the diverse integration of French cities into the whole system of cities, reflected both by inequalities of hierarchical and regional order." xml:lang="EN"/>
+<meta name="DC.subject" content="Transnational corporations Foreign Direct Investment Urban system France Scaling laws " xml:lang="EN"/>
+<meta name="DC.date" content="2016-10-14" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2016PA01H047" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2016PA01H047"/>
+<title> theses.fr – Olivier Finance , Les villes fran&ccedil;aises investies par les firmes transnationales &eacute;trang&egrave;res : des r&eacute;seaux d'entreprises aux &eacute;tablissements localis&eacute;s</title>
+<meta name="citation_title" content="Les villes fran&ccedil;aises investies par les firmes transnationales &eacute;trang&egrave;res : des r&eacute;seaux d'entreprises aux &eacute;tablissements localis&eacute;s" />
+<meta name="citation_author" content="Finance, Olivier" />
+<meta name="citation_publication_date" content="2016/10/14" />
+<meta name="citation_dissertation_institution" content="Paris 1" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2016PA01H047.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2016PA01H047&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2016PA01H047" title="Français" class="lang_fr current"></a>
+        <a href="/en/2016PA01H047"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2016PA01H047&lng=fr&ppn_origine=027361802&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2016PA01H047.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2016PA01H047.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2016PA01H047.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2016PA01H047/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Les villes françaises investies par les firmes transnationales étrangères : des réseaux d'entreprises aux établissements localisés</h1>
+    <h2>par  <a href="201850958" rel="dcterms:creator" resource="http://www.idref.fr/201850958/id"><span property="foaf:name">Olivier Finance</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Géographie</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="027084914" rel="dcterms:contributor" resource="http://www.idref.fr/027084914/id"><span property="foaf:name">Denise Pumain</span></a> et de 
+<a href="05574494X" rel="dcterms:contributor" resource="http://www.idref.fr/05574494X/id"><span property="foaf:name">Fabien Paulus</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=14-10-2016 datatype="xsd:date">14-10-2016</span></p>
+      <p>à <a href="027361802" rel="dcterms:contributor" resource="http://www.idref.fr/027361802/id"><span property="foaf:name">Paris 1</span></a>
+, dans le cadre de  <a href="138030456" rel="dcterms:contributor" resource="http://www.idref.fr/138030456/id">
+<span property="foaf:name">École doctorale de Géographie de Paris. Espace, sociétés, aménagement (Paris)</span></a>
+, en partenariat avec <a href="087876566" rel="dcterms:contributor" resource="http://www.idref.fr/087876566/id">
+<span property="foaf:name">Géographie-cités (Paris)</span></a>
+  (équipe de recherche) 
+ et de <a href="087876566" rel="dcterms:contributor" resource="http://www.idref.fr/087876566/id">
+<span property="foaf:name">Géographie-cités (Paris)</span></a>
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/061285862" rel="dcterms:contributor" resource="http://www.idref.fr/061285862/id"><span property="foaf:name">Brigitte Baccaïni</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/027084914" rel="dcterms:contributor" resource="http://www.idref.fr/027084914/id"><span property="foaf:name">Denise Pumain</span></a>, 
+<a href="/fr/05574494X" rel="dcterms:contributor" resource="http://www.idref.fr/05574494X/id"><span property="foaf:name">Fabien Paulus</span></a>, 
+<a href="/fr/031936970" rel="dcterms:contributor" resource="http://www.idref.fr/031936970/id"><span property="foaf:name">Michael Storper</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/050251880" rel="dcterms:contributor" resource="http://www.idref.fr/050251880/id"><span property="foaf:name">Céline Rozenblat</span></a>, 
+<a href="/fr/060384778" rel="dcterms:contributor" resource="http://www.idref.fr/060384778/id"><span property="foaf:name">Olivier Bouba-Olga</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Firmes transnationales">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Firmes transnationales
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Investissement Direct Etranger">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Investissement Direct Etranger
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Systèmes de villes">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Systèmes de villes
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:France">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">France
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Lois d'échelle">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Lois d'échelle
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Entreprises multinationales France">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Entreprises multinationales -- France
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Investissements étrangers France">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Investissements étrangers -- France
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Réseaux urbains Aspect économique France">
+<span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="fr">Réseaux urbains -- Aspect économique -- France
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Les firmes transnationales, acteurs majeurs de la mondialisation contemporaine de l'économie, intègrent et excluent des territoires à diverses échelles par leurs stratégies de localisation. La connaissance de cette intégration diverse, si elle est bien cernée à l'échelle internationale, reste pourtant très limitée à des échelons urbains, alors que les villes voire les métropoles mondiales sont présentées comme des nœuds majeurs des réseaux mondialisés. La France et les pays de l’OCDE apparaissent certes en position très centrale dans les réseaux que tissent les firmes, mais la connaissance de la place des villes dans les réseaux d'investissement des firmes étrangères demeure très partielle. Cette thèse propose ainsi d'approcher les données conventionnelles d’Investissement Direct Étranger dans le cas français par la mobilisation de données d'entreprises. Une décomposition fine des réseaux de filiation des firmes transnationales a ainsi pu être menée jusqu'à l'échelon des établissements, briques économiques et géographiques de base de ces réseaux transnationaux. La construction d'une base inédite des stocks d'IDE localisés a permis d'apprécier la présence étrangère dans les économies locales de l'ensemble des 355 aires urbaines du système de villes. Ces données révèlent alors, de manière large et systématique, l'intégration différenciée des territoires, entre dépendance et attractivité vis-à-vis des investisseurs étrangers. La mobilisation des lois d'échelle, outil d'analyse majeur dans cette thèse, a conduit à l'identification des facteurs explicatifs majeurs de la diversité d'intégration des villes, qui se traduit à la fois par des inégalités hiérarchiques et régionales.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Transnational corporations"name="MotsClesAutre" > <span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="en">Transnational corporations</span></a></li>
+          <li><a href="/fr?q=*:Foreign Direct Investment"name="MotsClesAutre" > <span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="en">Foreign Direct Investment</span></a></li>
+          <li><a href="/fr?q=*:Urban system"name="MotsClesAutre" > <span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="en">Urban system</span></a></li>
+          <li><a href="/fr?q=*:France"name="MotsClesAutre" > <span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="en">France</span></a></li>
+          <li><a href="/fr?q=*:Scaling laws"name="MotsClesAutre" > <span about="http://www.theses.fr/2016PA01H047/id" property="dc:subject" xml:lang="en">Scaling laws</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">French cities selected by foreign transnational firms : from financial links between companies to localized establishments</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">Transnational corporations, which are amongst the major players in the contemporary global economy, integrate and exclude territories at various scales, due to their specific location strategies. These inequalities are well known at an international scale, yet the knowledge of this diverse integration is much more limited regarding urban levels, although cities and metropolises are considered as being the major nodes of the globalized networks. France and the OECD countries certainly appear in central positions in the networks that characterize these corporations, but observations made at the urban level remain very partial due to the lack of localized data. This thesis suggests to both approach and localize conventional data about Foreign Direct Investment (FDI) in the French case by mobilizing data about financial links connecting economic units. The detailed breakdown of transnational corporations affiliation networks has been conducted up to the level of the establishments, which are the real individual economic and geographic cells of these transnational networks. An original database about localized inward FDI stocks has been built and explored to appreciate how far foreign transnational corporations integrate the 355 main cities into the French urban system. These data revealed the diverse integration of French cities, between dependence and attractiveness for the investors. The mobilization of scaling laws, which constituted a major analytical tool in this work, allowed us to identify the major factors explaining the diverse integration of French cities into the whole system of cities, reflected both by inequalities of hierarchical and regional order.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2016PA01H047/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Bibliothèque Cujas de droit et de sciences économiques (Paris).</li>
+ 					<li>Bibliothèque : Bibliothèque électronique de l&apos;université Paris 1 Panthéon-Sorbonne.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/228874513" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

@@ -1,0 +1,852 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Evaluation du risque souverain : Analyse th&eacute;orique et &eacute;vidence empirique"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2014EVRY0027"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="La dette souveraine est un instrument puissant de la politique publique. Avec sa croissance rapide dans les pays d&eacute;velopp&eacute;s, d'une part, et le changement fondamental de sa structure dans les pays en d&eacute;veloppement d'autre part, comprendre les d&eacute;terminants du risque souverain est devenu un sujet de pr&eacute;occupation majeur pour les chercheurs et les investisseurs. Cette th&egrave;se &eacute;tudie les aspects du risque de d&eacute;faut dans les &eacute;conomies avanc&eacute;es et &eacute;mergentes. La partie th&eacute;orique pr&eacute;sente le risque de d&eacute;faut souverain. Les principaux r&eacute;sultats montrent que le choix de la devise d'&eacute;mission repr&eacute;sente un aspect important du profil de risque de d&eacute;faut d'un Etat.Dans la premi&egrave;re, une analyse d&eacute;taill&eacute;e des d&eacute;fauts souverains en utilisant une nouvelle base de donn&eacute;es qui inclut 100 pays observ&eacute;s sur la p&eacute;riode 1996-2012 a &eacute;t&eacute; conduite. Les r&eacute;sultats montrent que la d&eacute;cision d'un gouvernement de faire d&eacute;fait diff&egrave;re sensiblement selon la d&eacute;nomination de la monnaie et du type des d&eacute;tenteurs de la dette publique. La seconde &eacute;tude a permis d'apporter un nouvel &eacute;clairage sur le rating souverain. Elle d&eacute;montre que les pays dont la dette est en grande partie - ou enti&egrave;rement - libell&eacute;e dans leur propre monnaie b&eacute;n&eacute;ficient d'un avantage consid&eacute;rable sur les pays qui &eacute;mettent en devise &eacute;trang&egrave;re. Dans la derni&egrave;re section empirique, le prix de march&eacute; du risque souverain a &eacute;t&eacute; explor&eacute;. L'&eacute;tude montre que les facteurs globaux influent sur la r&eacute;mun&eacute;ration des investisseurs pour la tenue du risque souverain, mais pas le risque lui-m&ecirc;me.Les principaux r&eacute;sultats impliquent que toute mod&eacute;lisation du risque de d&eacute;faut souverain appelle &agrave; une distinction entre devise locale et devise &eacute;trang&egrave;re."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2014EVRY0027.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Slim Souissi , Evaluation du risque souverain : Analyse th&eacute;orique et &eacute;vidence empirique">
+<meta name="description" content="La dette souveraine est un instrument puissant de la politique publique. Avec sa croissance rapide dans les pays d&eacute;velopp&eacute;s, d'une part, et le changement fondamental de sa structure dans les pays en d&eacute;veloppement d'autre part, comprendre les d&eacute;terminants du risque souverain est devenu un sujet de pr&eacute;occupation majeur pour les chercheurs et les investisseurs. Cette th&egrave;se &eacute;tudie les aspects du risque de d&eacute;faut dans les &eacute;conomies avanc&eacute;es et &eacute;mergentes. La partie th&eacute;orique pr&eacute;sente le risque de d&eacute;faut souverain. Les principaux r&eacute;sultats montrent que le choix de la devise d'&eacute;mission repr&eacute;sente un aspect important du profil de risque de d&eacute;faut d'un Etat.Dans la premi&egrave;re, une analyse d&eacute;taill&eacute;e des d&eacute;fauts souverains en utilisant une nouvelle base de donn&eacute;es qui inclut 100 pays observ&eacute;s sur la p&eacute;riode 1996-2012 a &eacute;t&eacute; conduite. Les r&eacute;sultats montrent que la d&eacute;cision d'un gouvernement de faire d&eacute;fait diff&egrave;re sensiblement selon la d&eacute;nomination de la monnaie et du type des d&eacute;tenteurs de la dette publique. La seconde &eacute;tude a permis d'apporter un nouvel &eacute;clairage sur le rating souverain. Elle d&eacute;montre que les pays dont la dette est en grande partie - ou enti&egrave;rement - libell&eacute;e dans leur propre monnaie b&eacute;n&eacute;ficient d'un avantage consid&eacute;rable sur les pays qui &eacute;mettent en devise &eacute;trang&egrave;re. Dans la derni&egrave;re section empirique, le prix de march&eacute; du risque souverain a &eacute;t&eacute; explor&eacute;. L'&eacute;tude montre que les facteurs globaux influent sur la r&eacute;mun&eacute;ration des investisseurs pour la tenue du risque souverain, mais pas le risque lui-m&ecirc;me.Les principaux r&eacute;sultats impliquent que toute mod&eacute;lisation du risque de d&eacute;faut souverain appelle &agrave; une distinction entre devise locale et devise &eacute;trang&egrave;re." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Risque de cr&eacute;dit " xml:lang="FR" />
+<meta name="description" content="Sovereign debt is a powerful instrument of the public policy. With its dramatic increase in the western economies, on the one hand, and the fundamental change of its structure in the emerging markets, on the other, understanding the determinants of the sovereign default risk has became a subject of major concern for both researchers and investors. This dissertation investigates aspects of sovereign default risk in advanced and emerging economies.The theoretical section explores the sovereign default risk. The main results show that the choice of the currency of issue represents an important aspect of the sovereign's risk profile.Three empirical studies have been conducted. In the first, a detailed analysis of the sovereign defaults using a new database which includes 100 countries observed over the period 1966-2012 has been conducted. The results show that sovereigns typically default under different economic and financial conditions depending on the bond's currency denomination and the investor's base.The key contribution of the second research is to assess the importance of the currency of issuance in the rating of sovereign debt. The study demonstrates that countries whose debt is largely - or entirely - denominated in their own currency enjoy a substantial advantage over government issuing debt in foreign currency.The last empirical section explores the market price ofs overeign risk. It arugues that the default probability on sovereign bonds is unrelated to global factors.The main results imply that any sovereign default risk modeling requires a distinction between local currency and foreign currency." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Credit risk " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Evaluation du risque souverain : Analyse th&eacute;orique et &eacute;vidence empirique">
+<meta name="DC.creator" content="Slim Souissi" />
+<meta name="DC.contributor" content="Paget-Blanc Eric "/>
+<meta name="DC.publisher" content="Evry-Val d'Essonne" />
+<meta name="DC.description.abstract" content="La dette souveraine est un instrument puissant de la politique publique. Avec sa croissance rapide dans les pays d&eacute;velopp&eacute;s, d'une part, et le changement fondamental de sa structure dans les pays en d&eacute;veloppement d'autre part, comprendre les d&eacute;terminants du risque souverain est devenu un sujet de pr&eacute;occupation majeur pour les chercheurs et les investisseurs. Cette th&egrave;se &eacute;tudie les aspects du risque de d&eacute;faut dans les &eacute;conomies avanc&eacute;es et &eacute;mergentes. La partie th&eacute;orique pr&eacute;sente le risque de d&eacute;faut souverain. Les principaux r&eacute;sultats montrent que le choix de la devise d'&eacute;mission repr&eacute;sente un aspect important du profil de risque de d&eacute;faut d'un Etat.Dans la premi&egrave;re, une analyse d&eacute;taill&eacute;e des d&eacute;fauts souverains en utilisant une nouvelle base de donn&eacute;es qui inclut 100 pays observ&eacute;s sur la p&eacute;riode 1996-2012 a &eacute;t&eacute; conduite. Les r&eacute;sultats montrent que la d&eacute;cision d'un gouvernement de faire d&eacute;fait diff&egrave;re sensiblement selon la d&eacute;nomination de la monnaie et du type des d&eacute;tenteurs de la dette publique. La seconde &eacute;tude a permis d'apporter un nouvel &eacute;clairage sur le rating souverain. Elle d&eacute;montre que les pays dont la dette est en grande partie - ou enti&egrave;rement - libell&eacute;e dans leur propre monnaie b&eacute;n&eacute;ficient d'un avantage consid&eacute;rable sur les pays qui &eacute;mettent en devise &eacute;trang&egrave;re. Dans la derni&egrave;re section empirique, le prix de march&eacute; du risque souverain a &eacute;t&eacute; explor&eacute;. L'&eacute;tude montre que les facteurs globaux influent sur la r&eacute;mun&eacute;ration des investisseurs pour la tenue du risque souverain, mais pas le risque lui-m&ecirc;me.Les principaux r&eacute;sultats impliquent que toute mod&eacute;lisation du risque de d&eacute;faut souverain appelle &agrave; une distinction entre devise locale et devise &eacute;trang&egrave;re." xml:lang="FR"/>
+<meta name="DC.subject" content="Risque de cr&eacute;dit  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="Sovereign debt is a powerful instrument of the public policy. With its dramatic increase in the western economies, on the one hand, and the fundamental change of its structure in the emerging markets, on the other, understanding the determinants of the sovereign default risk has became a subject of major concern for both researchers and investors. This dissertation investigates aspects of sovereign default risk in advanced and emerging economies.The theoretical section explores the sovereign default risk. The main results show that the choice of the currency of issue represents an important aspect of the sovereign's risk profile.Three empirical studies have been conducted. In the first, a detailed analysis of the sovereign defaults using a new database which includes 100 countries observed over the period 1966-2012 has been conducted. The results show that sovereigns typically default under different economic and financial conditions depending on the bond's currency denomination and the investor's base.The key contribution of the second research is to assess the importance of the currency of issuance in the rating of sovereign debt. The study demonstrates that countries whose debt is largely - or entirely - denominated in their own currency enjoy a substantial advantage over government issuing debt in foreign currency.The last empirical section explores the market price ofs overeign risk. It arugues that the default probability on sovereign bonds is unrelated to global factors.The main results imply that any sovereign default risk modeling requires a distinction between local currency and foreign currency." xml:lang="EN"/>
+<meta name="DC.subject" content="Credit risk " xml:lang="EN"/>
+<meta name="DC.date" content="2014-10-14" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2014EVRY0027" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2014EVRY0027"/>
+<title> theses.fr – Slim Souissi , Evaluation du risque souverain : Analyse th&eacute;orique et &eacute;vidence empirique</title>
+<meta name="citation_title" content="Evaluation du risque souverain : Analyse th&eacute;orique et &eacute;vidence empirique" />
+<meta name="citation_author" content="Souissi, Slim" />
+<meta name="citation_publication_date" content="2014/10/14" />
+<meta name="citation_dissertation_institution" content="Evry-Val d'Essonne" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2014EVRY0027&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2014EVRY0027" title="Français" class="lang_fr current"></a>
+        <a href="/en/2014EVRY0027"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2014EVRY0027&lng=fr&ppn_origine=030820529&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2014EVRY0027.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2014EVRY0027.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2014EVRY0027.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2014EVRY0027/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Evaluation du risque souverain : Analyse théorique et évidence empirique</h1>
+    <h2>par  <a href="184033314" rel="dcterms:creator" resource="http://www.idref.fr/184033314/id"><span property="foaf:name">Slim Souissi</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Finance</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="029397642" rel="dcterms:contributor" resource="http://www.idref.fr/029397642/id"><span property="foaf:name">Eric Paget-Blanc</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=14-10-2014 datatype="xsd:date">14-10-2014</span></p>
+      <p>à <a href="030820529" rel="dcterms:contributor" resource="http://www.idref.fr/030820529/id"><span property="foaf:name">Evry-Val d'Essonne</span></a>
+, dans le cadre de  <span rel="dcterms:contributor">
+<span typeof="foaf:Organization" property="foaf:name">Ecole doctorale Sciences de la Société (Evry)</span></span>
+, en partenariat avec <a href="162348320" rel="dcterms:contributor" resource="http://www.idref.fr/162348320/id">
+<span property="foaf:name">Télécom Ecole de Management (France)</span></a>
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/033742316" rel="dcterms:contributor" resource="http://www.idref.fr/033742316/id"><span property="foaf:name">Alain Francois-Heude</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/033742316" rel="dcterms:contributor" resource="http://www.idref.fr/033742316/id"><span property="foaf:name">Alain Francois-Heude</span></a>, 
+<a href="/fr/124830935" rel="dcterms:contributor" resource="http://www.idref.fr/124830935/id"><span property="foaf:name">Ugo Panizza</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/033423725" rel="dcterms:contributor" resource="http://www.idref.fr/033423725/id"><span property="foaf:name">Carole Gresse</span></a>, 
+<a href="/fr/030623553" rel="dcterms:contributor" resource="http://www.idref.fr/030623553/id"><span property="foaf:name">Philippe Raimbourg</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque de crédit">
+<span about="http://www.theses.fr/2014EVRY0027/id" property="dc:subject" xml:lang="fr">Risque de crédit
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Dettes publiques">
+<span about="http://www.theses.fr/2014EVRY0027/id" property="dc:subject" xml:lang="fr">Dettes publiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Cotes de solvabilité">
+<span about="http://www.theses.fr/2014EVRY0027/id" property="dc:subject" xml:lang="fr">Cotes de solvabilité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finances internationales">
+<span about="http://www.theses.fr/2014EVRY0027/id" property="dc:subject" xml:lang="fr">Finances internationales
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">La dette souveraine est un instrument puissant de la politique publique. Avec sa croissance rapide dans les pays développés, d'une part, et le changement fondamental de sa structure dans les pays en développement d'autre part, comprendre les déterminants du risque souverain est devenu un sujet de préoccupation majeur pour les chercheurs et les investisseurs. Cette thèse étudie les aspects du risque de défaut dans les économies avancées et émergentes. La partie théorique présente le risque de défaut souverain. Les principaux résultats montrent que le choix de la devise d'émission représente un aspect important du profil de risque de défaut d'un Etat.Dans la première, une analyse détaillée des défauts souverains en utilisant une nouvelle base de données qui inclut 100 pays observés sur la période 1996-2012 a été conduite. Les résultats montrent que la décision d'un gouvernement de faire défait diffère sensiblement selon la dénomination de la monnaie et du type des détenteurs de la dette publique. La seconde étude a permis d'apporter un nouvel éclairage sur le rating souverain. Elle démontre que les pays dont la dette est en grande partie - ou entièrement - libellée dans leur propre monnaie bénéficient d'un avantage considérable sur les pays qui émettent en devise étrangère. Dans la dernière section empirique, le prix de marché du risque souverain a été exploré. L'étude montre que les facteurs globaux influent sur la rémunération des investisseurs pour la tenue du risque souverain, mais pas le risque lui-même.Les principaux résultats impliquent que toute modélisation du risque de défaut souverain appelle à une distinction entre devise locale et devise étrangère.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Credit risk"name="MotsClesAutre" > <span about="http://www.theses.fr/2014EVRY0027/id" property="dc:subject" xml:lang="en">Credit risk</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Sovereign Risk Assessment : A theorical investigation and empirical evidence</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">Sovereign debt is a powerful instrument of the public policy. With its dramatic increase in the western economies, on the one hand, and the fundamental change of its structure in the emerging markets, on the other, understanding the determinants of the sovereign default risk has became a subject of major concern for both researchers and investors. This dissertation investigates aspects of sovereign default risk in advanced and emerging economies.The theoretical section explores the sovereign default risk. The main results show that the choice of the currency of issue represents an important aspect of the sovereign's risk profile.Three empirical studies have been conducted. In the first, a detailed analysis of the sovereign defaults using a new database which includes 100 countries observed over the period 1966-2012 has been conducted. The results show that sovereigns typically default under different economic and financial conditions depending on the bond's currency denomination and the investor's base.The key contribution of the second research is to assess the importance of the currency of issuance in the rating of sovereign debt. The study demonstrates that countries whose debt is largely - or entirely - denominated in their own currency enjoy a substantial advantage over government issuing debt in foreign currency.The last empirical section explores the market price ofs overeign risk. It arugues that the default probability on sovereign bonds is unrelated to global factors.The main results imply that any sovereign default risk modeling requires a distinction between local currency and foreign currency.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="http://www.biblio.univ-evry.fr/theses/2014/interne/2014EVRY0027.pdf" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+		<div class="option consulter">
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Informations</strong></p>
+ 				<ul>
+ 					<li>Détails :  1 vol. (236 p.)</li>
+ 					<li>Annexes :  Bibliogr. p. 246-260</li>
+ 				</ul>
+ 			</div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Université d&apos;Evry-Val d&apos;Essonne. Service commun de la documentation. Bibliothèque centrale.</li>
+ 					<li> Non disponible pour le PEB</li>
+ 					<li>Cote : 336.3 SOU eva</li>
+ 					<li>Bibliothèque : Université d&apos;Evry-Val d&apos;Essonne. Service commun de la documentation. Bibliothèque électronique.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&TRM=185093981 OR 185168078" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

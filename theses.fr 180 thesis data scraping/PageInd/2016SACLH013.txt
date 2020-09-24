@@ -1,0 +1,851 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Essays in banking and corporate finance"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2016SACLH013"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Cette th&egrave;se se compose de trois chapitres distincts. Le premier chapitre examine le lien de causalit&eacute; entre l&rsquo;offre de pr&ecirc;ts syndiqu&eacute;s par des banques et les contributions de campagnes &eacute;lectorales par des entreprises non-financi&egrave;res aux &Eacute;tats-Unis au cours de la crise financi&egrave;re de 2007&ndash;2008. Les r&eacute;sultats indiquent qu&rsquo;une diminution de 10% de l&rsquo;offre de pr&ecirc;t &agrave; une entreprise donn&eacute;e par ses pr&ecirc;teurs pr&eacute;-crise pendant la premi&egrave;re p&eacute;riode de crise entra&icirc;ne une augmentation de 9% des contributions de campagne par cette entreprise en 2008. De plus, le niveau de contributions de campagne par des entreprises dans le pass&eacute; est positivement associ&eacute; &agrave; des conditions de pr&ecirc;t favorables dans l&rsquo;avenir. Les r&eacute;sultats appuient l&rsquo;id&eacute;e que les contributions de campagne sont un investissement dans le capital politique plut&ocirc;t qu&rsquo;une simple forme de bien de consommation. Le deuxi&egrave;me chapitre identifie l&rsquo;effet d&rsquo;exposition industrielle de banques avant leur entr&eacute;e sur le march&eacute; sur la croissance de production des secteurs de fabrication. Les r&eacute;sultats indiquent que plus grande est la diff&eacute;rence de sp&eacute;cialisation dans un secteur entre deux &eacute;tats, plus grand est l&rsquo;impact d&rsquo;int&eacute;gration bancaire sur la croissance de ce secteur dans l&rsquo;&eacute;tat qui est moins sp&eacute;cialis&eacute;. Le dernier chapitre examine si l&rsquo;int&eacute;gration bancaire dans plusieurs r&eacute;gions a un impact sur le march&eacute; de contr&ocirc;le des entreprises entre elles. Les r&eacute;sultats indiquent qu&rsquo;il y a plus de fusions, acquisitions et cessions dans les paires d&rsquo;&eacute;tats dont les syst&egrave;mes bancaires ont connu une plus grande int&eacute;gration, par rapport &agrave; des paires d&rsquo;&eacute;tats sans une telle int&eacute;gration. Les r&eacute;sultats dans les deux derniers chapitres indiquent un canal bancaire qui fa&ccedil;onne le paysage industriel d&rsquo;&eacute;tats."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2016SACLH013.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Neslihan Dincbas Karakaya , Essays in banking and corporate finance">
+<meta name="description" content="Cette th&egrave;se se compose de trois chapitres distincts. Le premier chapitre examine le lien de causalit&eacute; entre l&rsquo;offre de pr&ecirc;ts syndiqu&eacute;s par des banques et les contributions de campagnes &eacute;lectorales par des entreprises non-financi&egrave;res aux &Eacute;tats-Unis au cours de la crise financi&egrave;re de 2007&ndash;2008. Les r&eacute;sultats indiquent qu&rsquo;une diminution de 10% de l&rsquo;offre de pr&ecirc;t &agrave; une entreprise donn&eacute;e par ses pr&ecirc;teurs pr&eacute;-crise pendant la premi&egrave;re p&eacute;riode de crise entra&icirc;ne une augmentation de 9% des contributions de campagne par cette entreprise en 2008. De plus, le niveau de contributions de campagne par des entreprises dans le pass&eacute; est positivement associ&eacute; &agrave; des conditions de pr&ecirc;t favorables dans l&rsquo;avenir. Les r&eacute;sultats appuient l&rsquo;id&eacute;e que les contributions de campagne sont un investissement dans le capital politique plut&ocirc;t qu&rsquo;une simple forme de bien de consommation. Le deuxi&egrave;me chapitre identifie l&rsquo;effet d&rsquo;exposition industrielle de banques avant leur entr&eacute;e sur le march&eacute; sur la croissance de production des secteurs de fabrication. Les r&eacute;sultats indiquent que plus grande est la diff&eacute;rence de sp&eacute;cialisation dans un secteur entre deux &eacute;tats, plus grand est l&rsquo;impact d&rsquo;int&eacute;gration bancaire sur la croissance de ce secteur dans l&rsquo;&eacute;tat qui est moins sp&eacute;cialis&eacute;. Le dernier chapitre examine si l&rsquo;int&eacute;gration bancaire dans plusieurs r&eacute;gions a un impact sur le march&eacute; de contr&ocirc;le des entreprises entre elles. Les r&eacute;sultats indiquent qu&rsquo;il y a plus de fusions, acquisitions et cessions dans les paires d&rsquo;&eacute;tats dont les syst&egrave;mes bancaires ont connu une plus grande int&eacute;gration, par rapport &agrave; des paires d&rsquo;&eacute;tats sans une telle int&eacute;gration. Les r&eacute;sultats dans les deux derniers chapitres indiquent un canal bancaire qui fa&ccedil;onne le paysage industriel d&rsquo;&eacute;tats." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Relations politiques La crise financi&egrave;re L'int&eacute;gration bancaire Structure de l'industrie " xml:lang="FR" />
+<meta name="description" content="This dissertation is made of three distinct chapters. The first chapter examines the causal link between banks&rsquo; syndicated loan supply and non-financial firms&rsquo; campaign contributions for US elections during the 2007-2008 financial crisis. The results indicate that a 10% decrease in loan supply of a given firm by its pre-crisis relationship lenders during the early crisis period leads to a 9% increase in firm&rsquo;s campaign contributions in 2008. Further, firms&rsquo; level of past campaign contributions is positively associated with favorable loan terms for the future. The findings lend support to the idea that campaign contributions are an investment in political capital rather than merely a form of consumption good. The second chapter identifies the effect of banks&rsquo; industry exposures prior to market-entry on the output growth of manufacturing sectors through US bank-entry deregulations. The findings indicate that the larger the discrepancy in specialization in an industry between a state-pair, the higher the impact of banking integration on the growth of that sector in the state that is less-specialized. The last chapter examines whether banking integration across regions has any impact on the market for corporate control between them. The results show that there are more Mergers and Acquisitions and divestitures across state-pairs whose banking systems have experienced a higher integration, compared to state-pairs with no such integration. The findings in the last two chapters indicate a banking channel that shapes the states&rsquo; industrial landscape." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Political connections Financial crisis Banking integration Industry structure " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Essays in banking and corporate finance">
+<meta name="DC.creator" content="Neslihan Dincbas Karakaya" />
+<meta name="DC.contributor" content="Örs Evren "/>
+<meta name="DC.publisher" content="Universit&eacute; Paris-Saclay (ComUE)" />
+<meta name="DC.description.abstract" content="Cette th&egrave;se se compose de trois chapitres distincts. Le premier chapitre examine le lien de causalit&eacute; entre l&rsquo;offre de pr&ecirc;ts syndiqu&eacute;s par des banques et les contributions de campagnes &eacute;lectorales par des entreprises non-financi&egrave;res aux &Eacute;tats-Unis au cours de la crise financi&egrave;re de 2007&ndash;2008. Les r&eacute;sultats indiquent qu&rsquo;une diminution de 10% de l&rsquo;offre de pr&ecirc;t &agrave; une entreprise donn&eacute;e par ses pr&ecirc;teurs pr&eacute;-crise pendant la premi&egrave;re p&eacute;riode de crise entra&icirc;ne une augmentation de 9% des contributions de campagne par cette entreprise en 2008. De plus, le niveau de contributions de campagne par des entreprises dans le pass&eacute; est positivement associ&eacute; &agrave; des conditions de pr&ecirc;t favorables dans l&rsquo;avenir. Les r&eacute;sultats appuient l&rsquo;id&eacute;e que les contributions de campagne sont un investissement dans le capital politique plut&ocirc;t qu&rsquo;une simple forme de bien de consommation. Le deuxi&egrave;me chapitre identifie l&rsquo;effet d&rsquo;exposition industrielle de banques avant leur entr&eacute;e sur le march&eacute; sur la croissance de production des secteurs de fabrication. Les r&eacute;sultats indiquent que plus grande est la diff&eacute;rence de sp&eacute;cialisation dans un secteur entre deux &eacute;tats, plus grand est l&rsquo;impact d&rsquo;int&eacute;gration bancaire sur la croissance de ce secteur dans l&rsquo;&eacute;tat qui est moins sp&eacute;cialis&eacute;. Le dernier chapitre examine si l&rsquo;int&eacute;gration bancaire dans plusieurs r&eacute;gions a un impact sur le march&eacute; de contr&ocirc;le des entreprises entre elles. Les r&eacute;sultats indiquent qu&rsquo;il y a plus de fusions, acquisitions et cessions dans les paires d&rsquo;&eacute;tats dont les syst&egrave;mes bancaires ont connu une plus grande int&eacute;gration, par rapport &agrave; des paires d&rsquo;&eacute;tats sans une telle int&eacute;gration. Les r&eacute;sultats dans les deux derniers chapitres indiquent un canal bancaire qui fa&ccedil;onne le paysage industriel d&rsquo;&eacute;tats." xml:lang="FR"/>
+<meta name="DC.subject" content="Relations politiques La crise financi&egrave;re L'int&eacute;gration bancaire Structure de l'industrie  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="This dissertation is made of three distinct chapters. The first chapter examines the causal link between banks&rsquo; syndicated loan supply and non-financial firms&rsquo; campaign contributions for US elections during the 2007-2008 financial crisis. The results indicate that a 10% decrease in loan supply of a given firm by its pre-crisis relationship lenders during the early crisis period leads to a 9% increase in firm&rsquo;s campaign contributions in 2008. Further, firms&rsquo; level of past campaign contributions is positively associated with favorable loan terms for the future. The findings lend support to the idea that campaign contributions are an investment in political capital rather than merely a form of consumption good. The second chapter identifies the effect of banks&rsquo; industry exposures prior to market-entry on the output growth of manufacturing sectors through US bank-entry deregulations. The findings indicate that the larger the discrepancy in specialization in an industry between a state-pair, the higher the impact of banking integration on the growth of that sector in the state that is less-specialized. The last chapter examines whether banking integration across regions has any impact on the market for corporate control between them. The results show that there are more Mergers and Acquisitions and divestitures across state-pairs whose banking systems have experienced a higher integration, compared to state-pairs with no such integration. The findings in the last two chapters indicate a banking channel that shapes the states&rsquo; industrial landscape." xml:lang="EN"/>
+<meta name="DC.subject" content="Political connections Financial crisis Banking integration Industry structure " xml:lang="EN"/>
+<meta name="DC.date" content="2016-12-15" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2016SACLH013" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2016SACLH013"/>
+<title> theses.fr – Neslihan Dincbas Karakaya , Essays in banking and corporate finance</title>
+<meta name="citation_title" content="Essays in banking and corporate finance" />
+<meta name="citation_author" content="Dincbas Karakaya, Neslihan" />
+<meta name="citation_publication_date" content="2016/12/15" />
+<meta name="citation_dissertation_institution" content="Universit&eacute; Paris-Saclay (ComUE)" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2016SACLH013.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2016SACLH013&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2016SACLH013" title="Français" class="lang_fr current"></a>
+        <a href="/en/2016SACLH013"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2016SACLH013&lng=fr&ppn_origine=188120777&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2016SACLH013.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2016SACLH013.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2016SACLH013.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2016SACLH013/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Essays in banking and corporate finance</h1>
+    <h2>par  <a href="200272055" rel="dcterms:creator" resource="http://www.idref.fr/200272055/id"><span property="foaf:name">Neslihan Dincbas Karakaya</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences de gestion</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="200271938" rel="dcterms:contributor" resource="http://www.idref.fr/200271938/id"><span property="foaf:name">Evren Örs</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=15-12-2016 datatype="xsd:date">15-12-2016</span></p>
+      <p>à l'<a href="188120777" rel="dcterms:contributor" resource="http://www.idref.fr/188120777/id"><span property="foaf:name">Université Paris-Saclay (ComUE)</span></a>
+, dans le cadre de  <a href="188168567" rel="dcterms:contributor" resource="http://www.idref.fr/188168567/id">
+<span property="foaf:name">École doctorale Sciences de l'Homme et de la Société (Sceaux, Hauts-de-Seine ; 2015-....)</span></a>
+, en partenariat avec <a href="084162813" rel="dcterms:contributor" resource="http://www.idref.fr/084162813/id">
+<span property="foaf:name">Groupement d'études et de recherche en gestion à HEC (Jouy-en-Josas, Yvelines)</span></a>
+  (laboratoire) 
+, <a href="027321118" rel="dcterms:contributor" resource="http://www.idref.fr/027321118/id">
+<span property="foaf:name">École des hautes études commerciales (Jouy-en-Josas, Yvelines)</span></a>
+  (établissement opérateur d'inscription) 
+ et de Groupement de Recherche et d'Etudes en Gestion à HEC / GREGH
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/140789758" rel="dcterms:contributor" resource="http://www.idref.fr/140789758/id"><span property="foaf:name">Tomasz Kamil Michalski</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/059211458" rel="dcterms:contributor" resource="http://www.idref.fr/059211458/id"><span property="foaf:name">Jérôme Héricourt</span></a>, 
+<a href="/fr/200271873" rel="dcterms:contributor" resource="http://www.idref.fr/200271873/id"><span property="foaf:name">José Miguel Gaspar</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Relations politiques">
+<span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="fr">Relations politiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:La crise financière">
+<span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="fr">La crise financière
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:L'intégration bancaire">
+<span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="fr">L'intégration bancaire
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Structure de l'industrie">
+<span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="fr">Structure de l'industrie
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="fr">Essais dans le secteur bancaire et finance d'entreprise</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Cette thèse se compose de trois chapitres distincts. Le premier chapitre examine le lien de causalité entre l’offre de prêts syndiqués par des banques et les contributions de campagnes électorales par des entreprises non-financières aux États-Unis au cours de la crise financière de 2007–2008. Les résultats indiquent qu’une diminution de 10% de l’offre de prêt à une entreprise donnée par ses prêteurs pré-crise pendant la première période de crise entraîne une augmentation de 9% des contributions de campagne par cette entreprise en 2008. De plus, le niveau de contributions de campagne par des entreprises dans le passé est positivement associé à des conditions de prêt favorables dans l’avenir. Les résultats appuient l’idée que les contributions de campagne sont un investissement dans le capital politique plutôt qu’une simple forme de bien de consommation. Le deuxième chapitre identifie l’effet d’exposition industrielle de banques avant leur entrée sur le marché sur la croissance de production des secteurs de fabrication. Les résultats indiquent que plus grande est la différence de spécialisation dans un secteur entre deux états, plus grand est l’impact d’intégration bancaire sur la croissance de ce secteur dans l’état qui est moins spécialisé. Le dernier chapitre examine si l’intégration bancaire dans plusieurs régions a un impact sur le marché de contrôle des entreprises entre elles. Les résultats indiquent qu’il y a plus de fusions, acquisitions et cessions dans les paires d’états dont les systèmes bancaires ont connu une plus grande intégration, par rapport à des paires d’états sans une telle intégration. Les résultats dans les deux derniers chapitres indiquent un canal bancaire qui façonne le paysage industriel d’états.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Political connections"name="MotsClesAutre" > <span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="en">Political connections</span></a></li>
+          <li><a href="/fr?q=*:Financial crisis"name="MotsClesAutre" > <span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="en">Financial crisis</span></a></li>
+          <li><a href="/fr?q=*:Banking integration"name="MotsClesAutre" > <span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="en">Banking integration</span></a></li>
+          <li><a href="/fr?q=*:Industry structure"name="MotsClesAutre" > <span about="http://www.theses.fr/2016SACLH013/id" property="dc:subject" xml:lang="en">Industry structure</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">This dissertation is made of three distinct chapters. The first chapter examines the causal link between banks’ syndicated loan supply and non-financial firms’ campaign contributions for US elections during the 2007-2008 financial crisis. The results indicate that a 10% decrease in loan supply of a given firm by its pre-crisis relationship lenders during the early crisis period leads to a 9% increase in firm’s campaign contributions in 2008. Further, firms’ level of past campaign contributions is positively associated with favorable loan terms for the future. The findings lend support to the idea that campaign contributions are an investment in political capital rather than merely a form of consumption good. The second chapter identifies the effect of banks’ industry exposures prior to market-entry on the output growth of manufacturing sectors through US bank-entry deregulations. The findings indicate that the larger the discrepancy in specialization in an industry between a state-pair, the higher the impact of banking integration on the growth of that sector in the state that is less-specialized. The last chapter examines whether banking integration across regions has any impact on the market for corporate control between them. The results show that there are more Mergers and Acquisitions and divestitures across state-pairs whose banking systems have experienced a higher integration, compared to state-pairs with no such integration. The findings in the last two chapters indicate a banking channel that shapes the states’ industrial landscape.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2016SACLH013/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Ecole des hautes études commerciales. Centre de documentation.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/200276239" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

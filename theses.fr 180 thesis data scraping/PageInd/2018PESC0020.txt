@@ -1,0 +1,865 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Essays on peer effects in corporate finance"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2018PESC0020"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="L&rsquo;objectif de cette th&egrave;se est d&rsquo;&eacute;tudier les effets de pairs en finance d&rsquo;entreprise. Trois essais portant sur les entreprises am&eacute;ricaines sont propos&eacute;s. La th&egrave;se est organis&eacute;e en quatre chapitres. Le premier chapitre pr&eacute;sente une revue de la litt&eacute;rature financi&egrave;re des th&eacute;ories et des mod&egrave;les qui motivent les effets de pairs et le comportement de conformit&eacute;. Plus pr&eacute;cis&eacute;ment, nous d&eacute;finissons les effets de pairs et nous proposons une synth&egrave;se des &eacute;tudes th&eacute;oriques et empiriques identifiant les effets de pairs et leurs implications sur la psychologie humaine. Ensuite, nous r&eacute;sumons les th&eacute;ories les plus critiques dans la litt&eacute;rature financi&egrave;re qui se sont int&eacute;ress&eacute;es &agrave; l'impact du comportement des pairs sur les politiques financi&egrave;res de l'entreprise. Enfin, nous discutons les principales questions que pose la mesure des effets de pairs. Nous soulignons en conclusion de ce chapitre l&rsquo;int&eacute;r&ecirc;t de ce sujet et nous pr&eacute;sentons les axes d&rsquo;orientation des recherches futures. Dans les chapitres suivants, nous examinons empiriquement ces effets de pairs dans trois domaines, non encore explor&eacute;s, dans le contexte du march&eacute; am&eacute;ricain. Il s'agit notamment de la &laquo; mauvaise conduite &raquo; des entreprises, du &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s et de l&rsquo;investissement en recherche et d&eacute;veloppement.Le deuxi&egrave;me chapitre &eacute;tudie la pr&eacute;sence ou non d&rsquo;un effet de pairs dans l&rsquo;explication du comportement frauduleux des entreprises. En utilisant un &eacute;chantillon de 3 034 entreprises am&eacute;ricaines et couvrant la p&eacute;riode de 1999 &agrave; 2014, nous montrons que les entreprises dont le si&egrave;ge social se situe dans les zones ayant le taux de fraude des &laquo; cols blancs &raquo; le plus &eacute;lev&eacute;, ont une plus grande probabilit&eacute; d&rsquo;avoir un comportement frauduleux. Ce r&eacute;sultat sugg&egrave;re que l'interaction sociale au niveau r&eacute;gional encourage les entreprises &agrave; adopter une mauvaise conduite. Des tests compl&eacute;mentaires montrent que ces effets de pairs pr&eacute;valent dans le cas des entreprises en difficult&eacute; alors que nous ne trouvons pas les m&ecirc;mes r&eacute;sultats pour les entreprises en bonne situation financi&egrave;re. Nous constatons &eacute;galement que ces effets de pairs sont principalement pr&eacute;sents dans les r&eacute;gions o&ugrave; le taux de criminalit&eacute; est &eacute;lev&eacute;, ce qui laisse supposer que les niveaux &eacute;lev&eacute;s de criminalit&eacute; locale sont susceptibles de favoriser une culture de la fraude dans ces domaines.Le troisi&egrave;me chapitre explore les effets de pairs dans les politiques de &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s de l'entreprise. Nous montrons que les entreprises de pairs jouent un r&ocirc;le important dans la d&eacute;finition des politiques de bien-&ecirc;tre des employ&eacute;s d'une entreprise. En utilisant les donn&eacute;es d&rsquo;un &eacute;chantillon am&eacute;ricain de 9 062 observations ann&eacute;e/entreprise couvrant la p&eacute;riode de 1996 &agrave; 2013, nous constatons que les d&eacute;cisions de l'entreprise sur le bien-&ecirc;tre des employ&eacute;s sont principalement des r&eacute;ponses aux politiques  sociales de leurs pairs. En outre, nos r&eacute;sultats montrent que ce comportement est r&eacute;pandu chez les suiveurs, qui adoptent le comportement des &laquo; leaders &raquo;, mais nous ne trouvons pas ce genre de comportement de la part des entreprises &laquo; leaders &raquo; du secteur d&rsquo;activit&eacute;.Le quatri&egrave;me et dernier chapitre de la th&egrave;se &eacute;tudie les effets de pairs dans la politique de recherche et d&eacute;veloppement (R&amp;D) des entreprises. Nous montrons que les entreprises ne d&eacute;cident pas de leurs politiques en R&amp;D d&rsquo;une mani&egrave;re isol&eacute;e puisque les entreprises pairs jouent un r&ocirc;le essentiel dans la d&eacute;finition de ces derni&egrave;res. En utilisant des donn&eacute;es am&eacute;ricaines pour un &eacute;chantillon large de 54 393 observations entreprise/ann&eacute;e sur la p&eacute;riode de 1991 &agrave; 2015, nous constatons que les d&eacute;cisions R&amp;D de l'entreprise sont principalement des r&eacute;ponses aux politiques R&amp;D de leurs pairs. De plus, nous constatons que les effets de pairs en R&amp;D ne sont significatifs qu'en pr&eacute;sence d'une forte concurrence sur le march&eacute; des produits, alors que ces r&eacute;sultats ne sont pas v&eacute;rifi&eacute;s sur les march&eacute;s &agrave; faible concurrence."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2018PESC0020.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Asad Ali Rind , Essays on peer effects in corporate finance">
+<meta name="description" content="L&rsquo;objectif de cette th&egrave;se est d&rsquo;&eacute;tudier les effets de pairs en finance d&rsquo;entreprise. Trois essais portant sur les entreprises am&eacute;ricaines sont propos&eacute;s. La th&egrave;se est organis&eacute;e en quatre chapitres. Le premier chapitre pr&eacute;sente une revue de la litt&eacute;rature financi&egrave;re des th&eacute;ories et des mod&egrave;les qui motivent les effets de pairs et le comportement de conformit&eacute;. Plus pr&eacute;cis&eacute;ment, nous d&eacute;finissons les effets de pairs et nous proposons une synth&egrave;se des &eacute;tudes th&eacute;oriques et empiriques identifiant les effets de pairs et leurs implications sur la psychologie humaine. Ensuite, nous r&eacute;sumons les th&eacute;ories les plus critiques dans la litt&eacute;rature financi&egrave;re qui se sont int&eacute;ress&eacute;es &agrave; l'impact du comportement des pairs sur les politiques financi&egrave;res de l'entreprise. Enfin, nous discutons les principales questions que pose la mesure des effets de pairs. Nous soulignons en conclusion de ce chapitre l&rsquo;int&eacute;r&ecirc;t de ce sujet et nous pr&eacute;sentons les axes d&rsquo;orientation des recherches futures. Dans les chapitres suivants, nous examinons empiriquement ces effets de pairs dans trois domaines, non encore explor&eacute;s, dans le contexte du march&eacute; am&eacute;ricain. Il s'agit notamment de la &laquo; mauvaise conduite &raquo; des entreprises, du &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s et de l&rsquo;investissement en recherche et d&eacute;veloppement.Le deuxi&egrave;me chapitre &eacute;tudie la pr&eacute;sence ou non d&rsquo;un effet de pairs dans l&rsquo;explication du comportement frauduleux des entreprises. En utilisant un &eacute;chantillon de 3 034 entreprises am&eacute;ricaines et couvrant la p&eacute;riode de 1999 &agrave; 2014, nous montrons que les entreprises dont le si&egrave;ge social se situe dans les zones ayant le taux de fraude des &laquo; cols blancs &raquo; le plus &eacute;lev&eacute;, ont une plus grande probabilit&eacute; d&rsquo;avoir un comportement frauduleux. Ce r&eacute;sultat sugg&egrave;re que l'interaction sociale au niveau r&eacute;gional encourage les entreprises &agrave; adopter une mauvaise conduite. Des tests compl&eacute;mentaires montrent que ces effets de pairs pr&eacute;valent dans le cas des entreprises en difficult&eacute; alors que nous ne trouvons pas les m&ecirc;mes r&eacute;sultats pour les entreprises en bonne situation financi&egrave;re. Nous constatons &eacute;galement que ces effets de pairs sont principalement pr&eacute;sents dans les r&eacute;gions o&ugrave; le taux de criminalit&eacute; est &eacute;lev&eacute;, ce qui laisse supposer que les niveaux &eacute;lev&eacute;s de criminalit&eacute; locale sont susceptibles de favoriser une culture de la fraude dans ces domaines.Le troisi&egrave;me chapitre explore les effets de pairs dans les politiques de &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s de l'entreprise. Nous montrons que les entreprises de pairs jouent un r&ocirc;le important dans la d&eacute;finition des politiques de bien-&ecirc;tre des employ&eacute;s d'une entreprise. En utilisant les donn&eacute;es d&rsquo;un &eacute;chantillon am&eacute;ricain de 9 062 observations ann&eacute;e/entreprise couvrant la p&eacute;riode de 1996 &agrave; 2013, nous constatons que les d&eacute;cisions de l'entreprise sur le bien-&ecirc;tre des employ&eacute;s sont principalement des r&eacute;ponses aux politiques  sociales de leurs pairs. En outre, nos r&eacute;sultats montrent que ce comportement est r&eacute;pandu chez les suiveurs, qui adoptent le comportement des &laquo; leaders &raquo;, mais nous ne trouvons pas ce genre de comportement de la part des entreprises &laquo; leaders &raquo; du secteur d&rsquo;activit&eacute;.Le quatri&egrave;me et dernier chapitre de la th&egrave;se &eacute;tudie les effets de pairs dans la politique de recherche et d&eacute;veloppement (R&amp;D) des entreprises. Nous montrons que les entreprises ne d&eacute;cident pas de leurs politiques en R&amp;D d&rsquo;une mani&egrave;re isol&eacute;e puisque les entreprises pairs jouent un r&ocirc;le essentiel dans la d&eacute;finition de ces derni&egrave;res. En utilisant des donn&eacute;es am&eacute;ricaines pour un &eacute;chantillon large de 54 393 observations entreprise/ann&eacute;e sur la p&eacute;riode de 1991 &agrave; 2015, nous constatons que les d&eacute;cisions R&amp;D de l'entreprise sont principalement des r&eacute;ponses aux politiques R&amp;D de leurs pairs. De plus, nous constatons que les effets de pairs en R&amp;D ne sont significatifs qu'en pr&eacute;sence d'une forte concurrence sur le march&eacute; des produits, alors que ces r&eacute;sultats ne sont pas v&eacute;rifi&eacute;s sur les march&eacute;s &agrave; faible concurrence." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Les effets de pairs Finance Enterprise Fraude financi&egrave;re Le bien-&Ecirc;tre des employ&eacute;s Recherche et d&eacute;veloppement " xml:lang="FR" />
+<meta name="description" content="This thesis explores the peer effects in corporate finance. The first chapter provides a review of literature on the theories and models that motivate peer effects and conformity behavior. Specifically, we emphasize on what precisely is meant by peer effects, how existing studies in the literature identify peer effects and its implications on human behavior. Next, we summarize the most critical theories in finance literature that encourage peer effects and the impact of peer behavior on firm financial policies. Last but not least, we discuss the main challenges in measuring peer effects and conclude the chapter by highlighting potential areas of future work in this field. The next chapters empirically examine these peer effects in three important, yet not explored areas of finance in the context of the US market. These include corporate misbehavior, employee welfare, and, research and development.The second chapter examines the presence of peer effects in corporate misbehavior. Using a sample of 3,034 US-listed firms covering 1999‒2014, we show that firms headquartered in areas with the higher white-collar fraud have a higher probability of corporate misbehavior, suggesting that area level social interaction encourages corporate misconduct. Additional analyses show that these peer effects prevail in distressed firms while we do not find such evidence for non-distressed firms. We also find that these peer effects are mainly present in areas with a high crime rate, suggesting that the high levels of local criminality are likely to favor a culture of fraud in these areas.The third chapter explores the peer effects in the firm&rsquo;s employee welfare policies. We show that peer firms play a significant role in defining employee welfare policies of a firm. Using US panel data for a sample of 9,062 firm-year observations from 1996 to 2013, we find that firm&rsquo;s employee welfare decisions are responses to their peers&rsquo; employee welfare policies. This impact is much higher than any other peer characteristics. Moreover, our additional analysis shows that this behavior is prevalent in followers, who mimic the behavior of leaders but we do not find any such relationship for industry leaders.The fourth and last chapter of the thesis empirically investigates firm peer effects in research and development (R&amp;D) policies. We show that firms do not make their R&amp;D decisions in isolation and peer firms play an essential role in defining the R&amp;D intensity of a given firm. Using US panel data for a sample of 54,393 firm-year observations from 1991 to 2015, we find that firm&rsquo;s R&amp;D decisions are responses to their peers&rsquo; R&amp;D policies. Further, we find that R&amp;D peer effects are significant only in the presence of strong product market competition, while these results do not hold for markets with lower product market competition." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Peer effects Corporate Finance Financial Fraud Employee Welfare Research and development " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Essays on peer effects in corporate finance">
+<meta name="DC.creator" content="Asad Ali Rind" />
+<meta name="DC.contributor" content="Boubaker Sabri Lajili Jarjir Souad "/>
+<meta name="DC.publisher" content="Paris Est" />
+<meta name="DC.description.abstract" content="L&rsquo;objectif de cette th&egrave;se est d&rsquo;&eacute;tudier les effets de pairs en finance d&rsquo;entreprise. Trois essais portant sur les entreprises am&eacute;ricaines sont propos&eacute;s. La th&egrave;se est organis&eacute;e en quatre chapitres. Le premier chapitre pr&eacute;sente une revue de la litt&eacute;rature financi&egrave;re des th&eacute;ories et des mod&egrave;les qui motivent les effets de pairs et le comportement de conformit&eacute;. Plus pr&eacute;cis&eacute;ment, nous d&eacute;finissons les effets de pairs et nous proposons une synth&egrave;se des &eacute;tudes th&eacute;oriques et empiriques identifiant les effets de pairs et leurs implications sur la psychologie humaine. Ensuite, nous r&eacute;sumons les th&eacute;ories les plus critiques dans la litt&eacute;rature financi&egrave;re qui se sont int&eacute;ress&eacute;es &agrave; l'impact du comportement des pairs sur les politiques financi&egrave;res de l'entreprise. Enfin, nous discutons les principales questions que pose la mesure des effets de pairs. Nous soulignons en conclusion de ce chapitre l&rsquo;int&eacute;r&ecirc;t de ce sujet et nous pr&eacute;sentons les axes d&rsquo;orientation des recherches futures. Dans les chapitres suivants, nous examinons empiriquement ces effets de pairs dans trois domaines, non encore explor&eacute;s, dans le contexte du march&eacute; am&eacute;ricain. Il s'agit notamment de la &laquo; mauvaise conduite &raquo; des entreprises, du &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s et de l&rsquo;investissement en recherche et d&eacute;veloppement.Le deuxi&egrave;me chapitre &eacute;tudie la pr&eacute;sence ou non d&rsquo;un effet de pairs dans l&rsquo;explication du comportement frauduleux des entreprises. En utilisant un &eacute;chantillon de 3 034 entreprises am&eacute;ricaines et couvrant la p&eacute;riode de 1999 &agrave; 2014, nous montrons que les entreprises dont le si&egrave;ge social se situe dans les zones ayant le taux de fraude des &laquo; cols blancs &raquo; le plus &eacute;lev&eacute;, ont une plus grande probabilit&eacute; d&rsquo;avoir un comportement frauduleux. Ce r&eacute;sultat sugg&egrave;re que l'interaction sociale au niveau r&eacute;gional encourage les entreprises &agrave; adopter une mauvaise conduite. Des tests compl&eacute;mentaires montrent que ces effets de pairs pr&eacute;valent dans le cas des entreprises en difficult&eacute; alors que nous ne trouvons pas les m&ecirc;mes r&eacute;sultats pour les entreprises en bonne situation financi&egrave;re. Nous constatons &eacute;galement que ces effets de pairs sont principalement pr&eacute;sents dans les r&eacute;gions o&ugrave; le taux de criminalit&eacute; est &eacute;lev&eacute;, ce qui laisse supposer que les niveaux &eacute;lev&eacute;s de criminalit&eacute; locale sont susceptibles de favoriser une culture de la fraude dans ces domaines.Le troisi&egrave;me chapitre explore les effets de pairs dans les politiques de &laquo; bien-&ecirc;tre &raquo; des employ&eacute;s de l'entreprise. Nous montrons que les entreprises de pairs jouent un r&ocirc;le important dans la d&eacute;finition des politiques de bien-&ecirc;tre des employ&eacute;s d'une entreprise. En utilisant les donn&eacute;es d&rsquo;un &eacute;chantillon am&eacute;ricain de 9 062 observations ann&eacute;e/entreprise couvrant la p&eacute;riode de 1996 &agrave; 2013, nous constatons que les d&eacute;cisions de l'entreprise sur le bien-&ecirc;tre des employ&eacute;s sont principalement des r&eacute;ponses aux politiques  sociales de leurs pairs. En outre, nos r&eacute;sultats montrent que ce comportement est r&eacute;pandu chez les suiveurs, qui adoptent le comportement des &laquo; leaders &raquo;, mais nous ne trouvons pas ce genre de comportement de la part des entreprises &laquo; leaders &raquo; du secteur d&rsquo;activit&eacute;.Le quatri&egrave;me et dernier chapitre de la th&egrave;se &eacute;tudie les effets de pairs dans la politique de recherche et d&eacute;veloppement (R&amp;D) des entreprises. Nous montrons que les entreprises ne d&eacute;cident pas de leurs politiques en R&amp;D d&rsquo;une mani&egrave;re isol&eacute;e puisque les entreprises pairs jouent un r&ocirc;le essentiel dans la d&eacute;finition de ces derni&egrave;res. En utilisant des donn&eacute;es am&eacute;ricaines pour un &eacute;chantillon large de 54 393 observations entreprise/ann&eacute;e sur la p&eacute;riode de 1991 &agrave; 2015, nous constatons que les d&eacute;cisions R&amp;D de l'entreprise sont principalement des r&eacute;ponses aux politiques R&amp;D de leurs pairs. De plus, nous constatons que les effets de pairs en R&amp;D ne sont significatifs qu'en pr&eacute;sence d'une forte concurrence sur le march&eacute; des produits, alors que ces r&eacute;sultats ne sont pas v&eacute;rifi&eacute;s sur les march&eacute;s &agrave; faible concurrence." xml:lang="FR"/>
+<meta name="DC.subject" content="Les effets de pairs Finance Enterprise Fraude financi&egrave;re Le bien-&Ecirc;tre des employ&eacute;s Recherche et d&eacute;veloppement  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="This thesis explores the peer effects in corporate finance. The first chapter provides a review of literature on the theories and models that motivate peer effects and conformity behavior. Specifically, we emphasize on what precisely is meant by peer effects, how existing studies in the literature identify peer effects and its implications on human behavior. Next, we summarize the most critical theories in finance literature that encourage peer effects and the impact of peer behavior on firm financial policies. Last but not least, we discuss the main challenges in measuring peer effects and conclude the chapter by highlighting potential areas of future work in this field. The next chapters empirically examine these peer effects in three important, yet not explored areas of finance in the context of the US market. These include corporate misbehavior, employee welfare, and, research and development.The second chapter examines the presence of peer effects in corporate misbehavior. Using a sample of 3,034 US-listed firms covering 1999‒2014, we show that firms headquartered in areas with the higher white-collar fraud have a higher probability of corporate misbehavior, suggesting that area level social interaction encourages corporate misconduct. Additional analyses show that these peer effects prevail in distressed firms while we do not find such evidence for non-distressed firms. We also find that these peer effects are mainly present in areas with a high crime rate, suggesting that the high levels of local criminality are likely to favor a culture of fraud in these areas.The third chapter explores the peer effects in the firm&rsquo;s employee welfare policies. We show that peer firms play a significant role in defining employee welfare policies of a firm. Using US panel data for a sample of 9,062 firm-year observations from 1996 to 2013, we find that firm&rsquo;s employee welfare decisions are responses to their peers&rsquo; employee welfare policies. This impact is much higher than any other peer characteristics. Moreover, our additional analysis shows that this behavior is prevalent in followers, who mimic the behavior of leaders but we do not find any such relationship for industry leaders.The fourth and last chapter of the thesis empirically investigates firm peer effects in research and development (R&amp;D) policies. We show that firms do not make their R&amp;D decisions in isolation and peer firms play an essential role in defining the R&amp;D intensity of a given firm. Using US panel data for a sample of 54,393 firm-year observations from 1991 to 2015, we find that firm&rsquo;s R&amp;D decisions are responses to their peers&rsquo; R&amp;D policies. Further, we find that R&amp;D peer effects are significant only in the presence of strong product market competition, while these results do not hold for markets with lower product market competition." xml:lang="EN"/>
+<meta name="DC.subject" content="Peer effects Corporate Finance Financial Fraud Employee Welfare Research and development " xml:lang="EN"/>
+<meta name="DC.date" content="2018-12-21" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2018PESC0020" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2018PESC0020"/>
+<title> theses.fr – Asad Ali Rind , Essays on peer effects in corporate finance</title>
+<meta name="citation_title" content="Essays on peer effects in corporate finance" />
+<meta name="citation_author" content="Rind, Asad Ali" />
+<meta name="citation_publication_date" content="2018/12/21" />
+<meta name="citation_dissertation_institution" content="Paris Est" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2018PESC0020&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2018PESC0020" title="Français" class="lang_fr current"></a>
+        <a href="/en/2018PESC0020"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2018PESC0020&lng=fr&ppn_origine=190456396&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2018PESC0020.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2018PESC0020.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2018PESC0020.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2018PESC0020/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Essays on peer effects in corporate finance</h1>
+    <h2>par  <a href="236355759" rel="dcterms:creator" resource="http://www.idref.fr/236355759/id"><span property="foaf:name">Asad Ali Rind</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences de Gestion</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="098838849" rel="dcterms:contributor" resource="http://www.idref.fr/098838849/id"><span property="foaf:name">Sabri Boubaker</span></a> et de 
+<a href="076472574" rel="dcterms:contributor" resource="http://www.idref.fr/076472574/id"><span property="foaf:name">Souad Lajili Jarjir</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=21-12-2018 datatype="xsd:date">21-12-2018</span></p>
+      <p>à <a href="190456396" rel="dcterms:contributor" resource="http://www.idref.fr/190456396/id"><span property="foaf:name">Paris Est</span></a>
+, dans le cadre de  <a href="190851031" rel="dcterms:contributor" resource="http://www.idref.fr/190851031/id">
+<span property="foaf:name">OMI - Organisations, Marchés, Institutions</span></a>
+, en partenariat avec <a href="086144383" rel="dcterms:contributor" resource="http://www.idref.fr/086144383/id">
+<span property="foaf:name">Institut de recherche en gestion (Créteil)</span></a>
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/070720215" rel="dcterms:contributor" resource="http://www.idref.fr/070720215/id"><span property="foaf:name">Loredana Ureche-Rangau</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/098838849" rel="dcterms:contributor" resource="http://www.idref.fr/098838849/id"><span property="foaf:name">Sabri Boubaker</span></a>, 
+<a href="/fr/076472574" rel="dcterms:contributor" resource="http://www.idref.fr/076472574/id"><span property="foaf:name">Souad Lajili Jarjir</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/119051125" rel="dcterms:contributor" resource="http://www.idref.fr/119051125/id"><span property="foaf:name">Nicolas Aubert</span></a>, 
+<a href="/fr/052298086" rel="dcterms:contributor" resource="http://www.idref.fr/052298086/id"><span property="foaf:name">Jean-François Gajewski</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Les effets de pairs">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Les effets de pairs
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance Enterprise">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Finance Enterprise
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Fraude financière">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Fraude financière
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Le bien-Être des employés">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Le bien-Être des employés
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Recherche et développement">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Recherche et développement
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Entreprises Finances Thèses et écrits académiques">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Entreprises -- Finances -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Pression des pairs Thèses et écrits académiques">
+<span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="fr">Pression des pairs -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="fr">Essais sur les effets de pairs dans la finance d'entreprise</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">L’objectif de cette thèse est d’étudier les effets de pairs en finance d’entreprise. Trois essais portant sur les entreprises américaines sont proposés. La thèse est organisée en quatre chapitres. Le premier chapitre présente une revue de la littérature financière des théories et des modèles qui motivent les effets de pairs et le comportement de conformité. Plus précisément, nous définissons les effets de pairs et nous proposons une synthèse des études théoriques et empiriques identifiant les effets de pairs et leurs implications sur la psychologie humaine. Ensuite, nous résumons les théories les plus critiques dans la littérature financière qui se sont intéressées à l'impact du comportement des pairs sur les politiques financières de l'entreprise. Enfin, nous discutons les principales questions que pose la mesure des effets de pairs. Nous soulignons en conclusion de ce chapitre l’intérêt de ce sujet et nous présentons les axes d’orientation des recherches futures. Dans les chapitres suivants, nous examinons empiriquement ces effets de pairs dans trois domaines, non encore explorés, dans le contexte du marché américain. Il s'agit notamment de la « mauvaise conduite » des entreprises, du « bien-être » des employés et de l’investissement en recherche et développement.Le deuxième chapitre étudie la présence ou non d’un effet de pairs dans l’explication du comportement frauduleux des entreprises. En utilisant un échantillon de 3 034 entreprises américaines et couvrant la période de 1999 à 2014, nous montrons que les entreprises dont le siège social se situe dans les zones ayant le taux de fraude des « cols blancs » le plus élevé, ont une plus grande probabilité d’avoir un comportement frauduleux. Ce résultat suggère que l'interaction sociale au niveau régional encourage les entreprises à adopter une mauvaise conduite. Des tests complémentaires montrent que ces effets de pairs prévalent dans le cas des entreprises en difficulté alors que nous ne trouvons pas les mêmes résultats pour les entreprises en bonne situation financière. Nous constatons également que ces effets de pairs sont principalement présents dans les régions où le taux de criminalité est élevé, ce qui laisse supposer que les niveaux élevés de criminalité locale sont susceptibles de favoriser une culture de la fraude dans ces domaines.Le troisième chapitre explore les effets de pairs dans les politiques de « bien-être » des employés de l'entreprise. Nous montrons que les entreprises de pairs jouent un rôle important dans la définition des politiques de bien-être des employés d'une entreprise. En utilisant les données d’un échantillon américain de 9 062 observations année/entreprise couvrant la période de 1996 à 2013, nous constatons que les décisions de l'entreprise sur le bien-être des employés sont principalement des réponses aux politiques  sociales de leurs pairs. En outre, nos résultats montrent que ce comportement est répandu chez les suiveurs, qui adoptent le comportement des « leaders », mais nous ne trouvons pas ce genre de comportement de la part des entreprises « leaders » du secteur d’activité.Le quatrième et dernier chapitre de la thèse étudie les effets de pairs dans la politique de recherche et développement (R&D) des entreprises. Nous montrons que les entreprises ne décident pas de leurs politiques en R&D d’une manière isolée puisque les entreprises pairs jouent un rôle essentiel dans la définition de ces dernières. En utilisant des données américaines pour un échantillon large de 54 393 observations entreprise/année sur la période de 1991 à 2015, nous constatons que les décisions R&D de l'entreprise sont principalement des réponses aux politiques R&D de leurs pairs. De plus, nous constatons que les effets de pairs en R&D ne sont significatifs qu'en présence d'une forte concurrence sur le marché des produits, alors que ces résultats ne sont pas vérifiés sur les marchés à faible concurrence.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Peer effects"name="MotsClesAutre" > <span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="en">Peer effects</span></a></li>
+          <li><a href="/fr?q=*:Corporate Finance"name="MotsClesAutre" > <span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="en">Corporate Finance</span></a></li>
+          <li><a href="/fr?q=*:Financial Fraud"name="MotsClesAutre" > <span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="en">Financial Fraud</span></a></li>
+          <li><a href="/fr?q=*:Employee Welfare"name="MotsClesAutre" > <span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="en">Employee Welfare</span></a></li>
+          <li><a href="/fr?q=*:Research and development"name="MotsClesAutre" > <span about="http://www.theses.fr/2018PESC0020/id" property="dc:subject" xml:lang="en">Research and development</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">This thesis explores the peer effects in corporate finance. The first chapter provides a review of literature on the theories and models that motivate peer effects and conformity behavior. Specifically, we emphasize on what precisely is meant by peer effects, how existing studies in the literature identify peer effects and its implications on human behavior. Next, we summarize the most critical theories in finance literature that encourage peer effects and the impact of peer behavior on firm financial policies. Last but not least, we discuss the main challenges in measuring peer effects and conclude the chapter by highlighting potential areas of future work in this field. The next chapters empirically examine these peer effects in three important, yet not explored areas of finance in the context of the US market. These include corporate misbehavior, employee welfare, and, research and development.The second chapter examines the presence of peer effects in corporate misbehavior. Using a sample of 3,034 US-listed firms covering 1999‒2014, we show that firms headquartered in areas with the higher white-collar fraud have a higher probability of corporate misbehavior, suggesting that area level social interaction encourages corporate misconduct. Additional analyses show that these peer effects prevail in distressed firms while we do not find such evidence for non-distressed firms. We also find that these peer effects are mainly present in areas with a high crime rate, suggesting that the high levels of local criminality are likely to favor a culture of fraud in these areas.The third chapter explores the peer effects in the firm’s employee welfare policies. We show that peer firms play a significant role in defining employee welfare policies of a firm. Using US panel data for a sample of 9,062 firm-year observations from 1996 to 2013, we find that firm’s employee welfare decisions are responses to their peers’ employee welfare policies. This impact is much higher than any other peer characteristics. Moreover, our additional analysis shows that this behavior is prevalent in followers, who mimic the behavior of leaders but we do not find any such relationship for industry leaders.The fourth and last chapter of the thesis empirically investigates firm peer effects in research and development (R&D) policies. We show that firms do not make their R&D decisions in isolation and peer firms play an essential role in defining the R&D intensity of a given firm. Using US panel data for a sample of 54,393 firm-year observations from 1991 to 2015, we find that firm’s R&D decisions are responses to their peers’ R&D policies. Further, we find that R&D peer effects are significant only in the presence of strong product market competition, while these results do not hold for markets with lower product market competition.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="https://these.univ-paris-est.fr/intranet/2018/TH2018PESC0020.pdf" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Communautés d’Universités et d&apos;Etablissements Université Paris-Est. Bibliothèque universitaire.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/236359258" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

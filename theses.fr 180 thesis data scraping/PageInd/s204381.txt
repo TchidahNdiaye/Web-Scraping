@@ -1,0 +1,797 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="alternate" href="http://www.theses.fr/s204381.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta property="fb:admins" content="100002130582014"/>
+<meta name="title" content="theses.fr – Alhonita Yatie, Les applications de la blockchain &agrave; la finance de march&eacute;">
+<meta name="description" content="La cha&icirc;ne de blocs (ou blockchain) est un syst&egrave;me d&eacute;centralis&eacute; d'enregistrement des transactions dans un registre ouvert sur internet s&eacute;curis&eacute; par cryptographie asym&eacute;trique. La blockchain est un r&eacute;seau de pair &agrave; pair qui permet la r&eacute;alisation de transactions sans intervention des traditionnels tiers de confiance tels que les banques. De nombreux domaines (droit, finance d'entreprise et de march&eacute; ...) pourraient &ecirc;tre potentiellement affect&eacute;s par cette technologie.    L'objet de la th&egrave;se est d'estimer th&eacute;oriquement et empiriquement les applications de la blockchain &agrave; la finance de march&eacute;.    Sur les march&eacute;s financiers actuels, le placement et l'ex&eacute;cution des ordres  sont quasi-instantan&eacute;s. En revanche, le r&egrave;glement des transactions peut prendre plusieurs jours et impliquer une ou plusieurs contreparties (chambres de compensation, banques...). Le basculement vers un registre unique, d&eacute;centralis&eacute; et ouvert de donn&eacute;es pourrait donc d&eacute;boucher sur la disparition des contreparties traditionnelles, sur la r&eacute;duction des co&ucirc;ts de transaction pour les acteurs du syst&egrave;me financier, voire sur une stimulation des &eacute;changes.    Pour autant, le fonctionnement d'une blockchain rec&egrave;le des risques qu'il sera n&eacute;cessaire d'&eacute;valuer. Par exemple, les interactions strat&eacute;giques entre les mineurs de blocs doivent &ecirc;tre analys&eacute;es. De fa&ccedil;on globale, la question de la r&eacute;gulation dans un environnement sans autorit&eacute; devra &ecirc;tre pos&eacute;e.                    affiche le potentiel de rupture le plus &eacute;lev&eacute;. Lorsqu'une institution ou une soci&eacute;t&eacute; contr&ocirc;le une base de donn&eacute;es, il est plus facile pour des utilisateurs malveillants internes ou externes de manipuler des informations &agrave; son sujet. Ce n'est pas le cas lorsque les enregistrements sont r&eacute;partis entre plusieurs parties prenantes qui doivent parvenir &agrave; un consensus pour mettre le registre &agrave; jour. En outre, disposer d'une seule base de donn&eacute;es de type blockchain," xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, March&eacute;s Finance Banques Titres Blockchain R&eacute;gulation " xml:lang="FR" />
+<meta name="description" content="The blockchain is a decentralized system for registering transactions in an open register on the Internet secured by asymmetric cryptography. The blockchain is a peer-to-peer network that allows transactions to be carried out without the intervention of traditional trusted third parties such as banks. Many fields (law, corporate finance, financial markets ...) could potentially be affected by this  technology.    The PhD focus is  is to estimate theoretically and empirically the applications of blockchain to financial markets.    In today's financial markets,trading orders is almost instantaneous. But the settlement of transactions can take several days and involve one or more counterparties (clearing houses, banks ...). The shift to a blockchain could thus lead to the disappearance of traditional counterparts, the reduction of transaction costs, and even the stimulation of trade.    But blockchain carries risks that need to be assessed. For example, strategic interactions between minors of blocks should be analyzed. And the question of regulation in an environment without authority will have to be asked." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Banks Regulation Blockchain Securities Markets Finance " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Les applications de la blockchain &agrave; la finance de march&eacute;">
+<meta name="DC.creator" content="Alhonita Yatie" /><meta name="DC.contributor" content=""/>
+<meta name="DC.description.abstract" content="La cha&icirc;ne de blocs (ou blockchain) est un syst&egrave;me d&eacute;centralis&eacute; d'enregistrement des transactions dans un registre ouvert sur internet s&eacute;curis&eacute; par cryptographie asym&eacute;trique. La blockchain est un r&eacute;seau de pair &agrave; pair qui permet la r&eacute;alisation de transactions sans intervention des traditionnels tiers de confiance tels que les banques. De nombreux domaines (droit, finance d'entreprise et de march&eacute; ...) pourraient &ecirc;tre potentiellement affect&eacute;s par cette technologie.    L'objet de la th&egrave;se est d'estimer th&eacute;oriquement et empiriquement les applications de la blockchain &agrave; la finance de march&eacute;.    Sur les march&eacute;s financiers actuels, le placement et l'ex&eacute;cution des ordres  sont quasi-instantan&eacute;s. En revanche, le r&egrave;glement des transactions peut prendre plusieurs jours et impliquer une ou plusieurs contreparties (chambres de compensation, banques...). Le basculement vers un registre unique, d&eacute;centralis&eacute; et ouvert de donn&eacute;es pourrait donc d&eacute;boucher sur la disparition des contreparties traditionnelles, sur la r&eacute;duction des co&ucirc;ts de transaction pour les acteurs du syst&egrave;me financier, voire sur une stimulation des &eacute;changes.    Pour autant, le fonctionnement d'une blockchain rec&egrave;le des risques qu'il sera n&eacute;cessaire d'&eacute;valuer. Par exemple, les interactions strat&eacute;giques entre les mineurs de blocs doivent &ecirc;tre analys&eacute;es. De fa&ccedil;on globale, la question de la r&eacute;gulation dans un environnement sans autorit&eacute; devra &ecirc;tre pos&eacute;e.                    affiche le potentiel de rupture le plus &eacute;lev&eacute;. Lorsqu'une institution ou une soci&eacute;t&eacute; contr&ocirc;le une base de donn&eacute;es, il est plus facile pour des utilisateurs malveillants internes ou externes de manipuler des informations &agrave; son sujet. Ce n'est pas le cas lorsque les enregistrements sont r&eacute;partis entre plusieurs parties prenantes qui doivent parvenir &agrave; un consensus pour mettre le registre &agrave; jour. En outre, disposer d'une seule base de donn&eacute;es de type blockchain," xml:lang="FR"/>
+<meta name="DC.subject" content="March&eacute;s Finance Banques Titres Blockchain R&eacute;gulation  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The blockchain is a decentralized system for registering transactions in an open register on the Internet secured by asymmetric cryptography. The blockchain is a peer-to-peer network that allows transactions to be carried out without the intervention of traditional trusted third parties such as banks. Many fields (law, corporate finance, financial markets ...) could potentially be affected by this  technology.    The PhD focus is  is to estimate theoretically and empirically the applications of blockchain to financial markets.    In today's financial markets,trading orders is almost instantaneous. But the settlement of transactions can take several days and involve one or more counterparties (clearing houses, banks ...). The shift to a blockchain could thus lead to the disappearance of traditional counterparts, the reduction of transaction costs, and even the stimulation of trade.    But blockchain carries risks that need to be assessed. For example, strategic interactions between minors of blocks should be analyzed. And the question of regulation in an environment without authority will have to be asked." xml:lang="EN"/>
+<meta name="DC.subject" content="Banks Regulation Blockchain Securities Markets Finance " xml:lang="EN"/>
+<meta name="DC.identifier" content="http://www.theses.fr/s204381" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<link rel="canonical" href="http://www.theses.fr/s204381"/>
+<title> theses.fr – Alhonita Yatie, Les applications de la blockchain &agrave; la finance de march&eacute;</title>
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=s204381&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/s204381" title="Français" class="lang_fr current"></a>
+        <a href="/en/s204381"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=s204381&lng=fr&ppn_origine=175206562&appli_origine=Step" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/s204381/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Les applications de la blockchain à la finance de marché</h1>
+    <h2>par  <span property="foaf:name">Alhonita Yatie</span></a></h2>
+</div>
+<div class="these_preparation">
+<p>Projet de thèse en  <span property="dc:subject">Sciences économiques</span></p>
+</div>
+<div class="clearer"></div>
+<div class="clearer"></div>
+    <div class="donnees-ombreprepa">
+      <p>Sous la direction de 
+<a href="111915201" rel="dcterms:contributor" resource="http://www.idref.fr/111915201/id"><span property="foaf:name">Jean-Marc Figuet</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombreprepa2">
+      <p>Thèses en préparation à <a href="175206562" rel="dcterms:contributor" resource="http://www.idref.fr/175206562/id"><span property="foaf:name">Bordeaux</span></a>
+, dans le cadre de  <a href="155542591" rel="dcterms:contributor" resource="http://www.idref.fr/155542591/id"">
+<span property="foaf:name">Entreprise Économie Société</span></a>
+, en partenariat avec <a href="028077326" rel="dcterms:contributor" resource="http://www.idref.fr/028077326/id"">
+<span property="foaf:name">LAREFI - Laboratoire d'Analyse et de Recherche en Economie et Finance International</span></a>
+  (laboratoire) 
+ depuis le 18-09-2017
+.
+    </div>
+  <div style="width: 660px; float: left; margin: 20px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Marchés">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Marchés
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Finance
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Banques">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Banques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Titres">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Titres
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Blockchain">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Blockchain
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Régulation">
+<span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="fr">Régulation
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">La chaîne de blocs (ou blockchain) est un système décentralisé d'enregistrement des transactions dans un registre ouvert sur internet sécurisé par cryptographie asymétrique. La blockchain est un réseau de pair à pair qui permet la réalisation de transactions sans intervention des traditionnels tiers de confiance tels que les banques. De nombreux domaines (droit, finance d'entreprise et de marché ...) pourraient être potentiellement affectés par cette technologie.    L'objet de la thèse est d'estimer théoriquement et empiriquement les applications de la blockchain à la finance de marché.    Sur les marchés financiers actuels, le placement et l'exécution des ordres  sont quasi-instantanés. En revanche, le règlement des transactions peut prendre plusieurs jours et impliquer une ou plusieurs contreparties (chambres de compensation, banques...). Le basculement vers un registre unique, décentralisé et ouvert de données pourrait donc déboucher sur la disparition des contreparties traditionnelles, sur la réduction des coûts de transaction pour les acteurs du système financier, voire sur une stimulation des échanges.    Pour autant, le fonctionnement d'une blockchain recèle des risques qu'il sera nécessaire d'évaluer. Par exemple, les interactions stratégiques entre les mineurs de blocs doivent être analysées. De façon globale, la question de la régulation dans un environnement sans autorité devra être posée.                    affiche le potentiel de rupture le plus élevé. Lorsqu'une institution ou une société contrôle une base de données, il est plus facile pour des utilisateurs malveillants internes ou externes de manipuler des informations à son sujet. Ce n'est pas le cas lorsque les enregistrements sont répartis entre plusieurs parties prenantes qui doivent parvenir à un consensus pour mettre le registre à jour. En outre, disposer d'une seule base de données de type blockchain,</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Banks"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Banks</span></a></li>
+          <li><a href="/fr?q=*:Regulation"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Regulation</span></a></li>
+          <li><a href="/fr?q=*:Blockchain"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Blockchain</span></a></li>
+          <li><a href="/fr?q=*:Securities"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Securities</span></a></li>
+          <li><a href="/fr?q=*:Markets"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Markets</span></a></li>
+          <li><a href="/fr?q=*:Finance"name="MotsClesAutre" > <span about="http://www.theses.fr/s204381/id" property="dc:subject" xml:lang="en">Finance</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Blockchain financial markets applications</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The blockchain is a decentralized system for registering transactions in an open register on the Internet secured by asymmetric cryptography. The blockchain is a peer-to-peer network that allows transactions to be carried out without the intervention of traditional trusted third parties such as banks. Many fields (law, corporate finance, financial markets ...) could potentially be affected by this  technology.    The PhD focus is  is to estimate theoretically and empirically the applications of blockchain to financial markets.    In today's financial markets,trading orders is almost instantaneous. But the settlement of transactions can take several days and involve one or more counterparties (clearing houses, banks ...). The shift to a blockchain could thus lead to the disappearance of traditional counterparts, the reduction of transaction costs, and even the stimulation of trade.    But blockchain carries risks that need to be assessed. For example, strategic interactions between minors of blocks should be analyzed. And the question of regulation in an environment without authority will have to be asked.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+ <script type="text/javascript">function initialize_maps(){};</script>
+</div></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

@@ -1,0 +1,858 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="La finance comportementale &agrave; l'&eacute;preuve de la crise"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2015GREAE011"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="La crise qui a d&eacute;marr&eacute; en 2007 a remis en cause les fondations de la th&eacute;orie et du syst&egrave;me financier. Cette th&eacute;orie s&rsquo;articule autour des postulats de la finance classique dont la &laquo; main invisible &raquo; et l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs dont d&eacute;coule celle d&rsquo;efficience des march&eacute;s.Cette crise a mis en lumi&egrave;re l&rsquo;aspect psychologique des march&eacute;s financiers, aspect abord&eacute; par J.M Keynes lorsqu&rsquo;il d&eacute;veloppait la notion d&rsquo; &laquo; esprits animaux &raquo; pour rendre compte de l&rsquo;incertitude de l&rsquo;&eacute;conomie. Jusqu&rsquo;au d&eacute;but des ann&eacute;es 1980, la compr&eacute;hension de la psychologie a &eacute;t&eacute; le fruit d&rsquo;une approche informelle.Depuis lors, la psychologie des march&eacute;s financiers est formalis&eacute;e par la finance comportementale. Tout au long de son d&eacute;veloppement, ses tenants ont remis en cause l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs sur des bases empiriques. N&eacute;anmoins, aucun &eacute;v&egrave;nement de l&rsquo;ampleur de cette crise n&rsquo;a autant invalid&eacute; les postulats du mainstream dominant.La th&eacute;orie financi&egrave;re est &agrave; la crois&eacute;e des chemins. L&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs est-elle valide ? Si oui, quelles sont les conditions de sa validit&eacute; ? Si non, doit-on sortir du cadre de la finance classique et adopter celui de la finance comportementale? Ce sont autant de questions qui appellent &agrave; une refondation de la th&eacute;orie financi&egrave;re.Le jury du Prix d&rsquo;&eacute;conomie en la m&eacute;moire d&rsquo;Alfred Nobel ne s&rsquo;est d&rsquo;ailleurs pas tromp&eacute; en d&eacute;cernant le prix 2013 aux deux &eacute;coles. Cependant, les acad&eacute;miciens ne semblent pas trancher entre elles, reconnaissant ainsi leurs apports respectifs pour la th&eacute;orie et la pratique financi&egrave;re. Cette r&eacute;compense sugg&egrave;re n&eacute;anmoins la question centrale suivante : les deux &eacute;coles sont-elles parall&egrave;les, compl&eacute;mentaires ou antinomiques?Le premier chapitre traite de la remise en cause des hypoth&egrave;ses centrales de la finance, &agrave; la base des mod&egrave;les de gestion les plus courus. Le cadre de la finance classique n&rsquo;a pas permis de donner une explication &agrave; la formation de la bulle immobili&egrave;re pas plus qu&rsquo;il n&rsquo;a permis de fournir une solution unifi&eacute;e &agrave; la crise. L&rsquo;inad&eacute;quation des hypoth&egrave;ses du cadre classique avec la r&eacute;alit&eacute; appara&icirc;t notamment dans un contexte de forte volatilit&eacute; et d&rsquo;incertitude exacerb&eacute;e. Cette remise en cause ouvre la voie &agrave; l&rsquo;introduction de param&egrave;tres psychologiques dans la compr&eacute;hension des ph&eacute;nom&egrave;nes du march&eacute;.La finance comportementale d&eacute;veloppe la psychologie des march&eacute;s financiers. Le second chapitre aborde les concepts centraux de ce courant. L&rsquo;analyse de ces concepts et du d&eacute;veloppement historique, &eacute;pist&eacute;mologique et paradigmatique du courant montre qu&rsquo;il s&rsquo;inscrit &agrave; l&rsquo;oppos&eacute; et, parfois, en compl&eacute;ment du classique. Il n&rsquo;en demeure pas moins que le cadre th&eacute;orique de ce courant n&rsquo;est pas encore achev&eacute; pas plus que la formation d&rsquo;un paradigme dominant.Parmi les principaux r&eacute;sultats de la finance comportementale, les outils psychologiques apportent des clefs de lecture pertinentes des march&eacute;s financiers. Le troisi&egrave;me chapitre aborde les biais et heuristiques &agrave; la lumi&egrave;re de la crise. L&rsquo;analyse de la crise montre que les heuristiques et les biais &eacute;motionnels ont pu conduire les investisseurs &agrave; des erreurs de jugements. L&rsquo;attention et l&rsquo;analyse se sont focalis&eacute;es sur des croyances dans un contexte d&rsquo;opacit&eacute; de l&rsquo;information et de l&rsquo;environnement.La finance comportementale cherche &agrave; &eacute;tablir un cadre conceptuel plus &eacute;labor&eacute;. La th&eacute;orie des &laquo; esprits animaux &raquo; a repris de la vigueur notamment chez les comportementalistes &agrave; orientation n&eacute;o-keyn&eacute;sienne. Le retour &agrave; cette notion s&rsquo;explique par l&rsquo;importance prise de concepts li&eacute;s comme la confiance, la corruption ou le r&ocirc;le des histoires. D&rsquo;ailleurs, les collusions corruptives et le fonctionnement du syst&egrave;me ont failli saper durablement la confiance dans l&rsquo;&eacute;conomie financi&egrave;re. Ce quatri&egrave;me chapitre montre que la confiance et la corruption proc&egrave;dent de la psychologie humaine et montrent le poids de celle-ci en situation d&rsquo;incertitude et le rapport des hommes aux gains."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2015GREAE011.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Ali Hajji , La finance comportementale &agrave; l'&eacute;preuve de la crise">
+<meta name="description" content="La crise qui a d&eacute;marr&eacute; en 2007 a remis en cause les fondations de la th&eacute;orie et du syst&egrave;me financier. Cette th&eacute;orie s&rsquo;articule autour des postulats de la finance classique dont la &laquo; main invisible &raquo; et l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs dont d&eacute;coule celle d&rsquo;efficience des march&eacute;s.Cette crise a mis en lumi&egrave;re l&rsquo;aspect psychologique des march&eacute;s financiers, aspect abord&eacute; par J.M Keynes lorsqu&rsquo;il d&eacute;veloppait la notion d&rsquo; &laquo; esprits animaux &raquo; pour rendre compte de l&rsquo;incertitude de l&rsquo;&eacute;conomie. Jusqu&rsquo;au d&eacute;but des ann&eacute;es 1980, la compr&eacute;hension de la psychologie a &eacute;t&eacute; le fruit d&rsquo;une approche informelle.Depuis lors, la psychologie des march&eacute;s financiers est formalis&eacute;e par la finance comportementale. Tout au long de son d&eacute;veloppement, ses tenants ont remis en cause l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs sur des bases empiriques. N&eacute;anmoins, aucun &eacute;v&egrave;nement de l&rsquo;ampleur de cette crise n&rsquo;a autant invalid&eacute; les postulats du mainstream dominant.La th&eacute;orie financi&egrave;re est &agrave; la crois&eacute;e des chemins. L&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs est-elle valide ? Si oui, quelles sont les conditions de sa validit&eacute; ? Si non, doit-on sortir du cadre de la finance classique et adopter celui de la finance comportementale? Ce sont autant de questions qui appellent &agrave; une refondation de la th&eacute;orie financi&egrave;re.Le jury du Prix d&rsquo;&eacute;conomie en la m&eacute;moire d&rsquo;Alfred Nobel ne s&rsquo;est d&rsquo;ailleurs pas tromp&eacute; en d&eacute;cernant le prix 2013 aux deux &eacute;coles. Cependant, les acad&eacute;miciens ne semblent pas trancher entre elles, reconnaissant ainsi leurs apports respectifs pour la th&eacute;orie et la pratique financi&egrave;re. Cette r&eacute;compense sugg&egrave;re n&eacute;anmoins la question centrale suivante : les deux &eacute;coles sont-elles parall&egrave;les, compl&eacute;mentaires ou antinomiques?Le premier chapitre traite de la remise en cause des hypoth&egrave;ses centrales de la finance, &agrave; la base des mod&egrave;les de gestion les plus courus. Le cadre de la finance classique n&rsquo;a pas permis de donner une explication &agrave; la formation de la bulle immobili&egrave;re pas plus qu&rsquo;il n&rsquo;a permis de fournir une solution unifi&eacute;e &agrave; la crise. L&rsquo;inad&eacute;quation des hypoth&egrave;ses du cadre classique avec la r&eacute;alit&eacute; appara&icirc;t notamment dans un contexte de forte volatilit&eacute; et d&rsquo;incertitude exacerb&eacute;e. Cette remise en cause ouvre la voie &agrave; l&rsquo;introduction de param&egrave;tres psychologiques dans la compr&eacute;hension des ph&eacute;nom&egrave;nes du march&eacute;.La finance comportementale d&eacute;veloppe la psychologie des march&eacute;s financiers. Le second chapitre aborde les concepts centraux de ce courant. L&rsquo;analyse de ces concepts et du d&eacute;veloppement historique, &eacute;pist&eacute;mologique et paradigmatique du courant montre qu&rsquo;il s&rsquo;inscrit &agrave; l&rsquo;oppos&eacute; et, parfois, en compl&eacute;ment du classique. Il n&rsquo;en demeure pas moins que le cadre th&eacute;orique de ce courant n&rsquo;est pas encore achev&eacute; pas plus que la formation d&rsquo;un paradigme dominant.Parmi les principaux r&eacute;sultats de la finance comportementale, les outils psychologiques apportent des clefs de lecture pertinentes des march&eacute;s financiers. Le troisi&egrave;me chapitre aborde les biais et heuristiques &agrave; la lumi&egrave;re de la crise. L&rsquo;analyse de la crise montre que les heuristiques et les biais &eacute;motionnels ont pu conduire les investisseurs &agrave; des erreurs de jugements. L&rsquo;attention et l&rsquo;analyse se sont focalis&eacute;es sur des croyances dans un contexte d&rsquo;opacit&eacute; de l&rsquo;information et de l&rsquo;environnement.La finance comportementale cherche &agrave; &eacute;tablir un cadre conceptuel plus &eacute;labor&eacute;. La th&eacute;orie des &laquo; esprits animaux &raquo; a repris de la vigueur notamment chez les comportementalistes &agrave; orientation n&eacute;o-keyn&eacute;sienne. Le retour &agrave; cette notion s&rsquo;explique par l&rsquo;importance prise de concepts li&eacute;s comme la confiance, la corruption ou le r&ocirc;le des histoires. D&rsquo;ailleurs, les collusions corruptives et le fonctionnement du syst&egrave;me ont failli saper durablement la confiance dans l&rsquo;&eacute;conomie financi&egrave;re. Ce quatri&egrave;me chapitre montre que la confiance et la corruption proc&egrave;dent de la psychologie humaine et montrent le poids de celle-ci en situation d&rsquo;incertitude et le rapport des hommes aux gains." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Crise financi&egrave;re Finance comportementale Esprits animaux Rationalit&eacute; Renovation " xml:lang="FR" />
+<meta name="description" content="The crisis that started in 2007 have challenged the foundations of the financial system and the financial theory. This theory is based on assumptions of conventional finance including the &quot;invisible hand&quot; and the rationality assumption of investors which builds that of market efficiency.This crisis has highlighted the psychology of financial markets, aspects already addressed by J.M Keynes when he developed the concept of &quot;animal spirits&quot; to reflect the uncertainty of the economy. Until the early 1980s, the understanding of psychology has always been the result of an informal approach.Since, the psychology of financial markets has been formalized by behavioral finance. Throughout its development, its theoricians have questioned the rationality assumption of investors on empirical bases. However, no paramount event such this crisis has struck much the postulates of the dominant mainstream.Consequently, the financial theory is at the crossroads. Is the assumption of rationality of investors valid? If so, what are the conditions of its validity? If not, are we departing from the scope of conventional finance and adopt that of behavioral finance? These are all issues that are calling for an overhaul of the financial theory.The Jury of the prize in economics in memory of Alfred Nobel did not err in fact by awarding the 2013 prize to these two schools. However, academics do not seem to decide between them, recognizing their contributions to financial theory and practice. This award suggests the following central question: are the two schools parallel, complementary or contradictory?The first chapter deals with the questioning of the central assumptions of finance, at the base of the most popular business models. The framework of conventional finance has failed to give an explanation to the formation of the housing bubble nor has it helped to provide a unified solution to the crisis. The inadequacy of the assumptions of the classical framework with reality appears especially in a context of high volatility and heightened uncertainty. This challenge opens the way for the introduction of psychological parameters in understanding the phenomena of the market.Behavioral finance develops the psychology of financial markets. The second chapter covers the central concepts of this trend, in order to answer the central question of this thesis. The analysis of this trend and its historical epistemological and paradigmatic development shows it is opposite and sometimes in addition to the classic one. The fact remains that the theoretical framework of this trend is not yet completed nor the formation of a new dominant paradigm achieved.Among the key findings of behavioral finance, psychological tools provide relevant insights to developments in financial markets. The third chapter addresses the biases and heuristics in light of the crisis. The analysis of the crisis shows that heuristics and emotional biases may have led investors to judgment errors. The attention and analysis has focused on beliefs in an abstruse information and environmental context, allowing the development of heuristics. Consequently, the tools of behavioral finance can develop a mental map to this crisis.Behavioral finance seeks to establish a more sophisticated conceptual framework. The theory of &quot;animal spirits&quot; has regained momentum especially among behaviorists of neo-Keynesian orientation. The return to this concept is explained by the growing importance of certain concepts such as confidence, corruption and the role of stories in the context of this crisis. Moreover, collusion and corrupt system operation almost permanently undermine confidence in the financial economy. This fourth chapter shows that trust and corruption stem from human psychology and show the weight of the latter in situations of uncertainty and the relationship between men and earnings." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Financial crisis Behavioral finance Animal spirits Rationality Overhaul " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="La finance comportementale &agrave; l'&eacute;preuve de la crise">
+<meta name="DC.creator" content="Ali Hajji" />
+<meta name="DC.contributor" content="Taouil R&eacute;douane "/>
+<meta name="DC.publisher" content="Grenoble Alpes" />
+<meta name="DC.description.abstract" content="La crise qui a d&eacute;marr&eacute; en 2007 a remis en cause les fondations de la th&eacute;orie et du syst&egrave;me financier. Cette th&eacute;orie s&rsquo;articule autour des postulats de la finance classique dont la &laquo; main invisible &raquo; et l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs dont d&eacute;coule celle d&rsquo;efficience des march&eacute;s.Cette crise a mis en lumi&egrave;re l&rsquo;aspect psychologique des march&eacute;s financiers, aspect abord&eacute; par J.M Keynes lorsqu&rsquo;il d&eacute;veloppait la notion d&rsquo; &laquo; esprits animaux &raquo; pour rendre compte de l&rsquo;incertitude de l&rsquo;&eacute;conomie. Jusqu&rsquo;au d&eacute;but des ann&eacute;es 1980, la compr&eacute;hension de la psychologie a &eacute;t&eacute; le fruit d&rsquo;une approche informelle.Depuis lors, la psychologie des march&eacute;s financiers est formalis&eacute;e par la finance comportementale. Tout au long de son d&eacute;veloppement, ses tenants ont remis en cause l&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs sur des bases empiriques. N&eacute;anmoins, aucun &eacute;v&egrave;nement de l&rsquo;ampleur de cette crise n&rsquo;a autant invalid&eacute; les postulats du mainstream dominant.La th&eacute;orie financi&egrave;re est &agrave; la crois&eacute;e des chemins. L&rsquo;hypoth&egrave;se de rationalit&eacute; des investisseurs est-elle valide ? Si oui, quelles sont les conditions de sa validit&eacute; ? Si non, doit-on sortir du cadre de la finance classique et adopter celui de la finance comportementale? Ce sont autant de questions qui appellent &agrave; une refondation de la th&eacute;orie financi&egrave;re.Le jury du Prix d&rsquo;&eacute;conomie en la m&eacute;moire d&rsquo;Alfred Nobel ne s&rsquo;est d&rsquo;ailleurs pas tromp&eacute; en d&eacute;cernant le prix 2013 aux deux &eacute;coles. Cependant, les acad&eacute;miciens ne semblent pas trancher entre elles, reconnaissant ainsi leurs apports respectifs pour la th&eacute;orie et la pratique financi&egrave;re. Cette r&eacute;compense sugg&egrave;re n&eacute;anmoins la question centrale suivante : les deux &eacute;coles sont-elles parall&egrave;les, compl&eacute;mentaires ou antinomiques?Le premier chapitre traite de la remise en cause des hypoth&egrave;ses centrales de la finance, &agrave; la base des mod&egrave;les de gestion les plus courus. Le cadre de la finance classique n&rsquo;a pas permis de donner une explication &agrave; la formation de la bulle immobili&egrave;re pas plus qu&rsquo;il n&rsquo;a permis de fournir une solution unifi&eacute;e &agrave; la crise. L&rsquo;inad&eacute;quation des hypoth&egrave;ses du cadre classique avec la r&eacute;alit&eacute; appara&icirc;t notamment dans un contexte de forte volatilit&eacute; et d&rsquo;incertitude exacerb&eacute;e. Cette remise en cause ouvre la voie &agrave; l&rsquo;introduction de param&egrave;tres psychologiques dans la compr&eacute;hension des ph&eacute;nom&egrave;nes du march&eacute;.La finance comportementale d&eacute;veloppe la psychologie des march&eacute;s financiers. Le second chapitre aborde les concepts centraux de ce courant. L&rsquo;analyse de ces concepts et du d&eacute;veloppement historique, &eacute;pist&eacute;mologique et paradigmatique du courant montre qu&rsquo;il s&rsquo;inscrit &agrave; l&rsquo;oppos&eacute; et, parfois, en compl&eacute;ment du classique. Il n&rsquo;en demeure pas moins que le cadre th&eacute;orique de ce courant n&rsquo;est pas encore achev&eacute; pas plus que la formation d&rsquo;un paradigme dominant.Parmi les principaux r&eacute;sultats de la finance comportementale, les outils psychologiques apportent des clefs de lecture pertinentes des march&eacute;s financiers. Le troisi&egrave;me chapitre aborde les biais et heuristiques &agrave; la lumi&egrave;re de la crise. L&rsquo;analyse de la crise montre que les heuristiques et les biais &eacute;motionnels ont pu conduire les investisseurs &agrave; des erreurs de jugements. L&rsquo;attention et l&rsquo;analyse se sont focalis&eacute;es sur des croyances dans un contexte d&rsquo;opacit&eacute; de l&rsquo;information et de l&rsquo;environnement.La finance comportementale cherche &agrave; &eacute;tablir un cadre conceptuel plus &eacute;labor&eacute;. La th&eacute;orie des &laquo; esprits animaux &raquo; a repris de la vigueur notamment chez les comportementalistes &agrave; orientation n&eacute;o-keyn&eacute;sienne. Le retour &agrave; cette notion s&rsquo;explique par l&rsquo;importance prise de concepts li&eacute;s comme la confiance, la corruption ou le r&ocirc;le des histoires. D&rsquo;ailleurs, les collusions corruptives et le fonctionnement du syst&egrave;me ont failli saper durablement la confiance dans l&rsquo;&eacute;conomie financi&egrave;re. Ce quatri&egrave;me chapitre montre que la confiance et la corruption proc&egrave;dent de la psychologie humaine et montrent le poids de celle-ci en situation d&rsquo;incertitude et le rapport des hommes aux gains." xml:lang="FR"/>
+<meta name="DC.subject" content="Crise financi&egrave;re Finance comportementale Esprits animaux Rationalit&eacute; Renovation  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The crisis that started in 2007 have challenged the foundations of the financial system and the financial theory. This theory is based on assumptions of conventional finance including the &quot;invisible hand&quot; and the rationality assumption of investors which builds that of market efficiency.This crisis has highlighted the psychology of financial markets, aspects already addressed by J.M Keynes when he developed the concept of &quot;animal spirits&quot; to reflect the uncertainty of the economy. Until the early 1980s, the understanding of psychology has always been the result of an informal approach.Since, the psychology of financial markets has been formalized by behavioral finance. Throughout its development, its theoricians have questioned the rationality assumption of investors on empirical bases. However, no paramount event such this crisis has struck much the postulates of the dominant mainstream.Consequently, the financial theory is at the crossroads. Is the assumption of rationality of investors valid? If so, what are the conditions of its validity? If not, are we departing from the scope of conventional finance and adopt that of behavioral finance? These are all issues that are calling for an overhaul of the financial theory.The Jury of the prize in economics in memory of Alfred Nobel did not err in fact by awarding the 2013 prize to these two schools. However, academics do not seem to decide between them, recognizing their contributions to financial theory and practice. This award suggests the following central question: are the two schools parallel, complementary or contradictory?The first chapter deals with the questioning of the central assumptions of finance, at the base of the most popular business models. The framework of conventional finance has failed to give an explanation to the formation of the housing bubble nor has it helped to provide a unified solution to the crisis. The inadequacy of the assumptions of the classical framework with reality appears especially in a context of high volatility and heightened uncertainty. This challenge opens the way for the introduction of psychological parameters in understanding the phenomena of the market.Behavioral finance develops the psychology of financial markets. The second chapter covers the central concepts of this trend, in order to answer the central question of this thesis. The analysis of this trend and its historical epistemological and paradigmatic development shows it is opposite and sometimes in addition to the classic one. The fact remains that the theoretical framework of this trend is not yet completed nor the formation of a new dominant paradigm achieved.Among the key findings of behavioral finance, psychological tools provide relevant insights to developments in financial markets. The third chapter addresses the biases and heuristics in light of the crisis. The analysis of the crisis shows that heuristics and emotional biases may have led investors to judgment errors. The attention and analysis has focused on beliefs in an abstruse information and environmental context, allowing the development of heuristics. Consequently, the tools of behavioral finance can develop a mental map to this crisis.Behavioral finance seeks to establish a more sophisticated conceptual framework. The theory of &quot;animal spirits&quot; has regained momentum especially among behaviorists of neo-Keynesian orientation. The return to this concept is explained by the growing importance of certain concepts such as confidence, corruption and the role of stories in the context of this crisis. Moreover, collusion and corrupt system operation almost permanently undermine confidence in the financial economy. This fourth chapter shows that trust and corruption stem from human psychology and show the weight of the latter in situations of uncertainty and the relationship between men and earnings." xml:lang="EN"/>
+<meta name="DC.subject" content="Financial crisis Behavioral finance Animal spirits Rationality Overhaul " xml:lang="EN"/>
+<meta name="DC.date" content="2015-12-11" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2015GREAE011" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2015GREAE011"/>
+<title> theses.fr – Ali Hajji , La finance comportementale &agrave; l'&eacute;preuve de la crise</title>
+<meta name="citation_title" content="La finance comportementale &agrave; l'&eacute;preuve de la crise" />
+<meta name="citation_author" content="Hajji, Ali" />
+<meta name="citation_publication_date" content="2015/12/11" />
+<meta name="citation_dissertation_institution" content="Grenoble Alpes" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2015GREAE011&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2015GREAE011" title="Français" class="lang_fr current"></a>
+        <a href="/en/2015GREAE011"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2015GREAE011&lng=fr&ppn_origine=184668794&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2015GREAE011.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2015GREAE011.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2015GREAE011.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2015GREAE011/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">La finance comportementale à l'épreuve de la crise</h1>
+    <h2>par  <a href="198705549" rel="dcterms:creator" resource="http://www.idref.fr/198705549/id"><span property="foaf:name">Ali Hajji</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences économiques</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="061430374" rel="dcterms:contributor" resource="http://www.idref.fr/061430374/id"><span property="foaf:name">Rédouane Taouil</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=11-12-2015 datatype="xsd:date">11-12-2015</span></p>
+      <p>à <a href="184668794" rel="dcterms:contributor" resource="http://www.idref.fr/184668794/id"><span property="foaf:name">Grenoble Alpes</span></a>
+, dans le cadre de  <a href="149284713" rel="dcterms:contributor" resource="http://www.idref.fr/149284713/id">
+<span property="foaf:name">École doctorale sciences économiques (Grenoble)</span></a>
+, en partenariat avec <a href="168272903" rel="dcterms:contributor" resource="http://www.idref.fr/168272903/id">
+<span property="foaf:name">Centre de recherche en économie de Grenoble</span></a>
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/053295625" rel="dcterms:contributor" resource="http://www.idref.fr/053295625/id"><span property="foaf:name">Jean-Pierre Allegret</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/169375803" rel="dcterms:contributor" resource="http://www.idref.fr/169375803/id"><span property="foaf:name">Catherine Figuière</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/053295625" rel="dcterms:contributor" resource="http://www.idref.fr/053295625/id"><span property="foaf:name">Jean-Pierre Allegret</span></a>, 
+<a href="/fr/034195181" rel="dcterms:contributor" resource="http://www.idref.fr/034195181/id"><span property="foaf:name">Ḥakīm Ben Hammūda</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crise financière">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Crise financière
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance comportementale">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Finance comportementale
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Esprits animaux">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Esprits animaux
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Rationalité">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Rationalité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Renovation">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Renovation
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Marché financier Aspect psychologique">
+<span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="fr">Marché financier -- Aspect psychologique
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">La crise qui a démarré en 2007 a remis en cause les fondations de la théorie et du système financier. Cette théorie s’articule autour des postulats de la finance classique dont la « main invisible » et l’hypothèse de rationalité des investisseurs dont découle celle d’efficience des marchés.Cette crise a mis en lumière l’aspect psychologique des marchés financiers, aspect abordé par J.M Keynes lorsqu’il développait la notion d’ « esprits animaux » pour rendre compte de l’incertitude de l’économie. Jusqu’au début des années 1980, la compréhension de la psychologie a été le fruit d’une approche informelle.Depuis lors, la psychologie des marchés financiers est formalisée par la finance comportementale. Tout au long de son développement, ses tenants ont remis en cause l’hypothèse de rationalité des investisseurs sur des bases empiriques. Néanmoins, aucun évènement de l’ampleur de cette crise n’a autant invalidé les postulats du mainstream dominant.La théorie financière est à la croisée des chemins. L’hypothèse de rationalité des investisseurs est-elle valide ? Si oui, quelles sont les conditions de sa validité ? Si non, doit-on sortir du cadre de la finance classique et adopter celui de la finance comportementale? Ce sont autant de questions qui appellent à une refondation de la théorie financière.Le jury du Prix d’économie en la mémoire d’Alfred Nobel ne s’est d’ailleurs pas trompé en décernant le prix 2013 aux deux écoles. Cependant, les académiciens ne semblent pas trancher entre elles, reconnaissant ainsi leurs apports respectifs pour la théorie et la pratique financière. Cette récompense suggère néanmoins la question centrale suivante : les deux écoles sont-elles parallèles, complémentaires ou antinomiques?Le premier chapitre traite de la remise en cause des hypothèses centrales de la finance, à la base des modèles de gestion les plus courus. Le cadre de la finance classique n’a pas permis de donner une explication à la formation de la bulle immobilière pas plus qu’il n’a permis de fournir une solution unifiée à la crise. L’inadéquation des hypothèses du cadre classique avec la réalité apparaît notamment dans un contexte de forte volatilité et d’incertitude exacerbée. Cette remise en cause ouvre la voie à l’introduction de paramètres psychologiques dans la compréhension des phénomènes du marché.La finance comportementale développe la psychologie des marchés financiers. Le second chapitre aborde les concepts centraux de ce courant. L’analyse de ces concepts et du développement historique, épistémologique et paradigmatique du courant montre qu’il s’inscrit à l’opposé et, parfois, en complément du classique. Il n’en demeure pas moins que le cadre théorique de ce courant n’est pas encore achevé pas plus que la formation d’un paradigme dominant.Parmi les principaux résultats de la finance comportementale, les outils psychologiques apportent des clefs de lecture pertinentes des marchés financiers. Le troisième chapitre aborde les biais et heuristiques à la lumière de la crise. L’analyse de la crise montre que les heuristiques et les biais émotionnels ont pu conduire les investisseurs à des erreurs de jugements. L’attention et l’analyse se sont focalisées sur des croyances dans un contexte d’opacité de l’information et de l’environnement.La finance comportementale cherche à établir un cadre conceptuel plus élaboré. La théorie des « esprits animaux » a repris de la vigueur notamment chez les comportementalistes à orientation néo-keynésienne. Le retour à cette notion s’explique par l’importance prise de concepts liés comme la confiance, la corruption ou le rôle des histoires. D’ailleurs, les collusions corruptives et le fonctionnement du système ont failli saper durablement la confiance dans l’économie financière. Ce quatrième chapitre montre que la confiance et la corruption procèdent de la psychologie humaine et montrent le poids de celle-ci en situation d’incertitude et le rapport des hommes aux gains.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Financial crisis"name="MotsClesAutre" > <span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="en">Financial crisis</span></a></li>
+          <li><a href="/fr?q=*:Behavioral finance"name="MotsClesAutre" > <span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="en">Behavioral finance</span></a></li>
+          <li><a href="/fr?q=*:Animal spirits"name="MotsClesAutre" > <span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="en">Animal spirits</span></a></li>
+          <li><a href="/fr?q=*:Rationality"name="MotsClesAutre" > <span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="en">Rationality</span></a></li>
+          <li><a href="/fr?q=*:Overhaul"name="MotsClesAutre" > <span about="http://www.theses.fr/2015GREAE011/id" property="dc:subject" xml:lang="en">Overhaul</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Behavioral finance under the test of the crisis</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The crisis that started in 2007 have challenged the foundations of the financial system and the financial theory. This theory is based on assumptions of conventional finance including the "invisible hand" and the rationality assumption of investors which builds that of market efficiency.This crisis has highlighted the psychology of financial markets, aspects already addressed by J.M Keynes when he developed the concept of "animal spirits" to reflect the uncertainty of the economy. Until the early 1980s, the understanding of psychology has always been the result of an informal approach.Since, the psychology of financial markets has been formalized by behavioral finance. Throughout its development, its theoricians have questioned the rationality assumption of investors on empirical bases. However, no paramount event such this crisis has struck much the postulates of the dominant mainstream.Consequently, the financial theory is at the crossroads. Is the assumption of rationality of investors valid? If so, what are the conditions of its validity? If not, are we departing from the scope of conventional finance and adopt that of behavioral finance? These are all issues that are calling for an overhaul of the financial theory.The Jury of the prize in economics in memory of Alfred Nobel did not err in fact by awarding the 2013 prize to these two schools. However, academics do not seem to decide between them, recognizing their contributions to financial theory and practice. This award suggests the following central question: are the two schools parallel, complementary or contradictory?The first chapter deals with the questioning of the central assumptions of finance, at the base of the most popular business models. The framework of conventional finance has failed to give an explanation to the formation of the housing bubble nor has it helped to provide a unified solution to the crisis. The inadequacy of the assumptions of the classical framework with reality appears especially in a context of high volatility and heightened uncertainty. This challenge opens the way for the introduction of psychological parameters in understanding the phenomena of the market.Behavioral finance develops the psychology of financial markets. The second chapter covers the central concepts of this trend, in order to answer the central question of this thesis. The analysis of this trend and its historical epistemological and paradigmatic development shows it is opposite and sometimes in addition to the classic one. The fact remains that the theoretical framework of this trend is not yet completed nor the formation of a new dominant paradigm achieved.Among the key findings of behavioral finance, psychological tools provide relevant insights to developments in financial markets. The third chapter addresses the biases and heuristics in light of the crisis. The analysis of the crisis shows that heuristics and emotional biases may have led investors to judgment errors. The attention and analysis has focused on beliefs in an abstruse information and environmental context, allowing the development of heuristics. Consequently, the tools of behavioral finance can develop a mental map to this crisis.Behavioral finance seeks to establish a more sophisticated conceptual framework. The theory of "animal spirits" has regained momentum especially among behaviorists of neo-Keynesian orientation. The return to this concept is explained by the growing importance of certain concepts such as confidence, corruption and the role of stories in the context of this crisis. Moreover, collusion and corrupt system operation almost permanently undermine confidence in the financial economy. This fourth chapter shows that trust and corruption stem from human psychology and show the weight of the latter in situations of uncertainty and the relationship between men and earnings.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="https://thares.univ-grenoble-alpes.fr/2015GREAE011.pdf" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Service Interétablissement de Documentation. LLSH Collections numériques.</li>
+ 					<li>Bibliothèque : Université Savoie Mont Blanc (Chambéry-Annecy). Service commun de la documentation et des bibliothèques universitaires. Bibliothèque électronique.</li>
+ 					<li>Bibliothèque : Service interétablissements de Documentation. STM. Collections numériques.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/19870769X" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

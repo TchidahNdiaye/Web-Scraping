@@ -1,0 +1,926 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Trois essais sur l&rsquo;epargne salariale comme dispositif d&rsquo;association des salaries a la croissance et au developpement de l&rsquo;entreprise"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2017TOUL2003"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Ce travail doctoral s&rsquo;interroge sur les d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale. Le chapitre 1 pr&eacute;sente un &eacute;tat des lieux de l&rsquo;&eacute;pargne salariale. Nous d&eacute;taillons ensuite les principales r&egrave;gles de fonctionnement de l&rsquo;&eacute;pargne salariale. Nous pr&eacute;sentons enfin les principaux d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale identifi&eacute;s par la litt&eacute;rature.  Le chapitre 2 examine les d&eacute;terminants socio-&eacute;conomiques de l&rsquo;efficience des portefeuilles d&rsquo;&eacute;pargne salariale. Il propose &eacute;galement une analyse des d&eacute;terminants des erreurs d&rsquo;investissement des salari&eacute;s mesur&eacute;es par un indice. Nous dissocions les investissements faits dans le cadre des augmentations de capital r&eacute;serv&eacute;es aux salari&eacute;s et ceux faits au titre des autres plans d&rsquo;&eacute;pargne entreprise. Nous nous int&eacute;ressons d&rsquo;une part &agrave; la d&eacute;cision binaire d&rsquo;investir ou pas, et &agrave; l&rsquo;efficience du portefeuille d&rsquo;autre part. Notre &eacute;chantillon porte sur 30 000 salari&eacute;s d&rsquo;un groupe bancaire fran&ccedil;ais et contient des informations sur les caract&eacute;ristiques individuelles des salari&eacute;s et le d&eacute;tail des montants investis dans les plans et leurs caract&eacute;ristiques de rentabilit&eacute; et de risque. Les caract&eacute;ristiques des salari&eacute;s affectent significativement l&rsquo;efficience des portefeuilles. Nous mettons en &eacute;vidence une forte concentration en actions de l&rsquo;entreprise. Nous montrons &eacute;galement que l&rsquo;investissement des salari&eacute;s est sous optimal compte tenu de l&rsquo;&eacute;cart existant entre le ratio de Sharpe optimal que nous avons calcul&eacute;s et le ratio de Sharpe des salari&eacute;s. Nous r&eacute;gressons enfin cette diff&eacute;rence sur les caract&eacute;ristiques des salari&eacute;s. Le chapitre 3 analyse empiriquement les d&eacute;terminants de l&rsquo;investissement en actions de l&rsquo;entreprise. L&rsquo;actionnariat salari&eacute; diminuerait les comportements de retrait des salari&eacute;s tels que l&rsquo;absent&eacute;isme et la rotation du personnel. Or, la causalit&eacute; inverse que nous postulerons n&rsquo;avait jamais &eacute;t&eacute; analys&eacute;e : l&rsquo;effet de l&rsquo;absent&eacute;isme et de la rotation du personnel sur l&rsquo;investissement en actions de l&rsquo;entreprise par ses salari&eacute;s. Nous montrons que l&rsquo;absent&eacute;isme et la rotation du personnel affectent significativement la participation. Nous validons nos hypoth&egrave;ses de recherche &agrave; l&rsquo;aide de diverses m&eacute;thodes de r&eacute;gression. Nous analysons un panel d&rsquo;environ 15 000 salari&eacute;s de pr&egrave;s de 900 filiales d&rsquo;un groupe fran&ccedil;ais cot&eacute; appartenant au secteur de la construction, des travaux publics et des concessions sur une p&eacute;riode de 5 ans. La participation au plan d&rsquo;actionnariat salari&eacute; d&eacute;pend du niveau d&rsquo;absent&eacute;isme et de rotation du personnel au sein de l&rsquo;entreprise. L&rsquo;absent&eacute;isme et la rotation du personnel influencent l&rsquo;investissement en actions de l&rsquo;entreprise diff&eacute;remment selon la cat&eacute;gorie socioprofessionnelle du salari&eacute; et les motifs d&rsquo;absences et de sorties Le chapitre 4 administre un questionnaire &agrave; des &eacute;pargnants individuels afin d&rsquo;&eacute;valuer leur connaissance financi&egrave;re. Nous nous sommes inspir&eacute;s des enqu&ecirc;tes de Lusardi et de la Banque Centrale Europ&eacute;enne afin de r&eacute;aliser un questionnaire adapt&eacute; au cas fran&ccedil;ais. Nous constatons l&rsquo;influence de l&rsquo;&eacute;ducation financi&egrave;re sur les d&eacute;cisions d&rsquo;investir. Le questionnaire a &eacute;t&eacute; diffus&eacute; aupr&egrave;s des salari&eacute;s d&rsquo;un &eacute;tablissement bancaire d&rsquo;une part et de leurs clients d&rsquo;autre part. Bien que nos r&eacute;sultats confirment dans l&rsquo;ensemble la litt&eacute;rature sur la connaissance financi&egrave;re, nous identifions plusieurs nouveaux r&eacute;sultats."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2017TOUL2003.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Yacine Bekrar , Trois essais sur l&rsquo;epargne salariale comme dispositif d&rsquo;association des salaries a la croissance et au developpement de l&rsquo;entreprise">
+<meta name="description" content="Ce travail doctoral s&rsquo;interroge sur les d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale. Le chapitre 1 pr&eacute;sente un &eacute;tat des lieux de l&rsquo;&eacute;pargne salariale. Nous d&eacute;taillons ensuite les principales r&egrave;gles de fonctionnement de l&rsquo;&eacute;pargne salariale. Nous pr&eacute;sentons enfin les principaux d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale identifi&eacute;s par la litt&eacute;rature.  Le chapitre 2 examine les d&eacute;terminants socio-&eacute;conomiques de l&rsquo;efficience des portefeuilles d&rsquo;&eacute;pargne salariale. Il propose &eacute;galement une analyse des d&eacute;terminants des erreurs d&rsquo;investissement des salari&eacute;s mesur&eacute;es par un indice. Nous dissocions les investissements faits dans le cadre des augmentations de capital r&eacute;serv&eacute;es aux salari&eacute;s et ceux faits au titre des autres plans d&rsquo;&eacute;pargne entreprise. Nous nous int&eacute;ressons d&rsquo;une part &agrave; la d&eacute;cision binaire d&rsquo;investir ou pas, et &agrave; l&rsquo;efficience du portefeuille d&rsquo;autre part. Notre &eacute;chantillon porte sur 30 000 salari&eacute;s d&rsquo;un groupe bancaire fran&ccedil;ais et contient des informations sur les caract&eacute;ristiques individuelles des salari&eacute;s et le d&eacute;tail des montants investis dans les plans et leurs caract&eacute;ristiques de rentabilit&eacute; et de risque. Les caract&eacute;ristiques des salari&eacute;s affectent significativement l&rsquo;efficience des portefeuilles. Nous mettons en &eacute;vidence une forte concentration en actions de l&rsquo;entreprise. Nous montrons &eacute;galement que l&rsquo;investissement des salari&eacute;s est sous optimal compte tenu de l&rsquo;&eacute;cart existant entre le ratio de Sharpe optimal que nous avons calcul&eacute;s et le ratio de Sharpe des salari&eacute;s. Nous r&eacute;gressons enfin cette diff&eacute;rence sur les caract&eacute;ristiques des salari&eacute;s. Le chapitre 3 analyse empiriquement les d&eacute;terminants de l&rsquo;investissement en actions de l&rsquo;entreprise. L&rsquo;actionnariat salari&eacute; diminuerait les comportements de retrait des salari&eacute;s tels que l&rsquo;absent&eacute;isme et la rotation du personnel. Or, la causalit&eacute; inverse que nous postulerons n&rsquo;avait jamais &eacute;t&eacute; analys&eacute;e : l&rsquo;effet de l&rsquo;absent&eacute;isme et de la rotation du personnel sur l&rsquo;investissement en actions de l&rsquo;entreprise par ses salari&eacute;s. Nous montrons que l&rsquo;absent&eacute;isme et la rotation du personnel affectent significativement la participation. Nous validons nos hypoth&egrave;ses de recherche &agrave; l&rsquo;aide de diverses m&eacute;thodes de r&eacute;gression. Nous analysons un panel d&rsquo;environ 15 000 salari&eacute;s de pr&egrave;s de 900 filiales d&rsquo;un groupe fran&ccedil;ais cot&eacute; appartenant au secteur de la construction, des travaux publics et des concessions sur une p&eacute;riode de 5 ans. La participation au plan d&rsquo;actionnariat salari&eacute; d&eacute;pend du niveau d&rsquo;absent&eacute;isme et de rotation du personnel au sein de l&rsquo;entreprise. L&rsquo;absent&eacute;isme et la rotation du personnel influencent l&rsquo;investissement en actions de l&rsquo;entreprise diff&eacute;remment selon la cat&eacute;gorie socioprofessionnelle du salari&eacute; et les motifs d&rsquo;absences et de sorties Le chapitre 4 administre un questionnaire &agrave; des &eacute;pargnants individuels afin d&rsquo;&eacute;valuer leur connaissance financi&egrave;re. Nous nous sommes inspir&eacute;s des enqu&ecirc;tes de Lusardi et de la Banque Centrale Europ&eacute;enne afin de r&eacute;aliser un questionnaire adapt&eacute; au cas fran&ccedil;ais. Nous constatons l&rsquo;influence de l&rsquo;&eacute;ducation financi&egrave;re sur les d&eacute;cisions d&rsquo;investir. Le questionnaire a &eacute;t&eacute; diffus&eacute; aupr&egrave;s des salari&eacute;s d&rsquo;un &eacute;tablissement bancaire d&rsquo;une part et de leurs clients d&rsquo;autre part. Bien que nos r&eacute;sultats confirment dans l&rsquo;ensemble la litt&eacute;rature sur la connaissance financi&egrave;re, nous identifions plusieurs nouveaux r&eacute;sultats." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Actionnariat salari&eacute; Augmentation de capital Comportement de retrait Comportement des investisseurs Finance des m&eacute;nages Efficience des portefeuilles Connaissance financi&egrave;re Finance d'entreprise " xml:lang="FR" />
+<meta name="description" content="This dissertation questions the determinants of employee savings behavior. Chapter 1 presents an overview of employee savings schemes. We then detail the main rules of employee savings schemes. Finally, we present the main determinants of the behavior of employee savings schemes identified by the literature. Chapter 2 examines the socio-economic determinants of employee savings&rsquo; portfolio efficiency. It also proposes an analysis of the determinants of investment errors of employees measured by an index. We dissociate investments made in the context of Employee stock purchase plan and those made through other employee savings plans. We are interested in the binary decision to invest or not on the one hand and in the portfolio efficiency on the other hand. Our sample covers 30,000 employees of a French bank, contains information on the individual characteristics of employees and details of the amounts invested in the plans, their risk and risk characteristics. The characteristics of the employees significantly affect the efficiency of the portfolios. We highlight a strong concentration of company stocks. We also show that the investment of employees is not optimal given the gap between the optimal Sharpe ratio and the actual Sharpe ratio. We finally regress this difference on the characteristics of the employees. Chapter 3 empirically analyzes the determinants of investment in company shares. Employee stock ownership would reduce the withdrawal behavior of employees, such as absenteeism and turnover. However, the reverse causality we assume had never been analyzed: the effect of absenteeism and the staff turnover on the investment in employer&rsquo;s stocks. We show that absenteeism and staff turnover significantly affect participation. We validate our hypotheses using a variety of regression methods. We analyze a panel of approximately 15,000 employees of nearly 900 subsidiaries over a period of 5 years of a French listed company belonging to the construction, public works and concessions sector. Participation in employee stock ownership plan depends on the level of absenteeism and turnover of employees within the company. Absenteeism and staff turnover influence the investment in company shares differently depending on the employee's occupations category and the reasons for absences and departures. Chapter 4 analyze the results of a survey we sent to individual savers to assess their financial literacy. We translated the surveys of Lusardi and the European Central Bank to produce a questionnaire adapted to the French case. We see the influence of financial education on investment decisions. The questionnaire was distributed to the employees of a bank on the one hand and their customers on the other. Although our results generally confirm the literature on financial literacy, we identify several new findings." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Employee stock owership Employee stock purchase plans Employees' turnover and absenteeism Individual investors behavior Household finance Portfolio efficiency Financial literacy Corporate finance " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Trois essais sur l&rsquo;epargne salariale comme dispositif d&rsquo;association des salaries a la croissance et au developpement de l&rsquo;entreprise">
+<meta name="DC.creator" content="Yacine Bekrar" />
+<meta name="DC.contributor" content="Aubert Nicolas Ben Larbi Sami "/>
+<meta name="DC.publisher" content="Toulon" />
+<meta name="DC.description.abstract" content="Ce travail doctoral s&rsquo;interroge sur les d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale. Le chapitre 1 pr&eacute;sente un &eacute;tat des lieux de l&rsquo;&eacute;pargne salariale. Nous d&eacute;taillons ensuite les principales r&egrave;gles de fonctionnement de l&rsquo;&eacute;pargne salariale. Nous pr&eacute;sentons enfin les principaux d&eacute;terminants des comportements d&rsquo;&eacute;pargne salariale identifi&eacute;s par la litt&eacute;rature.  Le chapitre 2 examine les d&eacute;terminants socio-&eacute;conomiques de l&rsquo;efficience des portefeuilles d&rsquo;&eacute;pargne salariale. Il propose &eacute;galement une analyse des d&eacute;terminants des erreurs d&rsquo;investissement des salari&eacute;s mesur&eacute;es par un indice. Nous dissocions les investissements faits dans le cadre des augmentations de capital r&eacute;serv&eacute;es aux salari&eacute;s et ceux faits au titre des autres plans d&rsquo;&eacute;pargne entreprise. Nous nous int&eacute;ressons d&rsquo;une part &agrave; la d&eacute;cision binaire d&rsquo;investir ou pas, et &agrave; l&rsquo;efficience du portefeuille d&rsquo;autre part. Notre &eacute;chantillon porte sur 30 000 salari&eacute;s d&rsquo;un groupe bancaire fran&ccedil;ais et contient des informations sur les caract&eacute;ristiques individuelles des salari&eacute;s et le d&eacute;tail des montants investis dans les plans et leurs caract&eacute;ristiques de rentabilit&eacute; et de risque. Les caract&eacute;ristiques des salari&eacute;s affectent significativement l&rsquo;efficience des portefeuilles. Nous mettons en &eacute;vidence une forte concentration en actions de l&rsquo;entreprise. Nous montrons &eacute;galement que l&rsquo;investissement des salari&eacute;s est sous optimal compte tenu de l&rsquo;&eacute;cart existant entre le ratio de Sharpe optimal que nous avons calcul&eacute;s et le ratio de Sharpe des salari&eacute;s. Nous r&eacute;gressons enfin cette diff&eacute;rence sur les caract&eacute;ristiques des salari&eacute;s. Le chapitre 3 analyse empiriquement les d&eacute;terminants de l&rsquo;investissement en actions de l&rsquo;entreprise. L&rsquo;actionnariat salari&eacute; diminuerait les comportements de retrait des salari&eacute;s tels que l&rsquo;absent&eacute;isme et la rotation du personnel. Or, la causalit&eacute; inverse que nous postulerons n&rsquo;avait jamais &eacute;t&eacute; analys&eacute;e : l&rsquo;effet de l&rsquo;absent&eacute;isme et de la rotation du personnel sur l&rsquo;investissement en actions de l&rsquo;entreprise par ses salari&eacute;s. Nous montrons que l&rsquo;absent&eacute;isme et la rotation du personnel affectent significativement la participation. Nous validons nos hypoth&egrave;ses de recherche &agrave; l&rsquo;aide de diverses m&eacute;thodes de r&eacute;gression. Nous analysons un panel d&rsquo;environ 15 000 salari&eacute;s de pr&egrave;s de 900 filiales d&rsquo;un groupe fran&ccedil;ais cot&eacute; appartenant au secteur de la construction, des travaux publics et des concessions sur une p&eacute;riode de 5 ans. La participation au plan d&rsquo;actionnariat salari&eacute; d&eacute;pend du niveau d&rsquo;absent&eacute;isme et de rotation du personnel au sein de l&rsquo;entreprise. L&rsquo;absent&eacute;isme et la rotation du personnel influencent l&rsquo;investissement en actions de l&rsquo;entreprise diff&eacute;remment selon la cat&eacute;gorie socioprofessionnelle du salari&eacute; et les motifs d&rsquo;absences et de sorties Le chapitre 4 administre un questionnaire &agrave; des &eacute;pargnants individuels afin d&rsquo;&eacute;valuer leur connaissance financi&egrave;re. Nous nous sommes inspir&eacute;s des enqu&ecirc;tes de Lusardi et de la Banque Centrale Europ&eacute;enne afin de r&eacute;aliser un questionnaire adapt&eacute; au cas fran&ccedil;ais. Nous constatons l&rsquo;influence de l&rsquo;&eacute;ducation financi&egrave;re sur les d&eacute;cisions d&rsquo;investir. Le questionnaire a &eacute;t&eacute; diffus&eacute; aupr&egrave;s des salari&eacute;s d&rsquo;un &eacute;tablissement bancaire d&rsquo;une part et de leurs clients d&rsquo;autre part. Bien que nos r&eacute;sultats confirment dans l&rsquo;ensemble la litt&eacute;rature sur la connaissance financi&egrave;re, nous identifions plusieurs nouveaux r&eacute;sultats." xml:lang="FR"/>
+<meta name="DC.subject" content="Actionnariat salari&eacute; Augmentation de capital Comportement de retrait Comportement des investisseurs Finance des m&eacute;nages Efficience des portefeuilles Connaissance financi&egrave;re Finance d'entreprise  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="This dissertation questions the determinants of employee savings behavior. Chapter 1 presents an overview of employee savings schemes. We then detail the main rules of employee savings schemes. Finally, we present the main determinants of the behavior of employee savings schemes identified by the literature. Chapter 2 examines the socio-economic determinants of employee savings&rsquo; portfolio efficiency. It also proposes an analysis of the determinants of investment errors of employees measured by an index. We dissociate investments made in the context of Employee stock purchase plan and those made through other employee savings plans. We are interested in the binary decision to invest or not on the one hand and in the portfolio efficiency on the other hand. Our sample covers 30,000 employees of a French bank, contains information on the individual characteristics of employees and details of the amounts invested in the plans, their risk and risk characteristics. The characteristics of the employees significantly affect the efficiency of the portfolios. We highlight a strong concentration of company stocks. We also show that the investment of employees is not optimal given the gap between the optimal Sharpe ratio and the actual Sharpe ratio. We finally regress this difference on the characteristics of the employees. Chapter 3 empirically analyzes the determinants of investment in company shares. Employee stock ownership would reduce the withdrawal behavior of employees, such as absenteeism and turnover. However, the reverse causality we assume had never been analyzed: the effect of absenteeism and the staff turnover on the investment in employer&rsquo;s stocks. We show that absenteeism and staff turnover significantly affect participation. We validate our hypotheses using a variety of regression methods. We analyze a panel of approximately 15,000 employees of nearly 900 subsidiaries over a period of 5 years of a French listed company belonging to the construction, public works and concessions sector. Participation in employee stock ownership plan depends on the level of absenteeism and turnover of employees within the company. Absenteeism and staff turnover influence the investment in company shares differently depending on the employee's occupations category and the reasons for absences and departures. Chapter 4 analyze the results of a survey we sent to individual savers to assess their financial literacy. We translated the surveys of Lusardi and the European Central Bank to produce a questionnaire adapted to the French case. We see the influence of financial education on investment decisions. The questionnaire was distributed to the employees of a bank on the one hand and their customers on the other. Although our results generally confirm the literature on financial literacy, we identify several new findings." xml:lang="EN"/>
+<meta name="DC.subject" content="Employee stock owership Employee stock purchase plans Employees' turnover and absenteeism Individual investors behavior Household finance Portfolio efficiency Financial literacy Corporate finance " xml:lang="EN"/>
+<meta name="DC.date" content="2017-03-15" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2017TOUL2003" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2017TOUL2003"/>
+<title> theses.fr – Yacine Bekrar , Trois essais sur l&rsquo;epargne salariale comme dispositif d&rsquo;association des salaries a la croissance et au developpement de l&rsquo;entreprise</title>
+<meta name="citation_title" content="Trois essais sur l&rsquo;epargne salariale comme dispositif d&rsquo;association des salaries a la croissance et au developpement de l&rsquo;entreprise" />
+<meta name="citation_author" content="Bekrar, Yacine" />
+<meta name="citation_publication_date" content="2017/03/15" />
+<meta name="citation_dissertation_institution" content="Toulon" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2017TOUL2003.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2017TOUL2003&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2017TOUL2003" title="Français" class="lang_fr current"></a>
+        <a href="/en/2017TOUL2003"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2017TOUL2003&lng=fr&ppn_origine=031122337&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2017TOUL2003.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2017TOUL2003.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2017TOUL2003.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2017TOUL2003/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Trois essais sur l’epargne salariale comme dispositif d’association des salaries a la croissance et au developpement de l’entreprise</h1>
+    <h2>par  <a href="224563378" rel="dcterms:creator" resource="http://www.idref.fr/224563378/id"><span property="foaf:name">Yacine Bekrar</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences de gestion</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="119051125" rel="dcterms:contributor" resource="http://www.idref.fr/119051125/id"><span property="foaf:name">Nicolas Aubert</span></a> et de 
+<a href="08061969X" rel="dcterms:contributor" resource="http://www.idref.fr/08061969X/id"><span property="foaf:name">Sami Ben Larbi</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=15-03-2017 datatype="xsd:date">15-03-2017</span></p>
+      <p>à <a href="031122337" rel="dcterms:contributor" resource="http://www.idref.fr/031122337/id"><span property="foaf:name">Toulon</span></a>
+, dans le cadre de  <a href="157483967" rel="dcterms:contributor" resource="http://www.idref.fr/157483967/id">
+<span property="foaf:name">École doctorale Sociétés méditerranéennes et sciences humaines. ED 509 (Toulon)</span></a>
+, en partenariat avec <a href="163852405" rel="dcterms:contributor" resource="http://www.idref.fr/163852405/id">
+<span property="foaf:name">Centre d'études et de recherche en gestion (CERGAM). EA 4225 (Aix-en-Provence, Bouches-du-Rhône ; Toulon, Var)</span></a>
+  (laboratoire) 
+ et de Centre d'Études et de Recherche en Gestion d'Aix-Marseille / CERGAM
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le jury était composé de 
+<a href="/fr/119051125" rel="dcterms:contributor" resource="http://www.idref.fr/119051125/id"><span property="foaf:name">Nicolas Aubert</span></a>, 
+<a href="/fr/08061969X" rel="dcterms:contributor" resource="http://www.idref.fr/08061969X/id"><span property="foaf:name">Sami Ben Larbi</span></a>, 
+<a href="/fr/056244185" rel="dcterms:contributor" resource="http://www.idref.fr/056244185/id"><span property="foaf:name">Isabelle Girerd-Potin</span></a>, 
+<a href="/fr/224564005" rel="dcterms:contributor" resource="http://www.idref.fr/224564005/id"><span property="foaf:name">Stéphane Renaud</span></a>, 
+<a href="/fr/130418552" rel="dcterms:contributor" resource="http://www.idref.fr/130418552/id"><span property="foaf:name">Geoffroy Enjolras</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/056244185" rel="dcterms:contributor" resource="http://www.idref.fr/056244185/id"><span property="foaf:name">Isabelle Girerd-Potin</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Actionnariat salarié">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Actionnariat salarié
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Augmentation de capital">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Augmentation de capital
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Comportement de retrait">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Comportement de retrait
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Comportement des investisseurs">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Comportement des investisseurs
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance des ménages">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Finance des ménages
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Efficience des portefeuilles">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Efficience des portefeuilles
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Connaissance financière">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Connaissance financière
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance d'entreprise">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Finance d'entreprise
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Entreprises Finances">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Entreprises -- Finances
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Épargne salariale">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Épargne salariale
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Participation aux résultats de l'entreprise">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Participation aux résultats de l'entreprise
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Analyse financière">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Analyse financière
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Investissements de capitaux">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Investissements de capitaux
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Gestion de portefeuille">
+<span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="fr">Gestion de portefeuille
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Ce travail doctoral s’interroge sur les déterminants des comportements d’épargne salariale. Le chapitre 1 présente un état des lieux de l’épargne salariale. Nous détaillons ensuite les principales règles de fonctionnement de l’épargne salariale. Nous présentons enfin les principaux déterminants des comportements d’épargne salariale identifiés par la littérature.  Le chapitre 2 examine les déterminants socio-économiques de l’efficience des portefeuilles d’épargne salariale. Il propose également une analyse des déterminants des erreurs d’investissement des salariés mesurées par un indice. Nous dissocions les investissements faits dans le cadre des augmentations de capital réservées aux salariés et ceux faits au titre des autres plans d’épargne entreprise. Nous nous intéressons d’une part à la décision binaire d’investir ou pas, et à l’efficience du portefeuille d’autre part. Notre échantillon porte sur 30 000 salariés d’un groupe bancaire français et contient des informations sur les caractéristiques individuelles des salariés et le détail des montants investis dans les plans et leurs caractéristiques de rentabilité et de risque. Les caractéristiques des salariés affectent significativement l’efficience des portefeuilles. Nous mettons en évidence une forte concentration en actions de l’entreprise. Nous montrons également que l’investissement des salariés est sous optimal compte tenu de l’écart existant entre le ratio de Sharpe optimal que nous avons calculés et le ratio de Sharpe des salariés. Nous régressons enfin cette différence sur les caractéristiques des salariés. Le chapitre 3 analyse empiriquement les déterminants de l’investissement en actions de l’entreprise. L’actionnariat salarié diminuerait les comportements de retrait des salariés tels que l’absentéisme et la rotation du personnel. Or, la causalité inverse que nous postulerons n’avait jamais été analysée : l’effet de l’absentéisme et de la rotation du personnel sur l’investissement en actions de l’entreprise par ses salariés. Nous montrons que l’absentéisme et la rotation du personnel affectent significativement la participation. Nous validons nos hypothèses de recherche à l’aide de diverses méthodes de régression. Nous analysons un panel d’environ 15 000 salariés de près de 900 filiales d’un groupe français coté appartenant au secteur de la construction, des travaux publics et des concessions sur une période de 5 ans. La participation au plan d’actionnariat salarié dépend du niveau d’absentéisme et de rotation du personnel au sein de l’entreprise. L’absentéisme et la rotation du personnel influencent l’investissement en actions de l’entreprise différemment selon la catégorie socioprofessionnelle du salarié et les motifs d’absences et de sorties Le chapitre 4 administre un questionnaire à des épargnants individuels afin d’évaluer leur connaissance financière. Nous nous sommes inspirés des enquêtes de Lusardi et de la Banque Centrale Européenne afin de réaliser un questionnaire adapté au cas français. Nous constatons l’influence de l’éducation financière sur les décisions d’investir. Le questionnaire a été diffusé auprès des salariés d’un établissement bancaire d’une part et de leurs clients d’autre part. Bien que nos résultats confirment dans l’ensemble la littérature sur la connaissance financière, nous identifions plusieurs nouveaux résultats.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Employee stock owership"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Employee stock owership</span></a></li>
+          <li><a href="/fr?q=*:Employee stock purchase plans"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Employee stock purchase plans</span></a></li>
+          <li><a href="/fr?q=*:Employees' turnover and absenteeism"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Employees' turnover and absenteeism</span></a></li>
+          <li><a href="/fr?q=*:Individual investors behavior"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Individual investors behavior</span></a></li>
+          <li><a href="/fr?q=*:Household finance"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Household finance</span></a></li>
+          <li><a href="/fr?q=*:Portfolio efficiency"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Portfolio efficiency</span></a></li>
+          <li><a href="/fr?q=*:Financial literacy"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Financial literacy</span></a></li>
+          <li><a href="/fr?q=*:Corporate finance"name="MotsClesAutre" > <span about="http://www.theses.fr/2017TOUL2003/id" property="dc:subject" xml:lang="en">Corporate finance</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Three essays on company based savings plans and shared capitalism</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">This dissertation questions the determinants of employee savings behavior. Chapter 1 presents an overview of employee savings schemes. We then detail the main rules of employee savings schemes. Finally, we present the main determinants of the behavior of employee savings schemes identified by the literature. Chapter 2 examines the socio-economic determinants of employee savings’ portfolio efficiency. It also proposes an analysis of the determinants of investment errors of employees measured by an index. We dissociate investments made in the context of Employee stock purchase plan and those made through other employee savings plans. We are interested in the binary decision to invest or not on the one hand and in the portfolio efficiency on the other hand. Our sample covers 30,000 employees of a French bank, contains information on the individual characteristics of employees and details of the amounts invested in the plans, their risk and risk characteristics. The characteristics of the employees significantly affect the efficiency of the portfolios. We highlight a strong concentration of company stocks. We also show that the investment of employees is not optimal given the gap between the optimal Sharpe ratio and the actual Sharpe ratio. We finally regress this difference on the characteristics of the employees. Chapter 3 empirically analyzes the determinants of investment in company shares. Employee stock ownership would reduce the withdrawal behavior of employees, such as absenteeism and turnover. However, the reverse causality we assume had never been analyzed: the effect of absenteeism and the staff turnover on the investment in employer’s stocks. We show that absenteeism and staff turnover significantly affect participation. We validate our hypotheses using a variety of regression methods. We analyze a panel of approximately 15,000 employees of nearly 900 subsidiaries over a period of 5 years of a French listed company belonging to the construction, public works and concessions sector. Participation in employee stock ownership plan depends on the level of absenteeism and turnover of employees within the company. Absenteeism and staff turnover influence the investment in company shares differently depending on the employee's occupations category and the reasons for absences and departures. Chapter 4 analyze the results of a survey we sent to individual savers to assess their financial literacy. We translated the surveys of Lusardi and the European Central Bank to produce a questionnaire adapted to the French case. We see the influence of financial education on investment decisions. The questionnaire was distributed to the employees of a bank on the one hand and their customers on the other. Although our results generally confirm the literature on financial literacy, we identify several new findings.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2017TOUL2003/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Université de Toulon. Bibliothèque.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/224567101" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

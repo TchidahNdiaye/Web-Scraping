@@ -1,0 +1,892 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="La mutualisation des risques islamiques en France"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2015PA010325"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="La finance islamique s'appuie sur un mod&egrave;le d'interm&eacute;diation bancaire &agrave; taux z&eacute;ro. C'est par cons&eacute;quent une finance dite libre d'int&eacute;r&ecirc;t. Elle n&eacute;cessite en outre l'adossement de toutes les transactions &agrave; un actif tangible tout en &eacute;tant fond&eacute;e sur le partage des profits et des pertes. Elle permet de regrouper toutes les techniques qui permettent de mettre des fonds &agrave; la disposition d'un agent &eacute;conomique pour r&eacute;pondre &agrave; ses besoins &agrave; court ou &agrave; long terme, sans violer l'interdiction absolue de recevoir une r&eacute;mun&eacute;ration sous formes d'int&eacute;r&ecirc;ts, ni les autres principes fondamentaux &eacute;dict&eacute;s par le droit musulman. D'apr&egrave;s les standards de l&rsquo;AAOIFI, chaque banque islamique doit se doter d'un conseil de conformit&eacute; &agrave; la charia, compos&eacute; de jurisconsultes et d&rsquo;experts en finance islamique (scharia scholars) ind&eacute;pendants d&eacute;sign&eacute;s par l'Assembl&eacute;e g&eacute;n&eacute;rale des actionnaires de l'&eacute;tablissement. Compos&eacute; au mois de trois savants, le r&ocirc;le de la sharia board est de valider et de certifier les contrats et les transactions financi&egrave;res de la banque. Pour ce faire il est charg&eacute; de sp&eacute;cifier les r&egrave;gles de conformit&eacute; avec les principes de la jurisprudence islamique et de contr&ocirc;ler leur application. Il doit ainsi proc&eacute;der &agrave; des v&eacute;rifications des activit&eacute;s entreprises par la banque, des proc&eacute;dures et de la documentation qui les accompagnent. Le p&eacute;rim&egrave;tre de la finance islamique couvre les activit&eacute;s historiques d'un march&eacute; financier. Les banques y jouent un r&ocirc;le important et leur interm&eacute;diation reste pr&eacute;dominante dans la collecte de l'&eacute;pargne et le financement des projets. L'appel public &agrave; l'&eacute;pargne passe par le march&eacute; des sukuk. Aujourd'hui, on s'accorde &agrave; reconna&icirc;tre qu'un syst&egrave;me &eacute;conomique et technique, global, a saisi le monde. Il s'agit d'un syst&egrave;me financier, de l'&eacute;conomie concurrentielle de march&eacute; tend &agrave; devenir une id&eacute;ologie, dans la mesure o&ugrave; il n'est pas organis&eacute; en termes de fins ni de valeurs. Ainsi, on s'int&eacute;resse d'abord &agrave; pr&eacute;senter la mobilisation de la finance islamique en France en insistant sur le march&eacute; du sukuk qui a envahi le monde entier. Puis on aborde le sujet de l'assurance islamique (le Takaful) qui est un type d'assurance islamique dans lequel les membres mettent de l'argent en commun pour b&eacute;n&eacute;ficier d'une garantie mutuelle contre pertes ou dommages. Fond&eacute; sur les pr&eacute;ceptes de la charia, l'assurance dite&laquo; Takaful &raquo; proc&egrave;de de l'id&eacute;e que les individus doivent coop&eacute;rer entre eux et se prot&eacute;ger mutuellement. Les compagnies d'assurance takaful sont une alternative aux compagnies d'assurance commerciales classiques, qui vont &agrave; l'encontre des principes du riba (l'int&eacute;r&ecirc;t), de l'al-mayssir (le hasard), et du al-gh&acirc;rar (la sp&eacute;culation), tous prohib&eacute;s par la charia. Ce travail a principalement permis de montrer la nouvelle place de la France et notamment Paris dans ce march&eacute; mondial et il a permis de dresser un &eacute;tat des lieux de la recherche d'alternatives, d'identifier et de comprendre le march&eacute; des sukuk sur notre territoire et surtout, de proposer des solutions pour permette &agrave; la place de Paris d'&ecirc;tre la terre d'accueil du march&eacute; des sukuk et de tous les types d'activit&eacute;s financi&egrave;res islamiques, banque d'investissement et de d&eacute;tail, assurance takaful. Et pour faire de la France la capitale de la finance islamique au monde."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2015PA010325.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Mirna Najib , La mutualisation des risques islamiques en France">
+<meta name="description" content="La finance islamique s'appuie sur un mod&egrave;le d'interm&eacute;diation bancaire &agrave; taux z&eacute;ro. C'est par cons&eacute;quent une finance dite libre d'int&eacute;r&ecirc;t. Elle n&eacute;cessite en outre l'adossement de toutes les transactions &agrave; un actif tangible tout en &eacute;tant fond&eacute;e sur le partage des profits et des pertes. Elle permet de regrouper toutes les techniques qui permettent de mettre des fonds &agrave; la disposition d'un agent &eacute;conomique pour r&eacute;pondre &agrave; ses besoins &agrave; court ou &agrave; long terme, sans violer l'interdiction absolue de recevoir une r&eacute;mun&eacute;ration sous formes d'int&eacute;r&ecirc;ts, ni les autres principes fondamentaux &eacute;dict&eacute;s par le droit musulman. D'apr&egrave;s les standards de l&rsquo;AAOIFI, chaque banque islamique doit se doter d'un conseil de conformit&eacute; &agrave; la charia, compos&eacute; de jurisconsultes et d&rsquo;experts en finance islamique (scharia scholars) ind&eacute;pendants d&eacute;sign&eacute;s par l'Assembl&eacute;e g&eacute;n&eacute;rale des actionnaires de l'&eacute;tablissement. Compos&eacute; au mois de trois savants, le r&ocirc;le de la sharia board est de valider et de certifier les contrats et les transactions financi&egrave;res de la banque. Pour ce faire il est charg&eacute; de sp&eacute;cifier les r&egrave;gles de conformit&eacute; avec les principes de la jurisprudence islamique et de contr&ocirc;ler leur application. Il doit ainsi proc&eacute;der &agrave; des v&eacute;rifications des activit&eacute;s entreprises par la banque, des proc&eacute;dures et de la documentation qui les accompagnent. Le p&eacute;rim&egrave;tre de la finance islamique couvre les activit&eacute;s historiques d'un march&eacute; financier. Les banques y jouent un r&ocirc;le important et leur interm&eacute;diation reste pr&eacute;dominante dans la collecte de l'&eacute;pargne et le financement des projets. L'appel public &agrave; l'&eacute;pargne passe par le march&eacute; des sukuk. Aujourd'hui, on s'accorde &agrave; reconna&icirc;tre qu'un syst&egrave;me &eacute;conomique et technique, global, a saisi le monde. Il s'agit d'un syst&egrave;me financier, de l'&eacute;conomie concurrentielle de march&eacute; tend &agrave; devenir une id&eacute;ologie, dans la mesure o&ugrave; il n'est pas organis&eacute; en termes de fins ni de valeurs. Ainsi, on s'int&eacute;resse d'abord &agrave; pr&eacute;senter la mobilisation de la finance islamique en France en insistant sur le march&eacute; du sukuk qui a envahi le monde entier. Puis on aborde le sujet de l'assurance islamique (le Takaful) qui est un type d'assurance islamique dans lequel les membres mettent de l'argent en commun pour b&eacute;n&eacute;ficier d'une garantie mutuelle contre pertes ou dommages. Fond&eacute; sur les pr&eacute;ceptes de la charia, l'assurance dite&laquo; Takaful &raquo; proc&egrave;de de l'id&eacute;e que les individus doivent coop&eacute;rer entre eux et se prot&eacute;ger mutuellement. Les compagnies d'assurance takaful sont une alternative aux compagnies d'assurance commerciales classiques, qui vont &agrave; l'encontre des principes du riba (l'int&eacute;r&ecirc;t), de l'al-mayssir (le hasard), et du al-gh&acirc;rar (la sp&eacute;culation), tous prohib&eacute;s par la charia. Ce travail a principalement permis de montrer la nouvelle place de la France et notamment Paris dans ce march&eacute; mondial et il a permis de dresser un &eacute;tat des lieux de la recherche d'alternatives, d'identifier et de comprendre le march&eacute; des sukuk sur notre territoire et surtout, de proposer des solutions pour permette &agrave; la place de Paris d'&ecirc;tre la terre d'accueil du march&eacute; des sukuk et de tous les types d'activit&eacute;s financi&egrave;res islamiques, banque d'investissement et de d&eacute;tail, assurance takaful. Et pour faire de la France la capitale de la finance islamique au monde." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Mutualisation Risques Islamiques France Sukuk Assurance Takaful Fiducie " xml:lang="FR" />
+<meta name="description" content="The development of Islamic finance in the global market and the strong appetite that this compartment has in conventional finance arouses professionals to invite you to consider France to be the location of project finance transactions. Islamic finance is not only directed to the 1.5 billion Muslims. Several western countries are also interested in it because it has interesting features on transparency and banking regulation. Islamic finance is based on the principles of Islamic law (Sharia) that impose justice, fairness and transparency. It relies on a bank intermediation model to zero and is, therefore, called a free financial interest. Free financial interest also requires the backing of all transactions in a tangible asset white being based on both the share of profits and losses. With a range between 2.1 and 5 million Muslims, France has more Muslims that no less than eight members of the Arab League including Lebanon, Kuwait, Qatar, Bahrain, UAE, Palestine, Djibouti and the Comores Islands. This figure shows de facto that France is the first European country by the importance of its Muslim community and will remain so until 2030. With the adoption of tax instructions to avoid penalizing Islamic finance operations compared to convention al operations, the legal framework is present. In addition, the insurance law provides for statutes perfectly compatible with Takaful principles without the need to legislate or amend. France is the world's fifth largest insurance market with a penetration rate of nearly 10% according to the SIGMA journal published by Swiss Re. The 2013 annual report of the FFSA reported 188 billion euros of contributions of ail markets in France. If Takaful solutions arrived to pick only 2% of the French market in France it would become the second global market. Two Islamic instruments have emerged in France first. Sukuk, which is a mutual solidarity through a pooling of risks and resources by a collective way (insured), are shared by the market and by other Islamic insurance (Takaful)." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Mutualisation Risks Islamic France Sukuk Mutual Takaful " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="La mutualisation des risques islamiques en France">
+<meta name="DC.creator" content="Mirna Najib" />
+<meta name="DC.contributor" content="Parl&eacute;ani Gilbert "/>
+<meta name="DC.publisher" content="Paris 1" />
+<meta name="DC.description.abstract" content="La finance islamique s'appuie sur un mod&egrave;le d'interm&eacute;diation bancaire &agrave; taux z&eacute;ro. C'est par cons&eacute;quent une finance dite libre d'int&eacute;r&ecirc;t. Elle n&eacute;cessite en outre l'adossement de toutes les transactions &agrave; un actif tangible tout en &eacute;tant fond&eacute;e sur le partage des profits et des pertes. Elle permet de regrouper toutes les techniques qui permettent de mettre des fonds &agrave; la disposition d'un agent &eacute;conomique pour r&eacute;pondre &agrave; ses besoins &agrave; court ou &agrave; long terme, sans violer l'interdiction absolue de recevoir une r&eacute;mun&eacute;ration sous formes d'int&eacute;r&ecirc;ts, ni les autres principes fondamentaux &eacute;dict&eacute;s par le droit musulman. D'apr&egrave;s les standards de l&rsquo;AAOIFI, chaque banque islamique doit se doter d'un conseil de conformit&eacute; &agrave; la charia, compos&eacute; de jurisconsultes et d&rsquo;experts en finance islamique (scharia scholars) ind&eacute;pendants d&eacute;sign&eacute;s par l'Assembl&eacute;e g&eacute;n&eacute;rale des actionnaires de l'&eacute;tablissement. Compos&eacute; au mois de trois savants, le r&ocirc;le de la sharia board est de valider et de certifier les contrats et les transactions financi&egrave;res de la banque. Pour ce faire il est charg&eacute; de sp&eacute;cifier les r&egrave;gles de conformit&eacute; avec les principes de la jurisprudence islamique et de contr&ocirc;ler leur application. Il doit ainsi proc&eacute;der &agrave; des v&eacute;rifications des activit&eacute;s entreprises par la banque, des proc&eacute;dures et de la documentation qui les accompagnent. Le p&eacute;rim&egrave;tre de la finance islamique couvre les activit&eacute;s historiques d'un march&eacute; financier. Les banques y jouent un r&ocirc;le important et leur interm&eacute;diation reste pr&eacute;dominante dans la collecte de l'&eacute;pargne et le financement des projets. L'appel public &agrave; l'&eacute;pargne passe par le march&eacute; des sukuk. Aujourd'hui, on s'accorde &agrave; reconna&icirc;tre qu'un syst&egrave;me &eacute;conomique et technique, global, a saisi le monde. Il s'agit d'un syst&egrave;me financier, de l'&eacute;conomie concurrentielle de march&eacute; tend &agrave; devenir une id&eacute;ologie, dans la mesure o&ugrave; il n'est pas organis&eacute; en termes de fins ni de valeurs. Ainsi, on s'int&eacute;resse d'abord &agrave; pr&eacute;senter la mobilisation de la finance islamique en France en insistant sur le march&eacute; du sukuk qui a envahi le monde entier. Puis on aborde le sujet de l'assurance islamique (le Takaful) qui est un type d'assurance islamique dans lequel les membres mettent de l'argent en commun pour b&eacute;n&eacute;ficier d'une garantie mutuelle contre pertes ou dommages. Fond&eacute; sur les pr&eacute;ceptes de la charia, l'assurance dite&laquo; Takaful &raquo; proc&egrave;de de l'id&eacute;e que les individus doivent coop&eacute;rer entre eux et se prot&eacute;ger mutuellement. Les compagnies d'assurance takaful sont une alternative aux compagnies d'assurance commerciales classiques, qui vont &agrave; l'encontre des principes du riba (l'int&eacute;r&ecirc;t), de l'al-mayssir (le hasard), et du al-gh&acirc;rar (la sp&eacute;culation), tous prohib&eacute;s par la charia. Ce travail a principalement permis de montrer la nouvelle place de la France et notamment Paris dans ce march&eacute; mondial et il a permis de dresser un &eacute;tat des lieux de la recherche d'alternatives, d'identifier et de comprendre le march&eacute; des sukuk sur notre territoire et surtout, de proposer des solutions pour permette &agrave; la place de Paris d'&ecirc;tre la terre d'accueil du march&eacute; des sukuk et de tous les types d'activit&eacute;s financi&egrave;res islamiques, banque d'investissement et de d&eacute;tail, assurance takaful. Et pour faire de la France la capitale de la finance islamique au monde." xml:lang="FR"/>
+<meta name="DC.subject" content="Mutualisation Risques Islamiques France Sukuk Assurance Takaful Fiducie  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The development of Islamic finance in the global market and the strong appetite that this compartment has in conventional finance arouses professionals to invite you to consider France to be the location of project finance transactions. Islamic finance is not only directed to the 1.5 billion Muslims. Several western countries are also interested in it because it has interesting features on transparency and banking regulation. Islamic finance is based on the principles of Islamic law (Sharia) that impose justice, fairness and transparency. It relies on a bank intermediation model to zero and is, therefore, called a free financial interest. Free financial interest also requires the backing of all transactions in a tangible asset white being based on both the share of profits and losses. With a range between 2.1 and 5 million Muslims, France has more Muslims that no less than eight members of the Arab League including Lebanon, Kuwait, Qatar, Bahrain, UAE, Palestine, Djibouti and the Comores Islands. This figure shows de facto that France is the first European country by the importance of its Muslim community and will remain so until 2030. With the adoption of tax instructions to avoid penalizing Islamic finance operations compared to convention al operations, the legal framework is present. In addition, the insurance law provides for statutes perfectly compatible with Takaful principles without the need to legislate or amend. France is the world's fifth largest insurance market with a penetration rate of nearly 10% according to the SIGMA journal published by Swiss Re. The 2013 annual report of the FFSA reported 188 billion euros of contributions of ail markets in France. If Takaful solutions arrived to pick only 2% of the French market in France it would become the second global market. Two Islamic instruments have emerged in France first. Sukuk, which is a mutual solidarity through a pooling of risks and resources by a collective way (insured), are shared by the market and by other Islamic insurance (Takaful)." xml:lang="EN"/>
+<meta name="DC.subject" content="Mutualisation Risks Islamic France Sukuk Mutual Takaful " xml:lang="EN"/>
+<meta name="DC.date" content="2015-12-10" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2015PA010325" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2015PA010325"/>
+<title> theses.fr – Mirna Najib , La mutualisation des risques islamiques en France</title>
+<meta name="citation_title" content="La mutualisation des risques islamiques en France" />
+<meta name="citation_author" content="Najib, Mirna" />
+<meta name="citation_publication_date" content="2015/12/10" />
+<meta name="citation_dissertation_institution" content="Paris 1" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2015PA010325&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2015PA010325" title="Français" class="lang_fr current"></a>
+        <a href="/en/2015PA010325"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2015PA010325&lng=fr&ppn_origine=027361802&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2015PA010325.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2015PA010325.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2015PA010325.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2015PA010325/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">La mutualisation des risques islamiques en France</h1>
+    <h2>par  <a href="231664095" rel="dcterms:creator" resource="http://www.idref.fr/231664095/id"><span property="foaf:name">Mirna Najib</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Droit privé</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="029448158" rel="dcterms:contributor" resource="http://www.idref.fr/029448158/id"><span property="foaf:name">Gilbert Parléani</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=10-12-2015 datatype="xsd:date">10-12-2015</span></p>
+      <p>à <a href="027361802" rel="dcterms:contributor" resource="http://www.idref.fr/027361802/id"><span property="foaf:name">Paris 1</span></a>
+, dans le cadre de  <a href="034732101" rel="dcterms:contributor" resource="http://www.idref.fr/034732101/id">
+<span property="foaf:name">École doctorale de droit de la Sorbonne (Paris ; 2015-....)</span></a>
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/02930153X" rel="dcterms:contributor" resource="http://www.idref.fr/02930153X/id"><span property="foaf:name">Dominique Legeais</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/029448158" rel="dcterms:contributor" resource="http://www.idref.fr/029448158/id"><span property="foaf:name">Gilbert Parléani</span></a>, 
+<a href="/fr/055852521" rel="dcterms:contributor" resource="http://www.idref.fr/055852521/id"><span property="foaf:name">Richard Ghueldre</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/034634711" rel="dcterms:contributor" resource="http://www.idref.fr/034634711/id"><span property="foaf:name">Gautier Bourdeaux</span></a>, 
+<a href="/fr/133333205" rel="dcterms:contributor" resource="http://www.idref.fr/133333205/id"><span property="foaf:name">Anne-Claire Rouaud</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Mutualisation">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Mutualisation
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risques">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Risques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Islamiques">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Islamiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:France">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">France
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Sukuk">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Sukuk
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Assurance">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Assurance
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Takaful">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Takaful
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Fiducie">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Fiducie
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance islamique France">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Finance islamique -- France
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Sukuk">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Sukuk
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Takaful">
+<span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="fr">Takaful
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">La finance islamique s'appuie sur un modèle d'intermédiation bancaire à taux zéro. C'est par conséquent une finance dite libre d'intérêt. Elle nécessite en outre l'adossement de toutes les transactions à un actif tangible tout en étant fondée sur le partage des profits et des pertes. Elle permet de regrouper toutes les techniques qui permettent de mettre des fonds à la disposition d'un agent économique pour répondre à ses besoins à court ou à long terme, sans violer l'interdiction absolue de recevoir une rémunération sous formes d'intérêts, ni les autres principes fondamentaux édictés par le droit musulman. D'après les standards de l’AAOIFI, chaque banque islamique doit se doter d'un conseil de conformité à la charia, composé de jurisconsultes et d’experts en finance islamique (scharia scholars) indépendants désignés par l'Assemblée générale des actionnaires de l'établissement. Composé au mois de trois savants, le rôle de la sharia board est de valider et de certifier les contrats et les transactions financières de la banque. Pour ce faire il est chargé de spécifier les règles de conformité avec les principes de la jurisprudence islamique et de contrôler leur application. Il doit ainsi procéder à des vérifications des activités entreprises par la banque, des procédures et de la documentation qui les accompagnent. Le périmètre de la finance islamique couvre les activités historiques d'un marché financier. Les banques y jouent un rôle important et leur intermédiation reste prédominante dans la collecte de l'épargne et le financement des projets. L'appel public à l'épargne passe par le marché des sukuk. Aujourd'hui, on s'accorde à reconnaître qu'un système économique et technique, global, a saisi le monde. Il s'agit d'un système financier, de l'économie concurrentielle de marché tend à devenir une idéologie, dans la mesure où il n'est pas organisé en termes de fins ni de valeurs. Ainsi, on s'intéresse d'abord à présenter la mobilisation de la finance islamique en France en insistant sur le marché du sukuk qui a envahi le monde entier. Puis on aborde le sujet de l'assurance islamique (le Takaful) qui est un type d'assurance islamique dans lequel les membres mettent de l'argent en commun pour bénéficier d'une garantie mutuelle contre pertes ou dommages. Fondé sur les préceptes de la charia, l'assurance dite« Takaful » procède de l'idée que les individus doivent coopérer entre eux et se protéger mutuellement. Les compagnies d'assurance takaful sont une alternative aux compagnies d'assurance commerciales classiques, qui vont à l'encontre des principes du riba (l'intérêt), de l'al-mayssir (le hasard), et du al-ghârar (la spéculation), tous prohibés par la charia. Ce travail a principalement permis de montrer la nouvelle place de la France et notamment Paris dans ce marché mondial et il a permis de dresser un état des lieux de la recherche d'alternatives, d'identifier et de comprendre le marché des sukuk sur notre territoire et surtout, de proposer des solutions pour permette à la place de Paris d'être la terre d'accueil du marché des sukuk et de tous les types d'activités financières islamiques, banque d'investissement et de détail, assurance takaful. Et pour faire de la France la capitale de la finance islamique au monde.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Mutualisation"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Mutualisation</span></a></li>
+          <li><a href="/fr?q=*:Risks"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Risks</span></a></li>
+          <li><a href="/fr?q=*:Islamic"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Islamic</span></a></li>
+          <li><a href="/fr?q=*:France"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">France</span></a></li>
+          <li><a href="/fr?q=*:Sukuk"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Sukuk</span></a></li>
+          <li><a href="/fr?q=*:Mutual"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Mutual</span></a></li>
+          <li><a href="/fr?q=*:Takaful"name="MotsClesAutre" > <span about="http://www.theses.fr/2015PA010325/id" property="dc:subject" xml:lang="en">Takaful</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Mutualisation of Islamic risks in France</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The development of Islamic finance in the global market and the strong appetite that this compartment has in conventional finance arouses professionals to invite you to consider France to be the location of project finance transactions. Islamic finance is not only directed to the 1.5 billion Muslims. Several western countries are also interested in it because it has interesting features on transparency and banking regulation. Islamic finance is based on the principles of Islamic law (Sharia) that impose justice, fairness and transparency. It relies on a bank intermediation model to zero and is, therefore, called a free financial interest. Free financial interest also requires the backing of all transactions in a tangible asset white being based on both the share of profits and losses. With a range between 2.1 and 5 million Muslims, France has more Muslims that no less than eight members of the Arab League including Lebanon, Kuwait, Qatar, Bahrain, UAE, Palestine, Djibouti and the Comores Islands. This figure shows de facto that France is the first European country by the importance of its Muslim community and will remain so until 2030. With the adoption of tax instructions to avoid penalizing Islamic finance operations compared to convention al operations, the legal framework is present. In addition, the insurance law provides for statutes perfectly compatible with Takaful principles without the need to legislate or amend. France is the world's fifth largest insurance market with a penetration rate of nearly 10% according to the SIGMA journal published by Swiss Re. The 2013 annual report of the FFSA reported 188 billion euros of contributions of ail markets in France. If Takaful solutions arrived to pick only 2% of the French market in France it would become the second global market. Two Islamic instruments have emerged in France first. Sukuk, which is a mutual solidarity through a pooling of risks and resources by a collective way (insured), are shared by the market and by other Islamic insurance (Takaful).</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="https://ecm.univ-paris1.fr/nuxeo/site/esupversions/b0f803c7-4e2b-48c2-bfa9-36f5b6d26518" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Bibliothèque Cujas de droit et de sciences économiques (Paris).</li>
+ 					<li>Bibliothèque : Bibliothèque électronique de l&apos;université Paris 1 Panthéon-Sorbonne.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/231670532" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

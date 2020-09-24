@@ -1,0 +1,884 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Analyse de la dynamique du ph&eacute;nom&egrave;ne de contagion entre les obligations souveraines europ&eacute;ennes au cours des r&eacute;cents &eacute;pisodes de crises financi&egrave;res"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2017PSLEM039"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Les p&eacute;riodes marqu&eacute;es par une aversion au risque intense sont souvent l&rsquo;origine de distorsions notables dans les prix de march&eacute;, et de pertes substantielles pour les investisseurs. Chaque &eacute;pisode de crise financi&egrave;re montre que les mouvements de ventes g&eacute;n&eacute;ralis&eacute;es sur les march&eacute;s ont des cons&eacute;quences tr&egrave;s n&eacute;gatives sur l&rsquo;&eacute;conomie r&eacute;elle. Ainsi, explorer le ph&eacute;nom&egrave;ne d&rsquo;aversion au risque et la dynamique de propagation du sentiment de panique sur les march&eacute;s financiers peut aider &agrave; appr&eacute;hender ces p&eacute;riodes de forte volatilit&eacute;.Dans ce rapport de th&egrave;se, nous explorons diff&eacute;rentes dimensions du ph&eacute;nom&egrave;ne d&rsquo;aversion au risque, dans le cadre de portefeuilles d&rsquo;obligations souveraines Europ&eacute;ennes. Le rendement des obligations d&rsquo;Etat, quott&eacute; par les traders, est sens&eacute; refl&eacute;ter entre autre le risque que le Tr&eacute;sor fasse d&eacute;faut sur sa dette, avant que l&rsquo;obligation vienne &agrave; maturation. Il s&rsquo;agit l&agrave; du risque souverain. Les crises financi&egrave;res habituellement occasionnent un mouvement important des rendements vers des niveaux plus &eacute;lev&eacute;s. Ce type de correction refl&egrave;te un accroissement du risque souverain, et implique n&eacute;cessairement une hausse du co&ucirc;t de financement pour les Tr&eacute;sors nationaux. Un objectif de ce rapport est donc de fournir des d&eacute;tails in&eacute;dits aux Tr&eacute;sors sur la mani&egrave;re dont les rendements obligataires sont sens&eacute;s se d&eacute;t&eacute;riorer en p&eacute;riode d&rsquo;aversion au risque.Chapitre I explore le risque souverain dans le cadre d&rsquo;un mod&egrave;le probabiliste impliquant des distributions &agrave; queues lourdes, ainsi que la m&eacute;thode GAS qui permet de capturer la dynamique de la volatilit&eacute;. L&rsquo;ajustement obtenu avec les distributions Hyperboliques G&eacute;n&eacute;ralis&eacute;es est robuste, et les r&eacute;sultats laissent penser que notre approche est particuli&egrave;rement efficace durant les p&eacute;riodes marqu&eacute;es par une volatilit&eacute; erratique. Dans un but de simplification, nous d&eacute;crivons la mise en place d&rsquo;un estimateur de volatilit&eacute; intemporel, sens&eacute; refl&eacute;ter la volatilit&eacute; intrins&egrave;que de chaque obligation. Cet estimateur sugg&egrave;re que la volatilit&eacute; croit de mani&egrave;re quadratique lorsque celle-ci est exprim&eacute;e en fonction de la fonction de r&eacute;partition des variations de rendements. Dans un second temps nous explorons une version bivari&eacute;e du mod&egrave;le. La calibration, robuste, met en valeur les corr&eacute;lations entre chaque obligation. En guise d&rsquo;observation g&eacute;n&eacute;rale, notre analyse confirme que les distributions &agrave; queues &eacute;paisses sont tout &agrave; fait appropri&eacute;es pour l&rsquo;exploration des prix de march&eacute; en p&eacute;riode de crise financi&egrave;re.Chapitre II explore diff&eacute;rentes mani&egrave;res d&rsquo;exploiter notre mod&egrave;le probabiliste. Afin d&rsquo;identifier la dynamique de la contagion entre les obligations souveraines, nous analysons la r&eacute;action attendue du march&eacute; &agrave; une s&eacute;rie de chocs financiers. Nous consid&eacute;rons un niveau important de granularit&eacute; pour ce qui est de la s&eacute;v&eacute;rit&eacute; du choc sous-jacent, et ceci nous permet d&rsquo;identifier des lois empiriques suppos&eacute;es g&eacute;n&eacute;raliser le comportement de la r&eacute;action de march&eacute; lorsque l&rsquo;aversion au risque s&rsquo;intensifie. Puis, nous incorporons nos estimateurs de volatilit&eacute; et de r&eacute;action de march&eacute; &agrave; certaines approches reconnues d&rsquo;optimisation de portefeuille et nous notons une am&eacute;lioration de la r&eacute;sistance des portefeuilles, dans cette nouvelle version. Finalement, nous d&eacute;veloppons une nouvelle m&eacute;thodologie d&rsquo;optimisation de portefeuille bas&eacute;e sur le principe de mean-reversion.Chapitre III est d&eacute;di&eacute; au pricing de produits d&eacute;riv&eacute;s de taux. Nous consid&eacute;rons maintenant que l&rsquo;aversion au risque cause l&rsquo;&eacute;mergence de discontinuit&eacute;s dans les prix de march&eacute;, que nous simulons par le biais de processus &agrave; sauts. Notre mod&egrave;le se concentre sur les processus de Hawkes qui ont l&rsquo;avantage de capturer la pr&eacute;sence d&rsquo;auto-excitation dans la volatilit&eacute;. Nous d&eacute;veloppons une proc&eacute;dure de calibration qui se distingue des proc&eacute;dures habituelles. Les r&eacute;sultats de volatilit&eacute; implicite sont coh&eacute;rents avec la volatilit&eacute; r&eacute;alis&eacute;e, et sugg&egrave;rent que les coefficients de prime de risque ont &eacute;t&eacute; estim&eacute;s avec succ&egrave;s."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2017PSLEM039.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Marc-Henri Thoumin , Analyse de la dynamique du ph&eacute;nom&egrave;ne de contagion entre les obligations souveraines europ&eacute;ennes au cours des r&eacute;cents &eacute;pisodes de crises financi&egrave;res">
+<meta name="description" content="Les p&eacute;riodes marqu&eacute;es par une aversion au risque intense sont souvent l&rsquo;origine de distorsions notables dans les prix de march&eacute;, et de pertes substantielles pour les investisseurs. Chaque &eacute;pisode de crise financi&egrave;re montre que les mouvements de ventes g&eacute;n&eacute;ralis&eacute;es sur les march&eacute;s ont des cons&eacute;quences tr&egrave;s n&eacute;gatives sur l&rsquo;&eacute;conomie r&eacute;elle. Ainsi, explorer le ph&eacute;nom&egrave;ne d&rsquo;aversion au risque et la dynamique de propagation du sentiment de panique sur les march&eacute;s financiers peut aider &agrave; appr&eacute;hender ces p&eacute;riodes de forte volatilit&eacute;.Dans ce rapport de th&egrave;se, nous explorons diff&eacute;rentes dimensions du ph&eacute;nom&egrave;ne d&rsquo;aversion au risque, dans le cadre de portefeuilles d&rsquo;obligations souveraines Europ&eacute;ennes. Le rendement des obligations d&rsquo;Etat, quott&eacute; par les traders, est sens&eacute; refl&eacute;ter entre autre le risque que le Tr&eacute;sor fasse d&eacute;faut sur sa dette, avant que l&rsquo;obligation vienne &agrave; maturation. Il s&rsquo;agit l&agrave; du risque souverain. Les crises financi&egrave;res habituellement occasionnent un mouvement important des rendements vers des niveaux plus &eacute;lev&eacute;s. Ce type de correction refl&egrave;te un accroissement du risque souverain, et implique n&eacute;cessairement une hausse du co&ucirc;t de financement pour les Tr&eacute;sors nationaux. Un objectif de ce rapport est donc de fournir des d&eacute;tails in&eacute;dits aux Tr&eacute;sors sur la mani&egrave;re dont les rendements obligataires sont sens&eacute;s se d&eacute;t&eacute;riorer en p&eacute;riode d&rsquo;aversion au risque.Chapitre I explore le risque souverain dans le cadre d&rsquo;un mod&egrave;le probabiliste impliquant des distributions &agrave; queues lourdes, ainsi que la m&eacute;thode GAS qui permet de capturer la dynamique de la volatilit&eacute;. L&rsquo;ajustement obtenu avec les distributions Hyperboliques G&eacute;n&eacute;ralis&eacute;es est robuste, et les r&eacute;sultats laissent penser que notre approche est particuli&egrave;rement efficace durant les p&eacute;riodes marqu&eacute;es par une volatilit&eacute; erratique. Dans un but de simplification, nous d&eacute;crivons la mise en place d&rsquo;un estimateur de volatilit&eacute; intemporel, sens&eacute; refl&eacute;ter la volatilit&eacute; intrins&egrave;que de chaque obligation. Cet estimateur sugg&egrave;re que la volatilit&eacute; croit de mani&egrave;re quadratique lorsque celle-ci est exprim&eacute;e en fonction de la fonction de r&eacute;partition des variations de rendements. Dans un second temps nous explorons une version bivari&eacute;e du mod&egrave;le. La calibration, robuste, met en valeur les corr&eacute;lations entre chaque obligation. En guise d&rsquo;observation g&eacute;n&eacute;rale, notre analyse confirme que les distributions &agrave; queues &eacute;paisses sont tout &agrave; fait appropri&eacute;es pour l&rsquo;exploration des prix de march&eacute; en p&eacute;riode de crise financi&egrave;re.Chapitre II explore diff&eacute;rentes mani&egrave;res d&rsquo;exploiter notre mod&egrave;le probabiliste. Afin d&rsquo;identifier la dynamique de la contagion entre les obligations souveraines, nous analysons la r&eacute;action attendue du march&eacute; &agrave; une s&eacute;rie de chocs financiers. Nous consid&eacute;rons un niveau important de granularit&eacute; pour ce qui est de la s&eacute;v&eacute;rit&eacute; du choc sous-jacent, et ceci nous permet d&rsquo;identifier des lois empiriques suppos&eacute;es g&eacute;n&eacute;raliser le comportement de la r&eacute;action de march&eacute; lorsque l&rsquo;aversion au risque s&rsquo;intensifie. Puis, nous incorporons nos estimateurs de volatilit&eacute; et de r&eacute;action de march&eacute; &agrave; certaines approches reconnues d&rsquo;optimisation de portefeuille et nous notons une am&eacute;lioration de la r&eacute;sistance des portefeuilles, dans cette nouvelle version. Finalement, nous d&eacute;veloppons une nouvelle m&eacute;thodologie d&rsquo;optimisation de portefeuille bas&eacute;e sur le principe de mean-reversion.Chapitre III est d&eacute;di&eacute; au pricing de produits d&eacute;riv&eacute;s de taux. Nous consid&eacute;rons maintenant que l&rsquo;aversion au risque cause l&rsquo;&eacute;mergence de discontinuit&eacute;s dans les prix de march&eacute;, que nous simulons par le biais de processus &agrave; sauts. Notre mod&egrave;le se concentre sur les processus de Hawkes qui ont l&rsquo;avantage de capturer la pr&eacute;sence d&rsquo;auto-excitation dans la volatilit&eacute;. Nous d&eacute;veloppons une proc&eacute;dure de calibration qui se distingue des proc&eacute;dures habituelles. Les r&eacute;sultats de volatilit&eacute; implicite sont coh&eacute;rents avec la volatilit&eacute; r&eacute;alis&eacute;e, et sugg&egrave;rent que les coefficients de prime de risque ont &eacute;t&eacute; estim&eacute;s avec succ&egrave;s." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Crise souveraine Probabilit&eacute; de d&eacute;faut Contagion Risque souverain Aversion au risque / app&eacute;tit pour le risque CDS. obligations souveraines " xml:lang="FR" />
+<meta name="description" content="Periods of deep risk aversion are usually marked by sizeable distortions in market prices, and substantial losses in portfolios. As observed during financial crises, a generalized debacle in financial markets is a very negative shock for the real economy. Against this backdrop, it looks relevant to explore how risk aversion tends to affect global market valuations, especially if this exercise helps make the promotion of more optimal portfolio rebalancing procedures.In this dissertation, we investigate different dimensions of risk aversion, with a focus on European Sovereign debt securities. For a given sovereign bond, the (quoted) yield to maturity has to reflect the underlying risk that the Treasury may default on its debt, before maturation of the bond. This is sovereign risk. Financial crises usually occasion an upward correction in bond yields. Since higher yields reflect larger sovereign risk and higher funding costs, national Treasuries are usually inclined to get a deeper understanding of how sovereign risk could evolve under the influence of fierce risk aversion. This is another objective of our research analysis.In Chapter I, we consider a probabilistic approach to sovereign risk exploration, with the main purpose of illustrating the non-linear reaction ensuing from a gradual deterioration in market sentiment. We consider heavy-tailed distributions, and we use the Generalised Autoregressive Score method as a means to capture the volatility momentum. The goodness of fit provided by Generalised Hyperbolic distributions is compelling, and results suggest that our approach is particularly relevant to fit periods or erratic volatility, typical of financial crises. As an attempt to simplify the model, we focus on an empirical formulation of the &lsquo;untemporal&rsquo; volatility of each security. This estimator of the intrinsic volatility suggests that volatility tends to accelerate in a quadratic manner when it is expressed against the cumulative distribution function of the yield variations. In a second part, we extend this approach to a problem of larger dimension and we explore the dynamics of risk aversion from a bivariate point of view. Results look robust and illustrate multivariate correlations between sovereign securities. As a general conclusion, heavy-tailed distributions look remarkably efficient to replicate the distribution of times-series affected by distorted volatility and erratic price variations.Chapter II explores different ways to extract information from the model, about financial contagion and how it is supposed to propagate through sovereign securities. In particular, we explore the market reaction to a series of many shocks with gradual intensity. Results offer a high degree of granularity and we extrapolate empirical rules on the expected market dynamics, when risk aversion intensifies. Then we incorporate our estimators of volatility and market reaction (to shocks) into popular portfolio optimisation procedures and we see positive implications on the general resilience of these portfolios. Finally, we also design an in-house methodology for optimal portfolio rebalancing, based on mean reversion.In Chapter III, we explore how sovereign risk tends to affect the price of financial derivatives in a risk-off environment. We consider that risk aversion and the ensuing volatility now favour the emergence of sizeable discontinuities in market prices, that we model with stochastic jumps. The different approaches we investigate extensively rely on Hawkes processes. These stochastic processes seek to estimate the durable impact of risk aversion onto the dynamics of jumps, via the introduction of dedicated self-excited loops. We develop an original approach to the calibration, different from conventional procedures. In the end, the calculated implied volatility remains in the vicinity of the realised volatility and there is a visible capability to jump on any rise in risk aversion." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Sovereign crisis Default probability Financial contagion Credit risk Risk aversion / risk appetite CDS spreads. sovereign bonds " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Analyse de la dynamique du ph&eacute;nom&egrave;ne de contagion entre les obligations souveraines europ&eacute;ennes au cours des r&eacute;cents &eacute;pisodes de crises financi&egrave;res">
+<meta name="DC.creator" content="Marc-Henri Thoumin" />
+<meta name="DC.contributor" content="Galli Alain "/>
+<meta name="DC.publisher" content="Paris Sciences et Lettres" />
+<meta name="DC.description.abstract" content="Les p&eacute;riodes marqu&eacute;es par une aversion au risque intense sont souvent l&rsquo;origine de distorsions notables dans les prix de march&eacute;, et de pertes substantielles pour les investisseurs. Chaque &eacute;pisode de crise financi&egrave;re montre que les mouvements de ventes g&eacute;n&eacute;ralis&eacute;es sur les march&eacute;s ont des cons&eacute;quences tr&egrave;s n&eacute;gatives sur l&rsquo;&eacute;conomie r&eacute;elle. Ainsi, explorer le ph&eacute;nom&egrave;ne d&rsquo;aversion au risque et la dynamique de propagation du sentiment de panique sur les march&eacute;s financiers peut aider &agrave; appr&eacute;hender ces p&eacute;riodes de forte volatilit&eacute;.Dans ce rapport de th&egrave;se, nous explorons diff&eacute;rentes dimensions du ph&eacute;nom&egrave;ne d&rsquo;aversion au risque, dans le cadre de portefeuilles d&rsquo;obligations souveraines Europ&eacute;ennes. Le rendement des obligations d&rsquo;Etat, quott&eacute; par les traders, est sens&eacute; refl&eacute;ter entre autre le risque que le Tr&eacute;sor fasse d&eacute;faut sur sa dette, avant que l&rsquo;obligation vienne &agrave; maturation. Il s&rsquo;agit l&agrave; du risque souverain. Les crises financi&egrave;res habituellement occasionnent un mouvement important des rendements vers des niveaux plus &eacute;lev&eacute;s. Ce type de correction refl&egrave;te un accroissement du risque souverain, et implique n&eacute;cessairement une hausse du co&ucirc;t de financement pour les Tr&eacute;sors nationaux. Un objectif de ce rapport est donc de fournir des d&eacute;tails in&eacute;dits aux Tr&eacute;sors sur la mani&egrave;re dont les rendements obligataires sont sens&eacute;s se d&eacute;t&eacute;riorer en p&eacute;riode d&rsquo;aversion au risque.Chapitre I explore le risque souverain dans le cadre d&rsquo;un mod&egrave;le probabiliste impliquant des distributions &agrave; queues lourdes, ainsi que la m&eacute;thode GAS qui permet de capturer la dynamique de la volatilit&eacute;. L&rsquo;ajustement obtenu avec les distributions Hyperboliques G&eacute;n&eacute;ralis&eacute;es est robuste, et les r&eacute;sultats laissent penser que notre approche est particuli&egrave;rement efficace durant les p&eacute;riodes marqu&eacute;es par une volatilit&eacute; erratique. Dans un but de simplification, nous d&eacute;crivons la mise en place d&rsquo;un estimateur de volatilit&eacute; intemporel, sens&eacute; refl&eacute;ter la volatilit&eacute; intrins&egrave;que de chaque obligation. Cet estimateur sugg&egrave;re que la volatilit&eacute; croit de mani&egrave;re quadratique lorsque celle-ci est exprim&eacute;e en fonction de la fonction de r&eacute;partition des variations de rendements. Dans un second temps nous explorons une version bivari&eacute;e du mod&egrave;le. La calibration, robuste, met en valeur les corr&eacute;lations entre chaque obligation. En guise d&rsquo;observation g&eacute;n&eacute;rale, notre analyse confirme que les distributions &agrave; queues &eacute;paisses sont tout &agrave; fait appropri&eacute;es pour l&rsquo;exploration des prix de march&eacute; en p&eacute;riode de crise financi&egrave;re.Chapitre II explore diff&eacute;rentes mani&egrave;res d&rsquo;exploiter notre mod&egrave;le probabiliste. Afin d&rsquo;identifier la dynamique de la contagion entre les obligations souveraines, nous analysons la r&eacute;action attendue du march&eacute; &agrave; une s&eacute;rie de chocs financiers. Nous consid&eacute;rons un niveau important de granularit&eacute; pour ce qui est de la s&eacute;v&eacute;rit&eacute; du choc sous-jacent, et ceci nous permet d&rsquo;identifier des lois empiriques suppos&eacute;es g&eacute;n&eacute;raliser le comportement de la r&eacute;action de march&eacute; lorsque l&rsquo;aversion au risque s&rsquo;intensifie. Puis, nous incorporons nos estimateurs de volatilit&eacute; et de r&eacute;action de march&eacute; &agrave; certaines approches reconnues d&rsquo;optimisation de portefeuille et nous notons une am&eacute;lioration de la r&eacute;sistance des portefeuilles, dans cette nouvelle version. Finalement, nous d&eacute;veloppons une nouvelle m&eacute;thodologie d&rsquo;optimisation de portefeuille bas&eacute;e sur le principe de mean-reversion.Chapitre III est d&eacute;di&eacute; au pricing de produits d&eacute;riv&eacute;s de taux. Nous consid&eacute;rons maintenant que l&rsquo;aversion au risque cause l&rsquo;&eacute;mergence de discontinuit&eacute;s dans les prix de march&eacute;, que nous simulons par le biais de processus &agrave; sauts. Notre mod&egrave;le se concentre sur les processus de Hawkes qui ont l&rsquo;avantage de capturer la pr&eacute;sence d&rsquo;auto-excitation dans la volatilit&eacute;. Nous d&eacute;veloppons une proc&eacute;dure de calibration qui se distingue des proc&eacute;dures habituelles. Les r&eacute;sultats de volatilit&eacute; implicite sont coh&eacute;rents avec la volatilit&eacute; r&eacute;alis&eacute;e, et sugg&egrave;rent que les coefficients de prime de risque ont &eacute;t&eacute; estim&eacute;s avec succ&egrave;s." xml:lang="FR"/>
+<meta name="DC.subject" content="Crise souveraine Probabilit&eacute; de d&eacute;faut Contagion Risque souverain Aversion au risque / app&eacute;tit pour le risque CDS. obligations souveraines  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="Periods of deep risk aversion are usually marked by sizeable distortions in market prices, and substantial losses in portfolios. As observed during financial crises, a generalized debacle in financial markets is a very negative shock for the real economy. Against this backdrop, it looks relevant to explore how risk aversion tends to affect global market valuations, especially if this exercise helps make the promotion of more optimal portfolio rebalancing procedures.In this dissertation, we investigate different dimensions of risk aversion, with a focus on European Sovereign debt securities. For a given sovereign bond, the (quoted) yield to maturity has to reflect the underlying risk that the Treasury may default on its debt, before maturation of the bond. This is sovereign risk. Financial crises usually occasion an upward correction in bond yields. Since higher yields reflect larger sovereign risk and higher funding costs, national Treasuries are usually inclined to get a deeper understanding of how sovereign risk could evolve under the influence of fierce risk aversion. This is another objective of our research analysis.In Chapter I, we consider a probabilistic approach to sovereign risk exploration, with the main purpose of illustrating the non-linear reaction ensuing from a gradual deterioration in market sentiment. We consider heavy-tailed distributions, and we use the Generalised Autoregressive Score method as a means to capture the volatility momentum. The goodness of fit provided by Generalised Hyperbolic distributions is compelling, and results suggest that our approach is particularly relevant to fit periods or erratic volatility, typical of financial crises. As an attempt to simplify the model, we focus on an empirical formulation of the &lsquo;untemporal&rsquo; volatility of each security. This estimator of the intrinsic volatility suggests that volatility tends to accelerate in a quadratic manner when it is expressed against the cumulative distribution function of the yield variations. In a second part, we extend this approach to a problem of larger dimension and we explore the dynamics of risk aversion from a bivariate point of view. Results look robust and illustrate multivariate correlations between sovereign securities. As a general conclusion, heavy-tailed distributions look remarkably efficient to replicate the distribution of times-series affected by distorted volatility and erratic price variations.Chapter II explores different ways to extract information from the model, about financial contagion and how it is supposed to propagate through sovereign securities. In particular, we explore the market reaction to a series of many shocks with gradual intensity. Results offer a high degree of granularity and we extrapolate empirical rules on the expected market dynamics, when risk aversion intensifies. Then we incorporate our estimators of volatility and market reaction (to shocks) into popular portfolio optimisation procedures and we see positive implications on the general resilience of these portfolios. Finally, we also design an in-house methodology for optimal portfolio rebalancing, based on mean reversion.In Chapter III, we explore how sovereign risk tends to affect the price of financial derivatives in a risk-off environment. We consider that risk aversion and the ensuing volatility now favour the emergence of sizeable discontinuities in market prices, that we model with stochastic jumps. The different approaches we investigate extensively rely on Hawkes processes. These stochastic processes seek to estimate the durable impact of risk aversion onto the dynamics of jumps, via the introduction of dedicated self-excited loops. We develop an original approach to the calibration, different from conventional procedures. In the end, the calculated implied volatility remains in the vicinity of the realised volatility and there is a visible capability to jump on any rise in risk aversion." xml:lang="EN"/>
+<meta name="DC.subject" content="Sovereign crisis Default probability Financial contagion Credit risk Risk aversion / risk appetite CDS spreads. sovereign bonds " xml:lang="EN"/>
+<meta name="DC.date" content="2017-12-21" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2017PSLEM039" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2017PSLEM039"/>
+<title> theses.fr – Marc-Henri Thoumin , Analyse de la dynamique du ph&eacute;nom&egrave;ne de contagion entre les obligations souveraines europ&eacute;ennes au cours des r&eacute;cents &eacute;pisodes de crises financi&egrave;res</title>
+<meta name="citation_title" content="Analyse de la dynamique du ph&eacute;nom&egrave;ne de contagion entre les obligations souveraines europ&eacute;ennes au cours des r&eacute;cents &eacute;pisodes de crises financi&egrave;res" />
+<meta name="citation_author" content="Thoumin, Marc-Henri" />
+<meta name="citation_publication_date" content="2017/12/21" />
+<meta name="citation_dissertation_institution" content="Paris Sciences et Lettres" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2017PSLEM039.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2017PSLEM039&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2017PSLEM039" title="Français" class="lang_fr current"></a>
+        <a href="/en/2017PSLEM039"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2017PSLEM039&lng=fr&ppn_origine=182292592&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2017PSLEM039.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2017PSLEM039.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2017PSLEM039.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2017PSLEM039/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Analyse de la dynamique du phénomène de contagion entre les obligations souveraines européennes au cours des récents épisodes de crises financières</h1>
+    <h2>par  <a href="226300196" rel="dcterms:creator" resource="http://www.idref.fr/226300196/id"><span property="foaf:name">Marc-Henri Thoumin</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Economie et finance</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="114220484" rel="dcterms:contributor" resource="http://www.idref.fr/114220484/id"><span property="foaf:name">Alain Galli</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=21-12-2017 datatype="xsd:date">21-12-2017</span></p>
+      <p>à <a href="182292592" rel="dcterms:contributor" resource="http://www.idref.fr/182292592/id"><span property="foaf:name">Paris Sciences et Lettres</span></a>
+, dans le cadre de  <a href="148949460" rel="dcterms:contributor" resource="http://www.idref.fr/148949460/id">
+<span property="foaf:name">École doctorale Économie, organisations, société (Nanterre)</span></a>
+, en partenariat avec <a href="028039866" rel="dcterms:contributor" resource="http://www.idref.fr/028039866/id">
+<span property="foaf:name">Centre d'économie industrielle (Paris)</span></a>
+  (laboratoire) 
+ et de <a href="026375249" rel="dcterms:contributor" resource="http://www.idref.fr/026375249/id">
+<span property="foaf:name">École nationale supérieure des mines (Paris)</span></a>
+  (Établissement de préparation de la thèse) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/032457316" rel="dcterms:contributor" resource="http://www.idref.fr/032457316/id"><span property="foaf:name">Bernard Lapeyre</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/114220484" rel="dcterms:contributor" resource="http://www.idref.fr/114220484/id"><span property="foaf:name">Alain Galli</span></a>, 
+<a href="/fr/032002416" rel="dcterms:contributor" resource="http://www.idref.fr/032002416/id"><span property="foaf:name">Margaret Armstrong</span></a>, 
+<a href="/fr/226306976" rel="dcterms:contributor" resource="http://www.idref.fr/226306976/id"><span property="foaf:name">Sandrine Ungari</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/058601988" rel="dcterms:contributor" resource="http://www.idref.fr/058601988/id"><span property="foaf:name">Delphine Lautier</span></a>, 
+<a href="/fr/070680736" rel="dcterms:contributor" resource="http://www.idref.fr/070680736/id"><span property="foaf:name">Siem Jan Koopman</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crise souveraine">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Crise souveraine
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Probabilité de défaut">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Probabilité de défaut
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Contagion">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Contagion
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque souverain">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Risque souverain
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Aversion au risque / appétit pour le risque">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Aversion au risque / appétit pour le risque
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:CDS. obligations souveraines">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">CDS. obligations souveraines
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Obligations (finances)">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Obligations (finances)
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Modèles mathématiques">
+<span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="fr">Modèles mathématiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Les périodes marquées par une aversion au risque intense sont souvent l’origine de distorsions notables dans les prix de marché, et de pertes substantielles pour les investisseurs. Chaque épisode de crise financière montre que les mouvements de ventes généralisées sur les marchés ont des conséquences très négatives sur l’économie réelle. Ainsi, explorer le phénomène d’aversion au risque et la dynamique de propagation du sentiment de panique sur les marchés financiers peut aider à appréhender ces périodes de forte volatilité.Dans ce rapport de thèse, nous explorons différentes dimensions du phénomène d’aversion au risque, dans le cadre de portefeuilles d’obligations souveraines Européennes. Le rendement des obligations d’Etat, quotté par les traders, est sensé refléter entre autre le risque que le Trésor fasse défaut sur sa dette, avant que l’obligation vienne à maturation. Il s’agit là du risque souverain. Les crises financières habituellement occasionnent un mouvement important des rendements vers des niveaux plus élevés. Ce type de correction reflète un accroissement du risque souverain, et implique nécessairement une hausse du coût de financement pour les Trésors nationaux. Un objectif de ce rapport est donc de fournir des détails inédits aux Trésors sur la manière dont les rendements obligataires sont sensés se détériorer en période d’aversion au risque.Chapitre I explore le risque souverain dans le cadre d’un modèle probabiliste impliquant des distributions à queues lourdes, ainsi que la méthode GAS qui permet de capturer la dynamique de la volatilité. L’ajustement obtenu avec les distributions Hyperboliques Généralisées est robuste, et les résultats laissent penser que notre approche est particulièrement efficace durant les périodes marquées par une volatilité erratique. Dans un but de simplification, nous décrivons la mise en place d’un estimateur de volatilité intemporel, sensé refléter la volatilité intrinsèque de chaque obligation. Cet estimateur suggère que la volatilité croit de manière quadratique lorsque celle-ci est exprimée en fonction de la fonction de répartition des variations de rendements. Dans un second temps nous explorons une version bivariée du modèle. La calibration, robuste, met en valeur les corrélations entre chaque obligation. En guise d’observation générale, notre analyse confirme que les distributions à queues épaisses sont tout à fait appropriées pour l’exploration des prix de marché en période de crise financière.Chapitre II explore différentes manières d’exploiter notre modèle probabiliste. Afin d’identifier la dynamique de la contagion entre les obligations souveraines, nous analysons la réaction attendue du marché à une série de chocs financiers. Nous considérons un niveau important de granularité pour ce qui est de la sévérité du choc sous-jacent, et ceci nous permet d’identifier des lois empiriques supposées généraliser le comportement de la réaction de marché lorsque l’aversion au risque s’intensifie. Puis, nous incorporons nos estimateurs de volatilité et de réaction de marché à certaines approches reconnues d’optimisation de portefeuille et nous notons une amélioration de la résistance des portefeuilles, dans cette nouvelle version. Finalement, nous développons une nouvelle méthodologie d’optimisation de portefeuille basée sur le principe de mean-reversion.Chapitre III est dédié au pricing de produits dérivés de taux. Nous considérons maintenant que l’aversion au risque cause l’émergence de discontinuités dans les prix de marché, que nous simulons par le biais de processus à sauts. Notre modèle se concentre sur les processus de Hawkes qui ont l’avantage de capturer la présence d’auto-excitation dans la volatilité. Nous développons une procédure de calibration qui se distingue des procédures habituelles. Les résultats de volatilité implicite sont cohérents avec la volatilité réalisée, et suggèrent que les coefficients de prime de risque ont été estimés avec succès.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Sovereign crisis"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">Sovereign crisis</span></a></li>
+          <li><a href="/fr?q=*:Default probability"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">Default probability</span></a></li>
+          <li><a href="/fr?q=*:Financial contagion"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">Financial contagion</span></a></li>
+          <li><a href="/fr?q=*:Credit risk"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">Credit risk</span></a></li>
+          <li><a href="/fr?q=*:Risk aversion / risk appetite"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">Risk aversion / risk appetite</span></a></li>
+          <li><a href="/fr?q=*:CDS spreads. sovereign bonds"name="MotsClesAutre" > <span about="http://www.theses.fr/2017PSLEM039/id" property="dc:subject" xml:lang="en">CDS spreads. sovereign bonds</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Sovereign risk exploration in times of crisis : a look at financial contagion</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">Periods of deep risk aversion are usually marked by sizeable distortions in market prices, and substantial losses in portfolios. As observed during financial crises, a generalized debacle in financial markets is a very negative shock for the real economy. Against this backdrop, it looks relevant to explore how risk aversion tends to affect global market valuations, especially if this exercise helps make the promotion of more optimal portfolio rebalancing procedures.In this dissertation, we investigate different dimensions of risk aversion, with a focus on European Sovereign debt securities. For a given sovereign bond, the (quoted) yield to maturity has to reflect the underlying risk that the Treasury may default on its debt, before maturation of the bond. This is sovereign risk. Financial crises usually occasion an upward correction in bond yields. Since higher yields reflect larger sovereign risk and higher funding costs, national Treasuries are usually inclined to get a deeper understanding of how sovereign risk could evolve under the influence of fierce risk aversion. This is another objective of our research analysis.In Chapter I, we consider a probabilistic approach to sovereign risk exploration, with the main purpose of illustrating the non-linear reaction ensuing from a gradual deterioration in market sentiment. We consider heavy-tailed distributions, and we use the Generalised Autoregressive Score method as a means to capture the volatility momentum. The goodness of fit provided by Generalised Hyperbolic distributions is compelling, and results suggest that our approach is particularly relevant to fit periods or erratic volatility, typical of financial crises. As an attempt to simplify the model, we focus on an empirical formulation of the ‘untemporal’ volatility of each security. This estimator of the intrinsic volatility suggests that volatility tends to accelerate in a quadratic manner when it is expressed against the cumulative distribution function of the yield variations. In a second part, we extend this approach to a problem of larger dimension and we explore the dynamics of risk aversion from a bivariate point of view. Results look robust and illustrate multivariate correlations between sovereign securities. As a general conclusion, heavy-tailed distributions look remarkably efficient to replicate the distribution of times-series affected by distorted volatility and erratic price variations.Chapter II explores different ways to extract information from the model, about financial contagion and how it is supposed to propagate through sovereign securities. In particular, we explore the market reaction to a series of many shocks with gradual intensity. Results offer a high degree of granularity and we extrapolate empirical rules on the expected market dynamics, when risk aversion intensifies. Then we incorporate our estimators of volatility and market reaction (to shocks) into popular portfolio optimisation procedures and we see positive implications on the general resilience of these portfolios. Finally, we also design an in-house methodology for optimal portfolio rebalancing, based on mean reversion.In Chapter III, we explore how sovereign risk tends to affect the price of financial derivatives in a risk-off environment. We consider that risk aversion and the ensuing volatility now favour the emergence of sizeable discontinuities in market prices, that we model with stochastic jumps. The different approaches we investigate extensively rely on Hawkes processes. These stochastic processes seek to estimate the durable impact of risk aversion onto the dynamics of jumps, via the introduction of dedicated self-excited loops. We develop an original approach to the calibration, different from conventional procedures. In the end, the calculated implied volatility remains in the vicinity of the realised volatility and there is a visible capability to jump on any rise in risk aversion.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2017PSLEM039/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Paris Sciences et Lettres. Thèses électroniques.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/226393267" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>
