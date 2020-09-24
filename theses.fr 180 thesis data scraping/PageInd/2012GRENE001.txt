@@ -1,0 +1,892 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Financiarisation, gouvernance actionnariale et crise &eacute;conomique : une approche mon&eacute;taire, la probl&egrave;matique de la viabilit&eacute;."/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2012GRENE001"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Cette th&egrave;se cherche &agrave; savoir dans quelle mesure une crise &eacute;conomique peut r&eacute;sulter d'une dimension particuli&egrave;re de la financiarisation&nbsp;: la gouvernance actionnariale. La financiarisation est la structuration in&eacute;dite de certaines composantes des activit&eacute;s &eacute;conomiques par un syst&egrave;me financier lib&eacute;ralis&eacute; &agrave; partir des ann&eacute;es 1970. Parmi les composantes concern&eacute;es figure la gestion des entreprises. Sa financiarisation consiste &agrave; r&eacute;duire autant que possible les d&eacute;penses de production tout en privil&eacute;giant l&rsquo;endettement comme mode de financement. L&rsquo;objectif est de g&eacute;n&eacute;rer autant de revenus que possible pour l&rsquo;actionnaire, sous forme de dividendes et de gains en capital. C'est pourquoi une telle gestion est qualifi&eacute;e de gouvernance actionnariale. Une d&eacute;marche en quatre &eacute;tapes est suivie. En premier, la litt&eacute;rature existante est soumise &agrave; la critique. Le probl&egrave;me pos&eacute; est g&eacute;n&eacute;ralement r&eacute;solu &agrave; partir de mod&egrave;les formalisant des march&eacute;s &eacute;quilibr&eacute;s, mais la formation de tels march&eacute;s est &agrave; peine prouv&eacute;e. Ce biais n'est pas nouveau et affecte la th&eacute;orie &eacute;conomique dans son ensemble. La r&eacute;solution peut donc s&rsquo;appuyer sur un mod&egrave;le repr&eacute;sentant les activit&eacute;s &eacute;conomiques sans r&eacute;f&eacute;rence &agrave; des march&eacute;s &eacute;quilibr&eacute;s. La seconde &eacute;tape est de construire cette repr&eacute;sentation. Cette derni&egrave;re peut s&rsquo;organiser autour de la monnaie, c&rsquo;est-&agrave;-dire une approche mon&eacute;taire des activit&eacute;s &eacute;conomiques. Ces derni&egrave;res sont saisies &agrave; partir des paiements interd&eacute;pendants rendus possibles par l&rsquo;utilisation de la monnaie, en tant qu'unit&eacute; d'expression des paiements et moyen de les effectuer. Les paiements sont mis en relation avec trois composantes : i) le mode d&rsquo;&eacute;mission de moyens de paiement, typiquement le cr&eacute;dit bancaire ; ii) le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements (cr&eacute;dits bancaires non totalement rembours&eacute;s, faute d'avoir enregistr&eacute; suffisamment de paiements) ; et iii) la modification des paiements d'une p&eacute;riode &agrave; l'autre par les agents, afin de les ajuster &agrave; leurs objectifs et contraintes. Ces modifications produisent une &eacute;volution du r&eacute;seau de paiements form&eacute; &agrave; chaque p&eacute;riode.La troisi&egrave;me &eacute;tape est de mod&eacute;liser un r&eacute;seau de paiements en &eacute;volution. Un syst&egrave;me d&rsquo;&eacute;quations non-lin&eacute;aires de r&eacute;currence d&eacute;termine chaque paiement parmi une typologie pr&eacute;alablement &eacute;tabli, ainsi que son mode de financement. Le syst&egrave;me d&eacute;termine aussi le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements. Les multiples r&eacute;currences produisent l&rsquo;&eacute;volution. Le tout est saisi en faisant abstraction des biens et des ph&eacute;nom&egrave;nes aff&eacute;rents, conform&eacute;ment &agrave; une approche mon&eacute;taire. La quatri&egrave;me &eacute;tape est de mobiliser le mod&egrave;le pour r&eacute;soudre le probl&egrave;me. La crise peut &ecirc;tre le r&eacute;sultat de l'&eacute;volution elle-m&ecirc;me. Des agents modifiant leurs paiements peuvent conduire d&rsquo;autres agents &agrave; enregistrer des d&eacute;ficits. Le r&eacute;seau de paiements peut donc &eacute;voluer de mani&egrave;re &agrave; ce que des entreprises soient insolvables. Les faillites subs&eacute;quentes peuvent &ecirc;tre en nombre suffisant pour diminuer la production et de l'emploi, d&rsquo;o&ugrave; la crise &eacute;conomique. Une telle &eacute;volution est d&eacute;finie comme non-viable. Savoir si la gouvernance actionnariale est un facteur de crise revient donc &agrave; savoir si la gouvernance actionnariale implique une &eacute;volution non-viable du r&eacute;seau de paiements. Des simulations num&eacute;riques sont effectu&eacute;es, avec notamment des sous-configurations de param&egrave;tres associ&eacute;es &agrave; une plus ou moins grande diffusion de la gouvernance actionnariale parmi les entreprises. Le mod&egrave;le produit le r&eacute;sultat g&eacute;n&eacute;ral suivant&nbsp;: soit la gouvernance actionnariale g&eacute;n&egrave;re une crise, soit elle rapproche de cette situation, soit la crise se produit ind&eacute;pendamment de la gouvernance actionnariale. Ce r&eacute;sultat vaut quel que soit le degr&eacute; de diffusion de cette gouvernance parmi les entreprises. Ce r&eacute;sultat vaut &eacute;galement en l'absence d'&eacute;pargne et avec l'endettement des salari&eacute;s, contrairement aux mod&egrave;les d&eacute;j&agrave; existants mais sujets au biais conceptuel relatif &agrave; la formation des march&eacute;s &eacute;quilibr&eacute;s."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2012GRENE001.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Remi Stellian , Financiarisation, gouvernance actionnariale et crise &eacute;conomique : une approche mon&eacute;taire, la probl&egrave;matique de la viabilit&eacute;.">
+<meta name="description" content="Cette th&egrave;se cherche &agrave; savoir dans quelle mesure une crise &eacute;conomique peut r&eacute;sulter d'une dimension particuli&egrave;re de la financiarisation&nbsp;: la gouvernance actionnariale. La financiarisation est la structuration in&eacute;dite de certaines composantes des activit&eacute;s &eacute;conomiques par un syst&egrave;me financier lib&eacute;ralis&eacute; &agrave; partir des ann&eacute;es 1970. Parmi les composantes concern&eacute;es figure la gestion des entreprises. Sa financiarisation consiste &agrave; r&eacute;duire autant que possible les d&eacute;penses de production tout en privil&eacute;giant l&rsquo;endettement comme mode de financement. L&rsquo;objectif est de g&eacute;n&eacute;rer autant de revenus que possible pour l&rsquo;actionnaire, sous forme de dividendes et de gains en capital. C'est pourquoi une telle gestion est qualifi&eacute;e de gouvernance actionnariale. Une d&eacute;marche en quatre &eacute;tapes est suivie. En premier, la litt&eacute;rature existante est soumise &agrave; la critique. Le probl&egrave;me pos&eacute; est g&eacute;n&eacute;ralement r&eacute;solu &agrave; partir de mod&egrave;les formalisant des march&eacute;s &eacute;quilibr&eacute;s, mais la formation de tels march&eacute;s est &agrave; peine prouv&eacute;e. Ce biais n'est pas nouveau et affecte la th&eacute;orie &eacute;conomique dans son ensemble. La r&eacute;solution peut donc s&rsquo;appuyer sur un mod&egrave;le repr&eacute;sentant les activit&eacute;s &eacute;conomiques sans r&eacute;f&eacute;rence &agrave; des march&eacute;s &eacute;quilibr&eacute;s. La seconde &eacute;tape est de construire cette repr&eacute;sentation. Cette derni&egrave;re peut s&rsquo;organiser autour de la monnaie, c&rsquo;est-&agrave;-dire une approche mon&eacute;taire des activit&eacute;s &eacute;conomiques. Ces derni&egrave;res sont saisies &agrave; partir des paiements interd&eacute;pendants rendus possibles par l&rsquo;utilisation de la monnaie, en tant qu'unit&eacute; d'expression des paiements et moyen de les effectuer. Les paiements sont mis en relation avec trois composantes : i) le mode d&rsquo;&eacute;mission de moyens de paiement, typiquement le cr&eacute;dit bancaire ; ii) le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements (cr&eacute;dits bancaires non totalement rembours&eacute;s, faute d'avoir enregistr&eacute; suffisamment de paiements) ; et iii) la modification des paiements d'une p&eacute;riode &agrave; l'autre par les agents, afin de les ajuster &agrave; leurs objectifs et contraintes. Ces modifications produisent une &eacute;volution du r&eacute;seau de paiements form&eacute; &agrave; chaque p&eacute;riode.La troisi&egrave;me &eacute;tape est de mod&eacute;liser un r&eacute;seau de paiements en &eacute;volution. Un syst&egrave;me d&rsquo;&eacute;quations non-lin&eacute;aires de r&eacute;currence d&eacute;termine chaque paiement parmi une typologie pr&eacute;alablement &eacute;tabli, ainsi que son mode de financement. Le syst&egrave;me d&eacute;termine aussi le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements. Les multiples r&eacute;currences produisent l&rsquo;&eacute;volution. Le tout est saisi en faisant abstraction des biens et des ph&eacute;nom&egrave;nes aff&eacute;rents, conform&eacute;ment &agrave; une approche mon&eacute;taire. La quatri&egrave;me &eacute;tape est de mobiliser le mod&egrave;le pour r&eacute;soudre le probl&egrave;me. La crise peut &ecirc;tre le r&eacute;sultat de l'&eacute;volution elle-m&ecirc;me. Des agents modifiant leurs paiements peuvent conduire d&rsquo;autres agents &agrave; enregistrer des d&eacute;ficits. Le r&eacute;seau de paiements peut donc &eacute;voluer de mani&egrave;re &agrave; ce que des entreprises soient insolvables. Les faillites subs&eacute;quentes peuvent &ecirc;tre en nombre suffisant pour diminuer la production et de l'emploi, d&rsquo;o&ugrave; la crise &eacute;conomique. Une telle &eacute;volution est d&eacute;finie comme non-viable. Savoir si la gouvernance actionnariale est un facteur de crise revient donc &agrave; savoir si la gouvernance actionnariale implique une &eacute;volution non-viable du r&eacute;seau de paiements. Des simulations num&eacute;riques sont effectu&eacute;es, avec notamment des sous-configurations de param&egrave;tres associ&eacute;es &agrave; une plus ou moins grande diffusion de la gouvernance actionnariale parmi les entreprises. Le mod&egrave;le produit le r&eacute;sultat g&eacute;n&eacute;ral suivant&nbsp;: soit la gouvernance actionnariale g&eacute;n&egrave;re une crise, soit elle rapproche de cette situation, soit la crise se produit ind&eacute;pendamment de la gouvernance actionnariale. Ce r&eacute;sultat vaut quel que soit le degr&eacute; de diffusion de cette gouvernance parmi les entreprises. Ce r&eacute;sultat vaut &eacute;galement en l'absence d'&eacute;pargne et avec l'endettement des salari&eacute;s, contrairement aux mod&egrave;les d&eacute;j&agrave; existants mais sujets au biais conceptuel relatif &agrave; la formation des march&eacute;s &eacute;quilibr&eacute;s." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Finance Financiarisation Gouvernance actionnariale Crise &eacute;conomique Approche mon&eacute;taire Viabilit&eacute; " xml:lang="FR" />
+<meta name="description" content="The aim of this dissertation is to know to what extent an economic crisis can result from a specific dimension of financialization: the search for shareholder value by firms. Financialization is the unprecedented influences of financial systems over some components of the economic activities after the liberalization of such systems since the 1970s. Among the aforesaid components we can find the management of firms. Such management is shaped so that production expenditures are lowered as much as possible while priority is given to debt for financing decisions. The objective is to create as much 'shareholder value' as possible, to wit, to create as much income as possible for shareholders. The dissertation unfolds in four steps. First, a critical survey is made. The problem is generally solved by means of models putting into equations equilibrated markets. However, the convergence to equilibrium is barely proved. This logical inconsistency is not new and affects economic theory as a whole. Thus, solving the problem can be based on a model which conceptualizes the economic activities without referring to equilibrated markets. The second step is to elaborate on such conceptualization. A possibility is to account for the economic activities on the basis of money, thus giving rise to a monetary approach of these activities. The emphasis is put on the interrelated payments made possible by the use of money, the latter being the unit for payments to be expressed and the means through which payments are made. Payments are conceptualized in relation with three components: i) the process that creates means of payment, generally bank credit; ii) the settlement of negative balances (some agents cannot fully repay their debts as they do not benefit from enough payments); and iii) the modification of payments by agents from one period to another, according to their objectives and constraints. These modifications lead the network of payments to evolve over time. The third step is to put into equations an evolving network of payments in order to solve the problem. A system of non-linear recurrence equations determine all payments from a typology elaborated beforehand, as well as the financing of them. The system also determines the settlement of the negatives balances which result from payments. The numerous recurrences give rise to evolution. The whole system abstracts from goods and the related phenomena, in accordance with the monetary approach. The fourth step is to use the model for the problem to be solved. An economic crisis can be the result of the evolution per se. Agents which periodically change their payments can lead other agents to record negative balances. Thus, the network of payments can evolve in such a way that some firms are insolvent. The subsequent bankruptcies can be large enough to decrease production and employment, as in an economic crisis. In that case, the evolution of the network of payments is defined as non-viable. To know if the search for shareholder value leads to an economic crisis thus amounts to know if the search for shareholder value leads to a non-viable evolution of the network of payments. Numerical simulations are made, notably with the configurations of parameters that are associated to a more or less search for shareholder value by firms. The model leads to the following general result: either the search for shareholder value results in an economic crisis, either it moves the economic activities closer to a crisis, either the latter occurs irrespective of the search for shareholder value. This result applies whether management is totally oriented by shareholder value or only a few. This result also applies without savings and with the indebtedness of wage-earners, contrary to the models of the survey; however they fail due to the difficulties to prove the formation of their equilibrated markets." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Finance Financialisation Corporate governance Economic crisis Monetary approach Viability " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Financiarisation, gouvernance actionnariale et crise &eacute;conomique : une approche mon&eacute;taire, la probl&egrave;matique de la viabilit&eacute;.">
+<meta name="DC.creator" content="Remi Stellian" />
+<meta name="DC.contributor" content="&Uuml;lgen Faruk Rossi Sergio "/>
+<meta name="DC.publisher" content="Grenoble" />
+<meta name="DC.description.abstract" content="Cette th&egrave;se cherche &agrave; savoir dans quelle mesure une crise &eacute;conomique peut r&eacute;sulter d'une dimension particuli&egrave;re de la financiarisation&nbsp;: la gouvernance actionnariale. La financiarisation est la structuration in&eacute;dite de certaines composantes des activit&eacute;s &eacute;conomiques par un syst&egrave;me financier lib&eacute;ralis&eacute; &agrave; partir des ann&eacute;es 1970. Parmi les composantes concern&eacute;es figure la gestion des entreprises. Sa financiarisation consiste &agrave; r&eacute;duire autant que possible les d&eacute;penses de production tout en privil&eacute;giant l&rsquo;endettement comme mode de financement. L&rsquo;objectif est de g&eacute;n&eacute;rer autant de revenus que possible pour l&rsquo;actionnaire, sous forme de dividendes et de gains en capital. C'est pourquoi une telle gestion est qualifi&eacute;e de gouvernance actionnariale. Une d&eacute;marche en quatre &eacute;tapes est suivie. En premier, la litt&eacute;rature existante est soumise &agrave; la critique. Le probl&egrave;me pos&eacute; est g&eacute;n&eacute;ralement r&eacute;solu &agrave; partir de mod&egrave;les formalisant des march&eacute;s &eacute;quilibr&eacute;s, mais la formation de tels march&eacute;s est &agrave; peine prouv&eacute;e. Ce biais n'est pas nouveau et affecte la th&eacute;orie &eacute;conomique dans son ensemble. La r&eacute;solution peut donc s&rsquo;appuyer sur un mod&egrave;le repr&eacute;sentant les activit&eacute;s &eacute;conomiques sans r&eacute;f&eacute;rence &agrave; des march&eacute;s &eacute;quilibr&eacute;s. La seconde &eacute;tape est de construire cette repr&eacute;sentation. Cette derni&egrave;re peut s&rsquo;organiser autour de la monnaie, c&rsquo;est-&agrave;-dire une approche mon&eacute;taire des activit&eacute;s &eacute;conomiques. Ces derni&egrave;res sont saisies &agrave; partir des paiements interd&eacute;pendants rendus possibles par l&rsquo;utilisation de la monnaie, en tant qu'unit&eacute; d'expression des paiements et moyen de les effectuer. Les paiements sont mis en relation avec trois composantes : i) le mode d&rsquo;&eacute;mission de moyens de paiement, typiquement le cr&eacute;dit bancaire ; ii) le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements (cr&eacute;dits bancaires non totalement rembours&eacute;s, faute d'avoir enregistr&eacute; suffisamment de paiements) ; et iii) la modification des paiements d'une p&eacute;riode &agrave; l'autre par les agents, afin de les ajuster &agrave; leurs objectifs et contraintes. Ces modifications produisent une &eacute;volution du r&eacute;seau de paiements form&eacute; &agrave; chaque p&eacute;riode.La troisi&egrave;me &eacute;tape est de mod&eacute;liser un r&eacute;seau de paiements en &eacute;volution. Un syst&egrave;me d&rsquo;&eacute;quations non-lin&eacute;aires de r&eacute;currence d&eacute;termine chaque paiement parmi une typologie pr&eacute;alablement &eacute;tabli, ainsi que son mode de financement. Le syst&egrave;me d&eacute;termine aussi le r&egrave;glement des d&eacute;ficits r&eacute;sultant des paiements. Les multiples r&eacute;currences produisent l&rsquo;&eacute;volution. Le tout est saisi en faisant abstraction des biens et des ph&eacute;nom&egrave;nes aff&eacute;rents, conform&eacute;ment &agrave; une approche mon&eacute;taire. La quatri&egrave;me &eacute;tape est de mobiliser le mod&egrave;le pour r&eacute;soudre le probl&egrave;me. La crise peut &ecirc;tre le r&eacute;sultat de l'&eacute;volution elle-m&ecirc;me. Des agents modifiant leurs paiements peuvent conduire d&rsquo;autres agents &agrave; enregistrer des d&eacute;ficits. Le r&eacute;seau de paiements peut donc &eacute;voluer de mani&egrave;re &agrave; ce que des entreprises soient insolvables. Les faillites subs&eacute;quentes peuvent &ecirc;tre en nombre suffisant pour diminuer la production et de l'emploi, d&rsquo;o&ugrave; la crise &eacute;conomique. Une telle &eacute;volution est d&eacute;finie comme non-viable. Savoir si la gouvernance actionnariale est un facteur de crise revient donc &agrave; savoir si la gouvernance actionnariale implique une &eacute;volution non-viable du r&eacute;seau de paiements. Des simulations num&eacute;riques sont effectu&eacute;es, avec notamment des sous-configurations de param&egrave;tres associ&eacute;es &agrave; une plus ou moins grande diffusion de la gouvernance actionnariale parmi les entreprises. Le mod&egrave;le produit le r&eacute;sultat g&eacute;n&eacute;ral suivant&nbsp;: soit la gouvernance actionnariale g&eacute;n&egrave;re une crise, soit elle rapproche de cette situation, soit la crise se produit ind&eacute;pendamment de la gouvernance actionnariale. Ce r&eacute;sultat vaut quel que soit le degr&eacute; de diffusion de cette gouvernance parmi les entreprises. Ce r&eacute;sultat vaut &eacute;galement en l'absence d'&eacute;pargne et avec l'endettement des salari&eacute;s, contrairement aux mod&egrave;les d&eacute;j&agrave; existants mais sujets au biais conceptuel relatif &agrave; la formation des march&eacute;s &eacute;quilibr&eacute;s." xml:lang="FR"/>
+<meta name="DC.subject" content="Finance Financiarisation Gouvernance actionnariale Crise &eacute;conomique Approche mon&eacute;taire Viabilit&eacute;  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The aim of this dissertation is to know to what extent an economic crisis can result from a specific dimension of financialization: the search for shareholder value by firms. Financialization is the unprecedented influences of financial systems over some components of the economic activities after the liberalization of such systems since the 1970s. Among the aforesaid components we can find the management of firms. Such management is shaped so that production expenditures are lowered as much as possible while priority is given to debt for financing decisions. The objective is to create as much 'shareholder value' as possible, to wit, to create as much income as possible for shareholders. The dissertation unfolds in four steps. First, a critical survey is made. The problem is generally solved by means of models putting into equations equilibrated markets. However, the convergence to equilibrium is barely proved. This logical inconsistency is not new and affects economic theory as a whole. Thus, solving the problem can be based on a model which conceptualizes the economic activities without referring to equilibrated markets. The second step is to elaborate on such conceptualization. A possibility is to account for the economic activities on the basis of money, thus giving rise to a monetary approach of these activities. The emphasis is put on the interrelated payments made possible by the use of money, the latter being the unit for payments to be expressed and the means through which payments are made. Payments are conceptualized in relation with three components: i) the process that creates means of payment, generally bank credit; ii) the settlement of negative balances (some agents cannot fully repay their debts as they do not benefit from enough payments); and iii) the modification of payments by agents from one period to another, according to their objectives and constraints. These modifications lead the network of payments to evolve over time. The third step is to put into equations an evolving network of payments in order to solve the problem. A system of non-linear recurrence equations determine all payments from a typology elaborated beforehand, as well as the financing of them. The system also determines the settlement of the negatives balances which result from payments. The numerous recurrences give rise to evolution. The whole system abstracts from goods and the related phenomena, in accordance with the monetary approach. The fourth step is to use the model for the problem to be solved. An economic crisis can be the result of the evolution per se. Agents which periodically change their payments can lead other agents to record negative balances. Thus, the network of payments can evolve in such a way that some firms are insolvent. The subsequent bankruptcies can be large enough to decrease production and employment, as in an economic crisis. In that case, the evolution of the network of payments is defined as non-viable. To know if the search for shareholder value leads to an economic crisis thus amounts to know if the search for shareholder value leads to a non-viable evolution of the network of payments. Numerical simulations are made, notably with the configurations of parameters that are associated to a more or less search for shareholder value by firms. The model leads to the following general result: either the search for shareholder value results in an economic crisis, either it moves the economic activities closer to a crisis, either the latter occurs irrespective of the search for shareholder value. This result applies whether management is totally oriented by shareholder value or only a few. This result also applies without savings and with the indebtedness of wage-earners, contrary to the models of the survey; however they fail due to the difficulties to prove the formation of their equilibrated markets." xml:lang="EN"/>
+<meta name="DC.subject" content="Finance Financialisation Corporate governance Economic crisis Monetary approach Viability " xml:lang="EN"/>
+<meta name="DC.date" content="2012-11-29" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2012GRENE001" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2012GRENE001"/>
+<title> theses.fr – Remi Stellian , Financiarisation, gouvernance actionnariale et crise &eacute;conomique : une approche mon&eacute;taire, la probl&egrave;matique de la viabilit&eacute;.</title>
+<meta name="citation_title" content="Financiarisation, gouvernance actionnariale et crise &eacute;conomique : une approche mon&eacute;taire, la probl&egrave;matique de la viabilit&eacute;." />
+<meta name="citation_author" content="Stellian, Remi" />
+<meta name="citation_publication_date" content="2012/11/29" />
+<meta name="citation_dissertation_institution" content="Grenoble" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2012GRENE001.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2012GRENE001&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2012GRENE001" title="Français" class="lang_fr current"></a>
+        <a href="/en/2012GRENE001"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2012GRENE001&lng=fr&ppn_origine=030327202&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2012GRENE001.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2012GRENE001.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2012GRENE001.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2012GRENE001/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Financiarisation, gouvernance actionnariale et crise économique : une approche monétaire, la problèmatique de la viabilité.</h1>
+    <h2>par <a href="168048248" rel="dcterms:creator" resource="http://www.idref.fr/168048248/id"><span property="foaf:name">Remi Stellian</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences économiques</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="05981120X" rel="dcterms:contributor" resource="http://www.idref.fr/05981120X/id"><span property="foaf:name">Faruk Ülgen</span></a> et de 
+<a href="069365814" rel="dcterms:contributor" resource="http://www.idref.fr/069365814/id"><span property="foaf:name">Sergio Rossi</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=29-11-2012 datatype="xsd:date">29-11-2012</span></p>
+      <p>à <a href="030327202" rel="dcterms:contributor" resource="http://www.idref.fr/030327202/id"><span property="foaf:name">Grenoble</span></a>
+ en cotutelle avec <a href="028925122" rel="dcterms:contributor" resource="http://www.idref.fr/028925122/id">
+<span property="foaf:name"> l'Université de Fribourg (Suisse)</span></a>
+, dans le cadre de  <a href="149284713" rel="dcterms:contributor" resource="http://www.idref.fr/149284713/id">
+<span property="foaf:name">École doctorale sciences économiques (Grenoble)</span></a>
+, en partenariat avec <a href="168272903" rel="dcterms:contributor" resource="http://www.idref.fr/168272903/id">
+<span property="foaf:name">Centre de recherche en économie de Grenoble</span></a>
+  (équipe de recherche) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/050825208" rel="dcterms:contributor" resource="http://www.idref.fr/050825208/id"><span property="foaf:name">Ramón Tortajada</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/05981120X" rel="dcterms:contributor" resource="http://www.idref.fr/05981120X/id"><span property="foaf:name">Faruk Ülgen</span></a>, 
+<a href="/fr/032097557" rel="dcterms:contributor" resource="http://www.idref.fr/032097557/id"><span property="foaf:name">Jaime de Melo</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/026769441" rel="dcterms:contributor" resource="http://www.idref.fr/026769441/id"><span property="foaf:name">Jean Cartelier</span></a>, 
+<a href="/fr/070986061" rel="dcterms:contributor" resource="http://www.idref.fr/070986061/id"><span property="foaf:name">Heinrich Bortis</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finance">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Finance
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Financiarisation">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Financiarisation
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Gouvernance actionnariale">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Gouvernance actionnariale
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crise économique">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Crise économique
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Approche monétaire">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Approche monétaire
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Viabilité">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Viabilité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Gouvernement d'entreprise Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Gouvernement d'entreprise -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crises économiques Origines Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Crises économiques -- Origines -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Gestion financière Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="fr">Gestion financière -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Cette thèse cherche à savoir dans quelle mesure une crise économique peut résulter d'une dimension particulière de la financiarisation : la gouvernance actionnariale. La financiarisation est la structuration inédite de certaines composantes des activités économiques par un système financier libéralisé à partir des années 1970. Parmi les composantes concernées figure la gestion des entreprises. Sa financiarisation consiste à réduire autant que possible les dépenses de production tout en privilégiant l’endettement comme mode de financement. L’objectif est de générer autant de revenus que possible pour l’actionnaire, sous forme de dividendes et de gains en capital. C'est pourquoi une telle gestion est qualifiée de gouvernance actionnariale. Une démarche en quatre étapes est suivie. En premier, la littérature existante est soumise à la critique. Le problème posé est généralement résolu à partir de modèles formalisant des marchés équilibrés, mais la formation de tels marchés est à peine prouvée. Ce biais n'est pas nouveau et affecte la théorie économique dans son ensemble. La résolution peut donc s’appuyer sur un modèle représentant les activités économiques sans référence à des marchés équilibrés. La seconde étape est de construire cette représentation. Cette dernière peut s’organiser autour de la monnaie, c’est-à-dire une approche monétaire des activités économiques. Ces dernières sont saisies à partir des paiements interdépendants rendus possibles par l’utilisation de la monnaie, en tant qu'unité d'expression des paiements et moyen de les effectuer. Les paiements sont mis en relation avec trois composantes : i) le mode d’émission de moyens de paiement, typiquement le crédit bancaire ; ii) le règlement des déficits résultant des paiements (crédits bancaires non totalement remboursés, faute d'avoir enregistré suffisamment de paiements) ; et iii) la modification des paiements d'une période à l'autre par les agents, afin de les ajuster à leurs objectifs et contraintes. Ces modifications produisent une évolution du réseau de paiements formé à chaque période.La troisième étape est de modéliser un réseau de paiements en évolution. Un système d’équations non-linéaires de récurrence détermine chaque paiement parmi une typologie préalablement établi, ainsi que son mode de financement. Le système détermine aussi le règlement des déficits résultant des paiements. Les multiples récurrences produisent l’évolution. Le tout est saisi en faisant abstraction des biens et des phénomènes afférents, conformément à une approche monétaire. La quatrième étape est de mobiliser le modèle pour résoudre le problème. La crise peut être le résultat de l'évolution elle-même. Des agents modifiant leurs paiements peuvent conduire d’autres agents à enregistrer des déficits. Le réseau de paiements peut donc évoluer de manière à ce que des entreprises soient insolvables. Les faillites subséquentes peuvent être en nombre suffisant pour diminuer la production et de l'emploi, d’où la crise économique. Une telle évolution est définie comme non-viable. Savoir si la gouvernance actionnariale est un facteur de crise revient donc à savoir si la gouvernance actionnariale implique une évolution non-viable du réseau de paiements. Des simulations numériques sont effectuées, avec notamment des sous-configurations de paramètres associées à une plus ou moins grande diffusion de la gouvernance actionnariale parmi les entreprises. Le modèle produit le résultat général suivant : soit la gouvernance actionnariale génère une crise, soit elle rapproche de cette situation, soit la crise se produit indépendamment de la gouvernance actionnariale. Ce résultat vaut quel que soit le degré de diffusion de cette gouvernance parmi les entreprises. Ce résultat vaut également en l'absence d'épargne et avec l'endettement des salariés, contrairement aux modèles déjà existants mais sujets au biais conceptuel relatif à la formation des marchés équilibrés.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Finance"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Finance</span></a></li>
+          <li><a href="/fr?q=*:Financialisation"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Financialisation</span></a></li>
+          <li><a href="/fr?q=*:Corporate governance"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Corporate governance</span></a></li>
+          <li><a href="/fr?q=*:Economic crisis"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Economic crisis</span></a></li>
+          <li><a href="/fr?q=*:Monetary approach"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Monetary approach</span></a></li>
+          <li><a href="/fr?q=*:Viability"name="MotsClesAutre" > <span about="http://www.theses.fr/2012GRENE001/id" property="dc:subject" xml:lang="en">Viability</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Financialisation, corporate governance and economic crisis : a monetary approach, the problem of viability</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The aim of this dissertation is to know to what extent an economic crisis can result from a specific dimension of financialization: the search for shareholder value by firms. Financialization is the unprecedented influences of financial systems over some components of the economic activities after the liberalization of such systems since the 1970s. Among the aforesaid components we can find the management of firms. Such management is shaped so that production expenditures are lowered as much as possible while priority is given to debt for financing decisions. The objective is to create as much 'shareholder value' as possible, to wit, to create as much income as possible for shareholders. The dissertation unfolds in four steps. First, a critical survey is made. The problem is generally solved by means of models putting into equations equilibrated markets. However, the convergence to equilibrium is barely proved. This logical inconsistency is not new and affects economic theory as a whole. Thus, solving the problem can be based on a model which conceptualizes the economic activities without referring to equilibrated markets. The second step is to elaborate on such conceptualization. A possibility is to account for the economic activities on the basis of money, thus giving rise to a monetary approach of these activities. The emphasis is put on the interrelated payments made possible by the use of money, the latter being the unit for payments to be expressed and the means through which payments are made. Payments are conceptualized in relation with three components: i) the process that creates means of payment, generally bank credit; ii) the settlement of negative balances (some agents cannot fully repay their debts as they do not benefit from enough payments); and iii) the modification of payments by agents from one period to another, according to their objectives and constraints. These modifications lead the network of payments to evolve over time. The third step is to put into equations an evolving network of payments in order to solve the problem. A system of non-linear recurrence equations determine all payments from a typology elaborated beforehand, as well as the financing of them. The system also determines the settlement of the negatives balances which result from payments. The numerous recurrences give rise to evolution. The whole system abstracts from goods and the related phenomena, in accordance with the monetary approach. The fourth step is to use the model for the problem to be solved. An economic crisis can be the result of the evolution per se. Agents which periodically change their payments can lead other agents to record negative balances. Thus, the network of payments can evolve in such a way that some firms are insolvent. The subsequent bankruptcies can be large enough to decrease production and employment, as in an economic crisis. In that case, the evolution of the network of payments is defined as non-viable. To know if the search for shareholder value leads to an economic crisis thus amounts to know if the search for shareholder value leads to a non-viable evolution of the network of payments. Numerical simulations are made, notably with the configurations of parameters that are associated to a more or less search for shareholder value by firms. The model leads to the following general result: either the search for shareholder value results in an economic crisis, either it moves the economic activities closer to a crisis, either the latter occurs irrespective of the search for shareholder value. This result applies whether management is totally oriented by shareholder value or only a few. This result also applies without savings and with the indebtedness of wage-earners, contrary to the models of the survey; however they fail due to the difficulties to prove the formation of their equilibrated markets.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2012GRENE001/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Service Interétablissement de Documentation. LLSH Collections numériques.</li>
+ 					<li>Bibliothèque : Université Savoie Mont Blanc (Chambéry-Annecy). Service commun de la documentation et des bibliothèques universitaires. Bibliothèque électronique.</li>
+ 					<li>Bibliothèque : Service interétablissements de Documentation. STM. Collections numériques.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/168284030" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

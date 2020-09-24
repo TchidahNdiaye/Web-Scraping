@@ -1,0 +1,935 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Risques li&eacute;s de cr&eacute;dit et d&eacute;riv&eacute;s de cr&eacute;dit"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2011PA020098"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Le premier volet de cette th&egrave;se traite de l&rsquo;&eacute;valuation du risque de cr&eacute;dit. Apr&egrave;s un chapitre introductif offrant une synth&egrave;se technique des mod&egrave;les de risque, nous nous int&eacute;ressons &agrave; la mod&eacute;lisation de la d&eacute;pendance entre les risques de d&eacute;faut par les copules qui permettent de mieux fonder les mesures du risque de cr&eacute;dit. Ces derni&egrave;res assurent une description int&eacute;grale de la structure de d&eacute;pendance et ont l&rsquo;avantage d&rsquo;exprimer la distribution jointe en termes des distributions marginales. Nous les appr&eacute;hendons en termes probabilistes telles qu&rsquo;elles sont d&eacute;sormais famili&egrave;res, mais &eacute;galement selon des perspectives alg&eacute;briques, d&eacute;marche &agrave; certains &eacute;gards plus englobante que l&rsquo;approche probabiliste. Ensuite, nous proposons un mod&egrave;le g&eacute;n&eacute;ral de pricing des d&eacute;riv&eacute;s de cr&eacute;dit inspir&eacute; des travaux de Cherubini et Luciano (2003) et de Luciano (2003). Nous &eacute;valuons un Credit Default Swap &laquo; vuln&eacute;rable &raquo;, comprenant un risque de contrepartie. Nous y int&eacute;grons la Credit Valuation Adjustment (CVA)pr&eacute;conis&eacute;e par B&acirc;le III pour optimiser l&rsquo;allocation du capital &eacute;conomique. Nous reprenons la repr&eacute;sentation g&eacute;n&eacute;rale de pricing &eacute;tablie par Sorensen et Bollier (1994) et contrairement aux travaux cit&eacute;s ci-dessus, le paiement de protection ne survient pas forc&eacute;ment &agrave; l&rsquo;&eacute;ch&eacute;ance du contrat. La d&eacute;pendance entre le risque de contrepartie et celui de l&rsquo;entit&eacute; de r&eacute;f&eacute;rence est approch&eacute;e par les copules. Nous examinons la vuln&eacute;rabilit&eacute; du CDS pour des cas de d&eacute;pendance extr&ecirc;mes gr&acirc;ce &agrave; un choix de copule mixte combinant des copules usuelles &laquo; extr&ecirc;mes &raquo;. En variant le rho de Spearman, la copule mixte balaie un large spectre de d&eacute;pendances, tout en assurant des closed form prices. Le mod&egrave;le qui en r&eacute;sulte est adapt&eacute; aux pratiques du march&eacute; et facile &agrave; calibrer.Nous en fournissons une application num&eacute;rique. Nous mettons ensuite en &eacute;vidence le r&ocirc;le des d&eacute;riv&eacute;s de cr&eacute;dit en tant qu&rsquo;instruments de couvertures mais aussi comme facteurs de risque, accus&eacute;s d&rsquo;&ecirc;tre &agrave; l&rsquo;origine de la crise des subprime. Enfin, nous analysons cette derni&egrave;re ainsi que celle des dettes souveraines, h&eacute;ritant &eacute;galement de l&rsquo;effondrement du march&eacute; immobilier am&eacute;ricain. Nous proposons &agrave; la suite une &eacute;tude de soutenabilit&eacute; de la dette publique des pays p&eacute;riph&eacute;riques surendett&eacute;s de la zone euro &agrave; l&rsquo;horizon 2016."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2011PA020098.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – &Eacute;tienne Gebran Harb , Risques li&eacute;s de cr&eacute;dit et d&eacute;riv&eacute;s de cr&eacute;dit">
+<meta name="description" content="Le premier volet de cette th&egrave;se traite de l&rsquo;&eacute;valuation du risque de cr&eacute;dit. Apr&egrave;s un chapitre introductif offrant une synth&egrave;se technique des mod&egrave;les de risque, nous nous int&eacute;ressons &agrave; la mod&eacute;lisation de la d&eacute;pendance entre les risques de d&eacute;faut par les copules qui permettent de mieux fonder les mesures du risque de cr&eacute;dit. Ces derni&egrave;res assurent une description int&eacute;grale de la structure de d&eacute;pendance et ont l&rsquo;avantage d&rsquo;exprimer la distribution jointe en termes des distributions marginales. Nous les appr&eacute;hendons en termes probabilistes telles qu&rsquo;elles sont d&eacute;sormais famili&egrave;res, mais &eacute;galement selon des perspectives alg&eacute;briques, d&eacute;marche &agrave; certains &eacute;gards plus englobante que l&rsquo;approche probabiliste. Ensuite, nous proposons un mod&egrave;le g&eacute;n&eacute;ral de pricing des d&eacute;riv&eacute;s de cr&eacute;dit inspir&eacute; des travaux de Cherubini et Luciano (2003) et de Luciano (2003). Nous &eacute;valuons un Credit Default Swap &laquo; vuln&eacute;rable &raquo;, comprenant un risque de contrepartie. Nous y int&eacute;grons la Credit Valuation Adjustment (CVA)pr&eacute;conis&eacute;e par B&acirc;le III pour optimiser l&rsquo;allocation du capital &eacute;conomique. Nous reprenons la repr&eacute;sentation g&eacute;n&eacute;rale de pricing &eacute;tablie par Sorensen et Bollier (1994) et contrairement aux travaux cit&eacute;s ci-dessus, le paiement de protection ne survient pas forc&eacute;ment &agrave; l&rsquo;&eacute;ch&eacute;ance du contrat. La d&eacute;pendance entre le risque de contrepartie et celui de l&rsquo;entit&eacute; de r&eacute;f&eacute;rence est approch&eacute;e par les copules. Nous examinons la vuln&eacute;rabilit&eacute; du CDS pour des cas de d&eacute;pendance extr&ecirc;mes gr&acirc;ce &agrave; un choix de copule mixte combinant des copules usuelles &laquo; extr&ecirc;mes &raquo;. En variant le rho de Spearman, la copule mixte balaie un large spectre de d&eacute;pendances, tout en assurant des closed form prices. Le mod&egrave;le qui en r&eacute;sulte est adapt&eacute; aux pratiques du march&eacute; et facile &agrave; calibrer.Nous en fournissons une application num&eacute;rique. Nous mettons ensuite en &eacute;vidence le r&ocirc;le des d&eacute;riv&eacute;s de cr&eacute;dit en tant qu&rsquo;instruments de couvertures mais aussi comme facteurs de risque, accus&eacute;s d&rsquo;&ecirc;tre &agrave; l&rsquo;origine de la crise des subprime. Enfin, nous analysons cette derni&egrave;re ainsi que celle des dettes souveraines, h&eacute;ritant &eacute;galement de l&rsquo;effondrement du march&eacute; immobilier am&eacute;ricain. Nous proposons &agrave; la suite une &eacute;tude de soutenabilit&eacute; de la dette publique des pays p&eacute;riph&eacute;riques surendett&eacute;s de la zone euro &agrave; l&rsquo;horizon 2016." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Risque de cr&eacute;dit Mod&egrave;le de risque Notation Statistiques de d&eacute;pendance Risque li&eacute;s Copule T-normes Pricing CDS D&eacute;riv&eacute;s de cr&eacute;dit Crise subprime Dettes souveraines " xml:lang="FR" />
+<meta name="description" content="The first part of this thesis deals with the valuation of credit risk. After an introductory chapter providing a technical synthesis of risk models, we model the dependence between default risks with the copula that helps enhancing credit risk measures. This technical tool provides a full description of the dependence structure; one could exploit the possibility of writing any joint distribution function as a copula, taking as arguments the marginal distributions. We approach copulas in probabilistic terms as they are familiar nowadays, then with an algebraic approach which is more inclusive than the probabilistic one. Afterwards, we present a general credit derivative pricing model based on Cherubini and Luciano (2003) and Luciano (2003). We price a &ldquo;vulnerable&rdquo;Credit Default Swap, taking into account a counterparty risk. We consider theCredit Valuation Adjustment (CVA) advocated by Basel III to optimize theeconomic capital allocation. We recover the general representation of aproduct with counterparty risk which goes back to Sorensen and Bollier (1994)and differently from the papers mentioned above, the payment of protectiondoes not occur necessarily at the end of the contract. We approach the dependence between counterparty risk and the reference credit&rsquo;s one with the copula. We study the sensitivity of the CDS in extreme dependence cases with a mixture copula defined in terms of the &ldquo;extreme&rdquo; ones. By varying the Spearman&rsquo;s rho, one can explore the whole range of positive and negative association. Furthermore, the mixture copula provides closed form prices. Our model is then closer to the market practice and easy to implement. Later on, we provide an application on credit market data. Then, we highlight the role of credit derivatives as hedging instruments and as risk factors as well since they are accused to be responsible for the subprime crisis. Finally, we analyze the subprime crisis and the sovereign debt crisis which arose from the U.S. mortgage market collapse as well. We then study the public debt sustainability of the heavily indebted peripheral countries of the eurozone by 2016." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Credit risk Risk modelling Rating Dependence statistics Copula T-norms CDS pricing Credit derivatives Subprime crisis Sovereign debts " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Risques li&eacute;s de cr&eacute;dit et d&eacute;riv&eacute;s de cr&eacute;dit">
+<meta name="DC.creator" content="&Eacute;tienne Gebran Harb" />
+<meta name="DC.contributor" content="Scannavino Aim&eacute; "/>
+<meta name="DC.publisher" content="Paris 2" />
+<meta name="DC.description.abstract" content="Le premier volet de cette th&egrave;se traite de l&rsquo;&eacute;valuation du risque de cr&eacute;dit. Apr&egrave;s un chapitre introductif offrant une synth&egrave;se technique des mod&egrave;les de risque, nous nous int&eacute;ressons &agrave; la mod&eacute;lisation de la d&eacute;pendance entre les risques de d&eacute;faut par les copules qui permettent de mieux fonder les mesures du risque de cr&eacute;dit. Ces derni&egrave;res assurent une description int&eacute;grale de la structure de d&eacute;pendance et ont l&rsquo;avantage d&rsquo;exprimer la distribution jointe en termes des distributions marginales. Nous les appr&eacute;hendons en termes probabilistes telles qu&rsquo;elles sont d&eacute;sormais famili&egrave;res, mais &eacute;galement selon des perspectives alg&eacute;briques, d&eacute;marche &agrave; certains &eacute;gards plus englobante que l&rsquo;approche probabiliste. Ensuite, nous proposons un mod&egrave;le g&eacute;n&eacute;ral de pricing des d&eacute;riv&eacute;s de cr&eacute;dit inspir&eacute; des travaux de Cherubini et Luciano (2003) et de Luciano (2003). Nous &eacute;valuons un Credit Default Swap &laquo; vuln&eacute;rable &raquo;, comprenant un risque de contrepartie. Nous y int&eacute;grons la Credit Valuation Adjustment (CVA)pr&eacute;conis&eacute;e par B&acirc;le III pour optimiser l&rsquo;allocation du capital &eacute;conomique. Nous reprenons la repr&eacute;sentation g&eacute;n&eacute;rale de pricing &eacute;tablie par Sorensen et Bollier (1994) et contrairement aux travaux cit&eacute;s ci-dessus, le paiement de protection ne survient pas forc&eacute;ment &agrave; l&rsquo;&eacute;ch&eacute;ance du contrat. La d&eacute;pendance entre le risque de contrepartie et celui de l&rsquo;entit&eacute; de r&eacute;f&eacute;rence est approch&eacute;e par les copules. Nous examinons la vuln&eacute;rabilit&eacute; du CDS pour des cas de d&eacute;pendance extr&ecirc;mes gr&acirc;ce &agrave; un choix de copule mixte combinant des copules usuelles &laquo; extr&ecirc;mes &raquo;. En variant le rho de Spearman, la copule mixte balaie un large spectre de d&eacute;pendances, tout en assurant des closed form prices. Le mod&egrave;le qui en r&eacute;sulte est adapt&eacute; aux pratiques du march&eacute; et facile &agrave; calibrer.Nous en fournissons une application num&eacute;rique. Nous mettons ensuite en &eacute;vidence le r&ocirc;le des d&eacute;riv&eacute;s de cr&eacute;dit en tant qu&rsquo;instruments de couvertures mais aussi comme facteurs de risque, accus&eacute;s d&rsquo;&ecirc;tre &agrave; l&rsquo;origine de la crise des subprime. Enfin, nous analysons cette derni&egrave;re ainsi que celle des dettes souveraines, h&eacute;ritant &eacute;galement de l&rsquo;effondrement du march&eacute; immobilier am&eacute;ricain. Nous proposons &agrave; la suite une &eacute;tude de soutenabilit&eacute; de la dette publique des pays p&eacute;riph&eacute;riques surendett&eacute;s de la zone euro &agrave; l&rsquo;horizon 2016." xml:lang="FR"/>
+<meta name="DC.subject" content="Risque de cr&eacute;dit Mod&egrave;le de risque Notation Statistiques de d&eacute;pendance Risque li&eacute;s Copule T-normes Pricing CDS D&eacute;riv&eacute;s de cr&eacute;dit Crise subprime Dettes souveraines  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The first part of this thesis deals with the valuation of credit risk. After an introductory chapter providing a technical synthesis of risk models, we model the dependence between default risks with the copula that helps enhancing credit risk measures. This technical tool provides a full description of the dependence structure; one could exploit the possibility of writing any joint distribution function as a copula, taking as arguments the marginal distributions. We approach copulas in probabilistic terms as they are familiar nowadays, then with an algebraic approach which is more inclusive than the probabilistic one. Afterwards, we present a general credit derivative pricing model based on Cherubini and Luciano (2003) and Luciano (2003). We price a &ldquo;vulnerable&rdquo;Credit Default Swap, taking into account a counterparty risk. We consider theCredit Valuation Adjustment (CVA) advocated by Basel III to optimize theeconomic capital allocation. We recover the general representation of aproduct with counterparty risk which goes back to Sorensen and Bollier (1994)and differently from the papers mentioned above, the payment of protectiondoes not occur necessarily at the end of the contract. We approach the dependence between counterparty risk and the reference credit&rsquo;s one with the copula. We study the sensitivity of the CDS in extreme dependence cases with a mixture copula defined in terms of the &ldquo;extreme&rdquo; ones. By varying the Spearman&rsquo;s rho, one can explore the whole range of positive and negative association. Furthermore, the mixture copula provides closed form prices. Our model is then closer to the market practice and easy to implement. Later on, we provide an application on credit market data. Then, we highlight the role of credit derivatives as hedging instruments and as risk factors as well since they are accused to be responsible for the subprime crisis. Finally, we analyze the subprime crisis and the sovereign debt crisis which arose from the U.S. mortgage market collapse as well. We then study the public debt sustainability of the heavily indebted peripheral countries of the eurozone by 2016." xml:lang="EN"/>
+<meta name="DC.subject" content="Credit risk Risk modelling Rating Dependence statistics Copula T-norms CDS pricing Credit derivatives Subprime crisis Sovereign debts " xml:lang="EN"/>
+<meta name="DC.date" content="2011-10-08" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2011PA020098" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2011PA020098"/>
+<title> theses.fr – &Eacute;tienne Gebran Harb , Risques li&eacute;s de cr&eacute;dit et d&eacute;riv&eacute;s de cr&eacute;dit</title>
+<meta name="citation_title" content="Risques li&eacute;s de cr&eacute;dit et d&eacute;riv&eacute;s de cr&eacute;dit" />
+<meta name="citation_author" content="Harb, &Eacute;tienne Gebran" />
+<meta name="citation_publication_date" content="2011/10/08" />
+<meta name="citation_dissertation_institution" content="Paris 2" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2011PA020098&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2011PA020098" title="Français" class="lang_fr current"></a>
+        <a href="/en/2011PA020098"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2011PA020098&lng=fr&ppn_origine=026403145&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2011PA020098.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2011PA020098.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2011PA020098.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2011PA020098/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Risques liés de crédit et dérivés de crédit</h1>
+    <h2>par <a href="160828384" rel="dcterms:creator" resource="http://www.idref.fr/160828384/id"><span property="foaf:name">Étienne Gebran Harb (Gebran Harb) </span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Economie - Finance</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="033228868" rel="dcterms:contributor" resource="http://www.idref.fr/033228868/id"><span property="foaf:name">Aimé Scannavino</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=08-10-2011 datatype="xsd:date">08-10-2011</span></p>
+      <p>à <a href="026403145" rel="dcterms:contributor" resource="http://www.idref.fr/026403145/id"><span property="foaf:name">Paris 2</span></a>
+, dans le cadre de  <a href="157546896" rel="dcterms:contributor" resource="http://www.idref.fr/157546896/id">
+<span property="foaf:name">École doctorale des sciences économiques et gestion, sciences de l'information et de la communication (Paris)</span></a>
+.
+    </div>
+    <div class="donnees" >
+      <p>Les rapporteurs étaient 
+<a href="/fr/076288935" rel="dcterms:contributor" resource="http://www.idref.fr/076288935/id"><span property="foaf:name">Laure Després</span></a>, 
+<a href="/fr/058924949" rel="dcterms:contributor" resource="http://www.idref.fr/058924949/id"><span property="foaf:name">Raymond Trémolières</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque de crédit">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Risque de crédit
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Modèle de risque">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Modèle de risque
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Notation">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Notation
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Statistiques de dépendance">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Statistiques de dépendance
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque liés">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Risque liés
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Copule">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Copule
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:T-normes">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">T-normes
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Pricing CDS">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Pricing CDS
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Dérivés de crédit">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Dérivés de crédit
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crise subprime">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Crise subprime
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Dettes souveraines">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Dettes souveraines
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque Modèles économétriques">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Risque -- Modèles économétriques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Instruments dérivés de crédit">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Instruments dérivés de crédit
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Prêts hypothécaires à risque">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Prêts hypothécaires à risque
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crédit">
+<span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="fr">Crédit
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Le premier volet de cette thèse traite de l’évaluation du risque de crédit. Après un chapitre introductif offrant une synthèse technique des modèles de risque, nous nous intéressons à la modélisation de la dépendance entre les risques de défaut par les copules qui permettent de mieux fonder les mesures du risque de crédit. Ces dernières assurent une description intégrale de la structure de dépendance et ont l’avantage d’exprimer la distribution jointe en termes des distributions marginales. Nous les appréhendons en termes probabilistes telles qu’elles sont désormais familières, mais également selon des perspectives algébriques, démarche à certains égards plus englobante que l’approche probabiliste. Ensuite, nous proposons un modèle général de pricing des dérivés de crédit inspiré des travaux de Cherubini et Luciano (2003) et de Luciano (2003). Nous évaluons un Credit Default Swap « vulnérable », comprenant un risque de contrepartie. Nous y intégrons la Credit Valuation Adjustment (CVA)préconisée par Bâle III pour optimiser l’allocation du capital économique. Nous reprenons la représentation générale de pricing établie par Sorensen et Bollier (1994) et contrairement aux travaux cités ci-dessus, le paiement de protection ne survient pas forcément à l’échéance du contrat. La dépendance entre le risque de contrepartie et celui de l’entité de référence est approchée par les copules. Nous examinons la vulnérabilité du CDS pour des cas de dépendance extrêmes grâce à un choix de copule mixte combinant des copules usuelles « extrêmes ». En variant le rho de Spearman, la copule mixte balaie un large spectre de dépendances, tout en assurant des closed form prices. Le modèle qui en résulte est adapté aux pratiques du marché et facile à calibrer.Nous en fournissons une application numérique. Nous mettons ensuite en évidence le rôle des dérivés de crédit en tant qu’instruments de couvertures mais aussi comme facteurs de risque, accusés d’être à l’origine de la crise des subprime. Enfin, nous analysons cette dernière ainsi que celle des dettes souveraines, héritant également de l’effondrement du marché immobilier américain. Nous proposons à la suite une étude de soutenabilité de la dette publique des pays périphériques surendettés de la zone euro à l’horizon 2016.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Credit risk"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Credit risk</span></a></li>
+          <li><a href="/fr?q=*:Risk modelling"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Risk modelling</span></a></li>
+          <li><a href="/fr?q=*:Rating"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Rating</span></a></li>
+          <li><a href="/fr?q=*:Dependence statistics"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Dependence statistics</span></a></li>
+          <li><a href="/fr?q=*:Copula"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Copula</span></a></li>
+          <li><a href="/fr?q=*:T-norms"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">T-norms</span></a></li>
+          <li><a href="/fr?q=*:CDS pricing"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">CDS pricing</span></a></li>
+          <li><a href="/fr?q=*:Credit derivatives"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Credit derivatives</span></a></li>
+          <li><a href="/fr?q=*:Subprime crisis"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Subprime crisis</span></a></li>
+          <li><a href="/fr?q=*:Sovereign debts"name="MotsClesAutre" > <span about="http://www.theses.fr/2011PA020098/id" property="dc:subject" xml:lang="en">Sovereign debts</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Dependent credit risks and credit derivatives</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The first part of this thesis deals with the valuation of credit risk. After an introductory chapter providing a technical synthesis of risk models, we model the dependence between default risks with the copula that helps enhancing credit risk measures. This technical tool provides a full description of the dependence structure; one could exploit the possibility of writing any joint distribution function as a copula, taking as arguments the marginal distributions. We approach copulas in probabilistic terms as they are familiar nowadays, then with an algebraic approach which is more inclusive than the probabilistic one. Afterwards, we present a general credit derivative pricing model based on Cherubini and Luciano (2003) and Luciano (2003). We price a “vulnerable”Credit Default Swap, taking into account a counterparty risk. We consider theCredit Valuation Adjustment (CVA) advocated by Basel III to optimize theeconomic capital allocation. We recover the general representation of aproduct with counterparty risk which goes back to Sorensen and Bollier (1994)and differently from the papers mentioned above, the payment of protectiondoes not occur necessarily at the end of the contract. We approach the dependence between counterparty risk and the reference credit’s one with the copula. We study the sensitivity of the CDS in extreme dependence cases with a mixture copula defined in terms of the “extreme” ones. By varying the Spearman’s rho, one can explore the whole range of positive and negative association. Furthermore, the mixture copula provides closed form prices. Our model is then closer to the market practice and easy to implement. Later on, we provide an application on credit market data. Then, we highlight the role of credit derivatives as hedging instruments and as risk factors as well since they are accused to be responsible for the subprime crisis. Finally, we analyze the subprime crisis and the sovereign debt crisis which arose from the U.S. mortgage market collapse as well. We then study the public debt sustainability of the heavily indebted peripheral countries of the eurozone by 2016.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a id="internet_tip" title=""><strong>Accéder</strong> sur intranet</a>
+			<div class="tooltip2">
+				<p>Cette thèse comprend les fichiers suivants :</p>
+<h5><a href="https://docassas.u-paris2.fr/nuxeo/site/esupversions/4c93ebde-1f8a-40d9-9983-02990f31e893" target="_blank">https://docassas.u-paris2.fr/nuxeo/site/esupversions/4c93ebde-1f8a-40d9-9983-02990f31e893 </a></h5>
+<h5><a href="https://docassascujas.u-paris2.fr/nuxeo/site/esupversions/4c93ebde-1f8a-40d9-9983-02990f31e893" target="_blank">https://docassascujas.u-paris2.fr/nuxeo/site/esupversions/4c93ebde-1f8a-40d9-9983-02990f31e893 </a></h5>
+			</div> 
+		</div>
+		<div class="option consulter">
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Informations</strong></p>
+ 				<ul>
+ 					<li>Détails :  1 vol. (365 p.)</li>
+ 					<li>Notes :  Publication autorisée par le jury</li>
+ 					<li>Annexes :  Bibliogr. p. 354-364</li>
+ 				</ul>
+ 			</div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Bibliothèque Cujas de droit et de sciences économiques (Paris).</li>
+ 					<li> Non disponible pour le PEB</li>
+ 					<li>Cote : R/T2011-59</li>
+ 					<li>Bibliothèque : Bibliothèque de l&apos;Université Panthéon-Assas (Paris).</li>
+ 					<li>Bibliothèque : Bibliothèque Cujas de droit et de sciences économiques (Paris).</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&TRM=160946905 OR 160964156" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

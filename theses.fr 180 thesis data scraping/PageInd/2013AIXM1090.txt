@@ -1,0 +1,931 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Essays in banking and corporate finance"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2013AIXM1090"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Cette th&egrave;se est compos&eacute;e de 3 essais. Le 1er essai  traite de la probl&eacute;matique du risque de pertes extr&ecirc;mes dans le secteur bancaire dans un contexte du probl&egrave;me d'agence entre les actionnaires et les top managers des banques. Pour pouvoir inciter les banques &agrave; ne pas prendre le risque de pertes extr&ecirc;mes, il est propos&eacute; d'appliquer la r&eacute;gulation des fonds propres sous forme d'une politique de recapitalisations obligatoires, dont les param&egrave;tres sont choisis pour inciter les actionnaires &agrave; r&eacute;mun&eacute;rer leurs managers de la mani&egrave;re &agrave; les d&eacute;tourner des strat&eacute;gies au risque de pertes extr&ecirc;mes.Le 2&egrave;me essai d&eacute;veloppe le design de la supervision bancaire qui vise &agrave; &eacute;liminer le probl&egrave;me d'al&eacute;a moral au sein d'une banque, tout en assurant un co&ucirc;t minimum de supervisions. Les banques, dont la situation financi&egrave;re commence &agrave; se d&eacute;grader, doivent &ecirc;tre soumises &agrave; des audits al&eacute;atoires. Les banques, dont la valeur de l'actif s'est d&eacute;grad&eacute;e consid&eacute;rablement, doivent &ecirc;tre mises sous tutelle pour un redressement financier. Les auditeurs externes peuvent &ecirc;tre impliqu&eacute;s dans le processus de supervision, mais ne doivent pas compl&egrave;tement remplacer les r&eacute;gulateurs. Le 3&egrave;me essai &eacute;tudie comment la capacit&eacute; d'emprunt de l'entreprise non-financi&egrave;re affecte sa politique d'investissement en pr&eacute;sence des co&ucirc;ts d'&eacute;mission de la dette. Il est montr&eacute; que les entreprises, dont la capacit&eacute; d'emprunt est moyenne, ont int&eacute;r&ecirc;t &agrave; r&eacute;aliser un investissement plus important par rapport aux entreprises dont la capacit&eacute; d'emprunt est relativement faible/forte. Cela est enti&egrave;rement d&ucirc; &agrave; l'effet des co&ucirc;ts fixes d'&eacute;mission de la dette, qui &eacute;merge dans le contexte dynamique d'investissement."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2013AIXM1090.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Nataliya Pakhomova , Essays in banking and corporate finance">
+<meta name="description" content="Cette th&egrave;se est compos&eacute;e de 3 essais. Le 1er essai  traite de la probl&eacute;matique du risque de pertes extr&ecirc;mes dans le secteur bancaire dans un contexte du probl&egrave;me d'agence entre les actionnaires et les top managers des banques. Pour pouvoir inciter les banques &agrave; ne pas prendre le risque de pertes extr&ecirc;mes, il est propos&eacute; d'appliquer la r&eacute;gulation des fonds propres sous forme d'une politique de recapitalisations obligatoires, dont les param&egrave;tres sont choisis pour inciter les actionnaires &agrave; r&eacute;mun&eacute;rer leurs managers de la mani&egrave;re &agrave; les d&eacute;tourner des strat&eacute;gies au risque de pertes extr&ecirc;mes.Le 2&egrave;me essai d&eacute;veloppe le design de la supervision bancaire qui vise &agrave; &eacute;liminer le probl&egrave;me d'al&eacute;a moral au sein d'une banque, tout en assurant un co&ucirc;t minimum de supervisions. Les banques, dont la situation financi&egrave;re commence &agrave; se d&eacute;grader, doivent &ecirc;tre soumises &agrave; des audits al&eacute;atoires. Les banques, dont la valeur de l'actif s'est d&eacute;grad&eacute;e consid&eacute;rablement, doivent &ecirc;tre mises sous tutelle pour un redressement financier. Les auditeurs externes peuvent &ecirc;tre impliqu&eacute;s dans le processus de supervision, mais ne doivent pas compl&egrave;tement remplacer les r&eacute;gulateurs. Le 3&egrave;me essai &eacute;tudie comment la capacit&eacute; d'emprunt de l'entreprise non-financi&egrave;re affecte sa politique d'investissement en pr&eacute;sence des co&ucirc;ts d'&eacute;mission de la dette. Il est montr&eacute; que les entreprises, dont la capacit&eacute; d'emprunt est moyenne, ont int&eacute;r&ecirc;t &agrave; r&eacute;aliser un investissement plus important par rapport aux entreprises dont la capacit&eacute; d'emprunt est relativement faible/forte. Cela est enti&egrave;rement d&ucirc; &agrave; l'effet des co&ucirc;ts fixes d'&eacute;mission de la dette, qui &eacute;merge dans le contexte dynamique d'investissement." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Risque des pertes extr&ecirc;mes Al&eacute;a moral Probl&egrave;me de l'agence R&eacute;mun&eacute;ration incitative Recapitalisation Supervision bancaire Investissement La capacit&eacute; d'emprunt Co&ucirc;ts d'&eacute;mission de la dette " xml:lang="FR" />
+<meta name="description" content="This dissertation consists of 3 self-contained theoretical essays.Essay 1 brings into focus the problem of &quot;manufacturing&quot; tail risk in the banking sector. This work shows that, in order to prevent banks from engaging in tail risk, bank capital regulation should account for the internal agency problem between bank shareholders and bank top managers. It is proposed to design bank capital requirements in the form of incentive-based recapitalization mechanism which would induce bank shareholders to shape executive compensation in such a way as to prevent top managers from engaging in tail-risk.Essay 2 deals with the problem of moral hazard in bank asset management. It proposes the concept of incentive-based bank supervision aimed at preventing moral hazard at a minimum cost to the regulator. It is shown that the intensity of supervision efforts should be gradually adjusted to the bank's financial health: banks in the mild form of distress should be subject to random audits, whereas deeply distressed banks should be placed under temporary regulatory control. To prevent double moral hazard, external auditors involved in supervision should be offered the optimal incentive contract.Essay 3 examines the impact of credit rationing (debt capacity) on corporate investment in the setting with costly debt financing. It is shown that, when credit constraints are binding, the firms with intermediate levels of debt capacity will establish larger investment projects than the firms with relatively low or high debt capacity. This non-monotonicity of investment on debt capacity arises due to the effect of the lump-sum debt issuance costs in the dynamic context of investment." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Tail risk Agency problem Incentive compensation Recapitalization Moral hazard Bank supervision Investment Credit rationing Debt issuance costs " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Essays in banking and corporate finance">
+<meta name="DC.creator" content="Nataliya Pakhomova" />
+<meta name="DC.contributor" content="Henriet Dominique Belhaj Mohamed "/>
+<meta name="DC.publisher" content="Aix-Marseille" />
+<meta name="DC.description.abstract" content="Cette th&egrave;se est compos&eacute;e de 3 essais. Le 1er essai  traite de la probl&eacute;matique du risque de pertes extr&ecirc;mes dans le secteur bancaire dans un contexte du probl&egrave;me d'agence entre les actionnaires et les top managers des banques. Pour pouvoir inciter les banques &agrave; ne pas prendre le risque de pertes extr&ecirc;mes, il est propos&eacute; d'appliquer la r&eacute;gulation des fonds propres sous forme d'une politique de recapitalisations obligatoires, dont les param&egrave;tres sont choisis pour inciter les actionnaires &agrave; r&eacute;mun&eacute;rer leurs managers de la mani&egrave;re &agrave; les d&eacute;tourner des strat&eacute;gies au risque de pertes extr&ecirc;mes.Le 2&egrave;me essai d&eacute;veloppe le design de la supervision bancaire qui vise &agrave; &eacute;liminer le probl&egrave;me d'al&eacute;a moral au sein d'une banque, tout en assurant un co&ucirc;t minimum de supervisions. Les banques, dont la situation financi&egrave;re commence &agrave; se d&eacute;grader, doivent &ecirc;tre soumises &agrave; des audits al&eacute;atoires. Les banques, dont la valeur de l'actif s'est d&eacute;grad&eacute;e consid&eacute;rablement, doivent &ecirc;tre mises sous tutelle pour un redressement financier. Les auditeurs externes peuvent &ecirc;tre impliqu&eacute;s dans le processus de supervision, mais ne doivent pas compl&egrave;tement remplacer les r&eacute;gulateurs. Le 3&egrave;me essai &eacute;tudie comment la capacit&eacute; d'emprunt de l'entreprise non-financi&egrave;re affecte sa politique d'investissement en pr&eacute;sence des co&ucirc;ts d'&eacute;mission de la dette. Il est montr&eacute; que les entreprises, dont la capacit&eacute; d'emprunt est moyenne, ont int&eacute;r&ecirc;t &agrave; r&eacute;aliser un investissement plus important par rapport aux entreprises dont la capacit&eacute; d'emprunt est relativement faible/forte. Cela est enti&egrave;rement d&ucirc; &agrave; l'effet des co&ucirc;ts fixes d'&eacute;mission de la dette, qui &eacute;merge dans le contexte dynamique d'investissement." xml:lang="FR"/>
+<meta name="DC.subject" content="Risque des pertes extr&ecirc;mes Al&eacute;a moral Probl&egrave;me de l'agence R&eacute;mun&eacute;ration incitative Recapitalisation Supervision bancaire Investissement La capacit&eacute; d'emprunt Co&ucirc;ts d'&eacute;mission de la dette  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="This dissertation consists of 3 self-contained theoretical essays.Essay 1 brings into focus the problem of &quot;manufacturing&quot; tail risk in the banking sector. This work shows that, in order to prevent banks from engaging in tail risk, bank capital regulation should account for the internal agency problem between bank shareholders and bank top managers. It is proposed to design bank capital requirements in the form of incentive-based recapitalization mechanism which would induce bank shareholders to shape executive compensation in such a way as to prevent top managers from engaging in tail-risk.Essay 2 deals with the problem of moral hazard in bank asset management. It proposes the concept of incentive-based bank supervision aimed at preventing moral hazard at a minimum cost to the regulator. It is shown that the intensity of supervision efforts should be gradually adjusted to the bank's financial health: banks in the mild form of distress should be subject to random audits, whereas deeply distressed banks should be placed under temporary regulatory control. To prevent double moral hazard, external auditors involved in supervision should be offered the optimal incentive contract.Essay 3 examines the impact of credit rationing (debt capacity) on corporate investment in the setting with costly debt financing. It is shown that, when credit constraints are binding, the firms with intermediate levels of debt capacity will establish larger investment projects than the firms with relatively low or high debt capacity. This non-monotonicity of investment on debt capacity arises due to the effect of the lump-sum debt issuance costs in the dynamic context of investment." xml:lang="EN"/>
+<meta name="DC.subject" content="Tail risk Agency problem Incentive compensation Recapitalization Moral hazard Bank supervision Investment Credit rationing Debt issuance costs " xml:lang="EN"/>
+<meta name="DC.date" content="2013-09-30" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2013AIXM1090" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2013AIXM1090"/>
+<title> theses.fr – Nataliya Pakhomova , Essays in banking and corporate finance</title>
+<meta name="citation_title" content="Essays in banking and corporate finance" />
+<meta name="citation_author" content="Pakhomova, Nataliya" />
+<meta name="citation_publication_date" content="2013/09/30" />
+<meta name="citation_dissertation_institution" content="Aix-Marseille" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2013AIXM1090&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2013AIXM1090" title="Français" class="lang_fr current"></a>
+        <a href="/en/2013AIXM1090"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2013AIXM1090&lng=fr&ppn_origine=15863621X&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2013AIXM1090.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2013AIXM1090.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2013AIXM1090.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2013AIXM1090/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Essays in banking and corporate finance</h1>
+    <h2>par  <a href="182082725" rel="dcterms:creator" resource="http://www.idref.fr/182082725/id"><span property="foaf:name">Nataliya Pakhomova</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Sciences économiques</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="030626188" rel="dcterms:contributor" resource="http://www.idref.fr/030626188/id"><span property="foaf:name">Dominique Henriet</span></a> et de 
+<a href="182083039" rel="dcterms:contributor" resource="http://www.idref.fr/182083039/id"><span property="foaf:name">Mohamed Belhaj</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=30-09-2013 datatype="xsd:date">30-09-2013</span></p>
+      <p>à <a href="15863621X" rel="dcterms:contributor" resource="http://www.idref.fr/15863621X/id"><span property="foaf:name">Aix-Marseille</span></a>
+, dans le cadre de  <a href="145585387" rel="dcterms:contributor" resource="http://www.idref.fr/145585387/id">
+<span property="foaf:name">Ecole Doctorale Sciences Economiques et de Gestion d'Aix-Marseille (Aix-en-Provence)</span></a>
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/075922827" rel="dcterms:contributor" resource="http://www.idref.fr/075922827/id"><span property="foaf:name">Jean-Paul Décamps</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/030626188" rel="dcterms:contributor" resource="http://www.idref.fr/030626188/id"><span property="foaf:name">Dominique Henriet</span></a>, 
+<a href="/fr/182083039" rel="dcterms:contributor" resource="http://www.idref.fr/182083039/id"><span property="foaf:name">Mohamed Belhaj</span></a>, 
+<a href="/fr/075922827" rel="dcterms:contributor" resource="http://www.idref.fr/075922827/id"><span property="foaf:name">Jean-Paul Décamps</span></a>, 
+<a href="/fr/061507105" rel="dcterms:contributor" resource="http://www.idref.fr/061507105/id"><span property="foaf:name">Stéphane Villeneuve</span></a>, 
+<a href="/fr/03062620X" rel="dcterms:contributor" resource="http://www.idref.fr/03062620X/id"><span property="foaf:name">Jean-Charles Rochet</span></a>, 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Erwan Morellec</span></span>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/061507105" rel="dcterms:contributor" resource="http://www.idref.fr/061507105/id"><span property="foaf:name">Stéphane Villeneuve</span></a>, 
+<a href="/fr/03062620X" rel="dcterms:contributor" resource="http://www.idref.fr/03062620X/id"><span property="foaf:name">Jean-Charles Rochet</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Risque des pertes extrêmes">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Risque des pertes extrêmes
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Aléa moral">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Aléa moral
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Problème de l'agence">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Problème de l'agence
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Rémunération incitative">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Rémunération incitative
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Recapitalisation">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Recapitalisation
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Supervision bancaire">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Supervision bancaire
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Investissement">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Investissement
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:La capacité d'emprunt">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">La capacité d'emprunt
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Coûts d'émission de la dette">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Coûts d'émission de la dette
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Banques Réserves">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Banques -- Réserves
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Banques Productivité">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Banques -- Productivité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Volatilité (finances)">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Volatilité (finances)
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Entreprises Finances">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Entreprises -- Finances
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Diversification (économie politique) Finances">
+<span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="fr">Diversification (économie politique) -- Finances
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="fr">Essais en règlementation bancaire et finance d'entreprises</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Cette thèse est composée de 3 essais. Le 1er essai  traite de la problématique du risque de pertes extrêmes dans le secteur bancaire dans un contexte du problème d'agence entre les actionnaires et les top managers des banques. Pour pouvoir inciter les banques à ne pas prendre le risque de pertes extrêmes, il est proposé d'appliquer la régulation des fonds propres sous forme d'une politique de recapitalisations obligatoires, dont les paramètres sont choisis pour inciter les actionnaires à rémunérer leurs managers de la manière à les détourner des stratégies au risque de pertes extrêmes.Le 2ème essai développe le design de la supervision bancaire qui vise à éliminer le problème d'aléa moral au sein d'une banque, tout en assurant un coût minimum de supervisions. Les banques, dont la situation financière commence à se dégrader, doivent être soumises à des audits aléatoires. Les banques, dont la valeur de l'actif s'est dégradée considérablement, doivent être mises sous tutelle pour un redressement financier. Les auditeurs externes peuvent être impliqués dans le processus de supervision, mais ne doivent pas complètement remplacer les régulateurs. Le 3ème essai étudie comment la capacité d'emprunt de l'entreprise non-financière affecte sa politique d'investissement en présence des coûts d'émission de la dette. Il est montré que les entreprises, dont la capacité d'emprunt est moyenne, ont intérêt à réaliser un investissement plus important par rapport aux entreprises dont la capacité d'emprunt est relativement faible/forte. Cela est entièrement dû à l'effet des coûts fixes d'émission de la dette, qui émerge dans le contexte dynamique d'investissement.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Tail risk"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Tail risk</span></a></li>
+          <li><a href="/fr?q=*:Agency problem"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Agency problem</span></a></li>
+          <li><a href="/fr?q=*:Incentive compensation"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Incentive compensation</span></a></li>
+          <li><a href="/fr?q=*:Recapitalization"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Recapitalization</span></a></li>
+          <li><a href="/fr?q=*:Moral hazard"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Moral hazard</span></a></li>
+          <li><a href="/fr?q=*:Bank supervision"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Bank supervision</span></a></li>
+          <li><a href="/fr?q=*:Investment"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Investment</span></a></li>
+          <li><a href="/fr?q=*:Credit rationing"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Credit rationing</span></a></li>
+          <li><a href="/fr?q=*:Debt issuance costs"name="MotsClesAutre" > <span about="http://www.theses.fr/2013AIXM1090/id" property="dc:subject" xml:lang="en">Debt issuance costs</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">This dissertation consists of 3 self-contained theoretical essays.Essay 1 brings into focus the problem of "manufacturing" tail risk in the banking sector. This work shows that, in order to prevent banks from engaging in tail risk, bank capital regulation should account for the internal agency problem between bank shareholders and bank top managers. It is proposed to design bank capital requirements in the form of incentive-based recapitalization mechanism which would induce bank shareholders to shape executive compensation in such a way as to prevent top managers from engaging in tail-risk.Essay 2 deals with the problem of moral hazard in bank asset management. It proposes the concept of incentive-based bank supervision aimed at preventing moral hazard at a minimum cost to the regulator. It is shown that the intensity of supervision efforts should be gradually adjusted to the bank's financial health: banks in the mild form of distress should be subject to random audits, whereas deeply distressed banks should be placed under temporary regulatory control. To prevent double moral hazard, external auditors involved in supervision should be offered the optimal incentive contract.Essay 3 examines the impact of credit rationing (debt capacity) on corporate investment in the setting with costly debt financing. It is shown that, when credit constraints are binding, the firms with intermediate levels of debt capacity will establish larger investment projects than the firms with relatively low or high debt capacity. This non-monotonicity of investment on debt capacity arises due to the effect of the lump-sum debt issuance costs in the dynamic context of investment.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="http://theses.univ-amu.fr.lama.univ-amu.fr/130930_PAKHOMOVA_02TQBJ01US6_TH" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+		<div class="option consulter">
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Informations</strong></p>
+ 				<ul>
+ 					<li>Détails :  1 vol. (151 p.)</li>
+ 					<li>Annexes :  Bibliogr. p. 143-151</li>
+ 				</ul>
+ 			</div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Université d&apos;Aix-Marseille (Aix-en-Provence. Ferry). Service commun de la documentation. Bibliothèque de sciences économiques et de gestion.</li>
+ 					<li> Disponible pour le PEB</li>
+ 					<li>Bibliothèque : Université d&apos;Aix-Marseille. Service commun de la documentation. Bibliothèque électronique.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&TRM=18234276X OR 183643712" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

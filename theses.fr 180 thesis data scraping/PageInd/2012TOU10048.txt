@@ -1,0 +1,828 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 6e1bc219c895dc3f360ace3de7e75949 -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Probabilit&eacute; de d&eacute;faut, informations priv&eacute;es et publiques"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2012TOU10048"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Le premier chapitre est motiv&eacute; par trois &eacute;l&eacute;ments de paniques bancaires, qui combin&eacute;s entre eux, sont encore que tr&egrave;s peu compris. Le premier &eacute;l&eacute;ment est le fait que les informations sur la qualit&eacute; des investissements de longue dur&eacute;e des banques ne sont pas parfaites. Le second est le fait que la qualit&eacute; des investissements des banques peut &ecirc;tre corr&eacute;l&eacute;e. Le troisi&egrave;me &eacute;l&eacute;ment est le fait que les d&eacute;posants d&rsquo;une banque peuvent observer quand il y a une ru&eacute;e vers une autre banque. Ce chapitre &eacute;tend l'application des &laquo; jeux globaux &raquo; mais pour examiner comment ces &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent aux d&eacute;posants et la probabilit&eacute; ex ante de panique bancaire s&eacute;quentielle. Tout en observant l&rsquo;attention port&eacute;e sur les faits que la qualit&eacute; des investissements des banques n&rsquo;est pas parfaite et que cette qualit&eacute; peut &ecirc;tre corr&eacute;l&eacute;e, le second chapitre se focalise sur le march&eacute; interbancaire. Ce chapitre &eacute;tend aussi l'application des &laquo; jeux globaux &raquo; pour examiner cette fois-ci, comment ces trois nouveaux &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent et la probabilit&eacute; ex ante de panique bancaire. Le troisi&egrave;me chapitre pr&eacute;sente un mod&egrave;le dynamique d&rsquo;anticipations rationnelles pour expliquer la volatilit&eacute; observ&eacute;e dans les primes de risques des march&eacute;s &eacute;mergents. Ce mod&egrave;le repose sur l'hypoth&egrave;se selon laquelle les agents re&ccedil;oivent r&eacute;guli&egrave;rement de nouvelles informations sur la capacit&eacute; du pays &agrave; rembourser sa dette souveraine. Nous &eacute;tudions ensuite de fa&ccedil;on empirique les pr&eacute;dictions originales du mod&egrave;le th&eacute;orique, en utilisant les donn&eacute;es mensuelles des march&eacute;s &eacute;mergents au cours de la p&eacute;riode 1994-2006."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2012TOU10048.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Paula Margaretic , Probabilit&eacute; de d&eacute;faut, informations priv&eacute;es et publiques">
+<meta name="description" content="Le premier chapitre est motiv&eacute; par trois &eacute;l&eacute;ments de paniques bancaires, qui combin&eacute;s entre eux, sont encore que tr&egrave;s peu compris. Le premier &eacute;l&eacute;ment est le fait que les informations sur la qualit&eacute; des investissements de longue dur&eacute;e des banques ne sont pas parfaites. Le second est le fait que la qualit&eacute; des investissements des banques peut &ecirc;tre corr&eacute;l&eacute;e. Le troisi&egrave;me &eacute;l&eacute;ment est le fait que les d&eacute;posants d&rsquo;une banque peuvent observer quand il y a une ru&eacute;e vers une autre banque. Ce chapitre &eacute;tend l'application des &laquo; jeux globaux &raquo; mais pour examiner comment ces &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent aux d&eacute;posants et la probabilit&eacute; ex ante de panique bancaire s&eacute;quentielle. Tout en observant l&rsquo;attention port&eacute;e sur les faits que la qualit&eacute; des investissements des banques n&rsquo;est pas parfaite et que cette qualit&eacute; peut &ecirc;tre corr&eacute;l&eacute;e, le second chapitre se focalise sur le march&eacute; interbancaire. Ce chapitre &eacute;tend aussi l'application des &laquo; jeux globaux &raquo; pour examiner cette fois-ci, comment ces trois nouveaux &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent et la probabilit&eacute; ex ante de panique bancaire. Le troisi&egrave;me chapitre pr&eacute;sente un mod&egrave;le dynamique d&rsquo;anticipations rationnelles pour expliquer la volatilit&eacute; observ&eacute;e dans les primes de risques des march&eacute;s &eacute;mergents. Ce mod&egrave;le repose sur l'hypoth&egrave;se selon laquelle les agents re&ccedil;oivent r&eacute;guli&egrave;rement de nouvelles informations sur la capacit&eacute; du pays &agrave; rembourser sa dette souveraine. Nous &eacute;tudions ensuite de fa&ccedil;on empirique les pr&eacute;dictions originales du mod&egrave;le th&eacute;orique, en utilisant les donn&eacute;es mensuelles des march&eacute;s &eacute;mergents au cours de la p&eacute;riode 1994-2006." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Probabilit&eacute; " xml:lang="FR" />
+<meta name="description" content="The first chapter focuses on three elements of bank runs in reality which combined are less wellunderstood. The first element is the fact that information about the quality of banks' long-run investments is not perfect. The second one is the fact that the quality of banks' investments may be correlated. The third one is the fact that depositors in one bank can observe when there is a run in another bank. This chapter extends the application of global games to examine how these elements affect the deposit contract that banks offer to depositors and the ex ante probability of sequential bank run.The second chapter shares with the first chapter the attention given to the fact that information about the quality of banks' long-run investments is not perfect and that this quality may be correlated. But instead of focusing on sequentiality, the second chapter focuses on the interbank market. Chapter 2 also extends the application of global games to examine this time how the combination of these three new elements affects the deposit contract that banks offer to depositors and the ex ante probability of bank run. The third chapter proposes a dynamic, rational expectation model explain the observed volatility in emerging market risk premia. The model relies on the assumption that investors update their expectations about the unobserved emerging country's capacity to service its sovereign debt if default, based on available periodic information. It then empirically tests the theoretical predictions of the model, using a monthly panel data for 17 EMs over the period 1994-2006." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Probabilit&eacute; de d&eacute;faut, informations priv&eacute;es et publiques">
+<meta name="DC.creator" content="Paula Margaretic" />
+<meta name="DC.contributor" content="Moinas Sophie "/>
+<meta name="DC.publisher" content="Toulouse 1" />
+<meta name="DC.description.abstract" content="Le premier chapitre est motiv&eacute; par trois &eacute;l&eacute;ments de paniques bancaires, qui combin&eacute;s entre eux, sont encore que tr&egrave;s peu compris. Le premier &eacute;l&eacute;ment est le fait que les informations sur la qualit&eacute; des investissements de longue dur&eacute;e des banques ne sont pas parfaites. Le second est le fait que la qualit&eacute; des investissements des banques peut &ecirc;tre corr&eacute;l&eacute;e. Le troisi&egrave;me &eacute;l&eacute;ment est le fait que les d&eacute;posants d&rsquo;une banque peuvent observer quand il y a une ru&eacute;e vers une autre banque. Ce chapitre &eacute;tend l'application des &laquo; jeux globaux &raquo; mais pour examiner comment ces &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent aux d&eacute;posants et la probabilit&eacute; ex ante de panique bancaire s&eacute;quentielle. Tout en observant l&rsquo;attention port&eacute;e sur les faits que la qualit&eacute; des investissements des banques n&rsquo;est pas parfaite et que cette qualit&eacute; peut &ecirc;tre corr&eacute;l&eacute;e, le second chapitre se focalise sur le march&eacute; interbancaire. Ce chapitre &eacute;tend aussi l'application des &laquo; jeux globaux &raquo; pour examiner cette fois-ci, comment ces trois nouveaux &eacute;l&eacute;ments affectent le contrat de d&eacute;p&ocirc;t que les banques offrent et la probabilit&eacute; ex ante de panique bancaire. Le troisi&egrave;me chapitre pr&eacute;sente un mod&egrave;le dynamique d&rsquo;anticipations rationnelles pour expliquer la volatilit&eacute; observ&eacute;e dans les primes de risques des march&eacute;s &eacute;mergents. Ce mod&egrave;le repose sur l'hypoth&egrave;se selon laquelle les agents re&ccedil;oivent r&eacute;guli&egrave;rement de nouvelles informations sur la capacit&eacute; du pays &agrave; rembourser sa dette souveraine. Nous &eacute;tudions ensuite de fa&ccedil;on empirique les pr&eacute;dictions originales du mod&egrave;le th&eacute;orique, en utilisant les donn&eacute;es mensuelles des march&eacute;s &eacute;mergents au cours de la p&eacute;riode 1994-2006." xml:lang="FR"/>
+<meta name="DC.subject" content="Probabilit&eacute;  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="The first chapter focuses on three elements of bank runs in reality which combined are less wellunderstood. The first element is the fact that information about the quality of banks' long-run investments is not perfect. The second one is the fact that the quality of banks' investments may be correlated. The third one is the fact that depositors in one bank can observe when there is a run in another bank. This chapter extends the application of global games to examine how these elements affect the deposit contract that banks offer to depositors and the ex ante probability of sequential bank run.The second chapter shares with the first chapter the attention given to the fact that information about the quality of banks' long-run investments is not perfect and that this quality may be correlated. But instead of focusing on sequentiality, the second chapter focuses on the interbank market. Chapter 2 also extends the application of global games to examine this time how the combination of these three new elements affects the deposit contract that banks offer to depositors and the ex ante probability of bank run. The third chapter proposes a dynamic, rational expectation model explain the observed volatility in emerging market risk premia. The model relies on the assumption that investors update their expectations about the unobserved emerging country's capacity to service its sovereign debt if default, based on available periodic information. It then empirically tests the theoretical predictions of the model, using a monthly panel data for 17 EMs over the period 1994-2006." xml:lang="EN"/>
+<meta name="DC.subject" content="" xml:lang="EN"/>
+<meta name="DC.date" content="2012-09-14" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2012TOU10048" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2012TOU10048"/>
+<title> theses.fr – Paula Margaretic , Probabilit&eacute; de d&eacute;faut, informations priv&eacute;es et publiques</title>
+<meta name="citation_title" content="Probabilit&eacute; de d&eacute;faut, informations priv&eacute;es et publiques" />
+<meta name="citation_author" content="Margaretic, Paula" />
+<meta name="citation_publication_date" content="2012/09/14" />
+<meta name="citation_dissertation_institution" content="Toulouse 1" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2012TOU10048&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2012TOU10048" title="Français" class="lang_fr current"></a>
+        <a href="/en/2012TOU10048"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "119";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2012TOU10048&lng=fr&ppn_origine=026404354&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2012TOU10048.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2012TOU10048.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2012TOU10048.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2012TOU10048/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Probabilité de défaut, informations privées et publiques</h1>
+    <h2>par <a href="165830522" rel="dcterms:creator" resource="http://www.idref.fr/165830522/id"><span property="foaf:name">Paula Margaretic</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Finance</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="078527112" rel="dcterms:contributor" resource="http://www.idref.fr/078527112/id"><span property="foaf:name">Sophie Moinas</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=14-09-2012 datatype="xsd:date">14-09-2012</span></p>
+      <p>à <a href="026404354" rel="dcterms:contributor" resource="http://www.idref.fr/026404354/id"><span property="foaf:name">Toulouse 1</span></a>
+, dans le cadre de  <a href="157276937" rel="dcterms:contributor" resource="http://www.idref.fr/157276937/id">
+<span property="foaf:name">École Doctorale Sciences de Gestion TSM (Toulouse)</span></a>
+.
+    </div>
+    <div class="donnees" >
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Probabilité">
+<span about="http://www.theses.fr/2012TOU10048/id" property="dc:subject" xml:lang="fr">Probabilité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Crises financières Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012TOU10048/id" property="dc:subject" xml:lang="fr">Crises financières -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Marché monétaire Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012TOU10048/id" property="dc:subject" xml:lang="fr">Marché monétaire -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Banques Investissements Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012TOU10048/id" property="dc:subject" xml:lang="fr">Banques -- Investissements -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Primes de risque (finances) Thèses et écrits académiques">
+<span about="http://www.theses.fr/2012TOU10048/id" property="dc:subject" xml:lang="fr">Primes de risque (finances) -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Le premier chapitre est motivé par trois éléments de paniques bancaires, qui combinés entre eux, sont encore que très peu compris. Le premier élément est le fait que les informations sur la qualité des investissements de longue durée des banques ne sont pas parfaites. Le second est le fait que la qualité des investissements des banques peut être corrélée. Le troisième élément est le fait que les déposants d’une banque peuvent observer quand il y a une ruée vers une autre banque. Ce chapitre étend l'application des « jeux globaux » mais pour examiner comment ces éléments affectent le contrat de dépôt que les banques offrent aux déposants et la probabilité ex ante de panique bancaire séquentielle. Tout en observant l’attention portée sur les faits que la qualité des investissements des banques n’est pas parfaite et que cette qualité peut être corrélée, le second chapitre se focalise sur le marché interbancaire. Ce chapitre étend aussi l'application des « jeux globaux » pour examiner cette fois-ci, comment ces trois nouveaux éléments affectent le contrat de dépôt que les banques offrent et la probabilité ex ante de panique bancaire. Le troisième chapitre présente un modèle dynamique d’anticipations rationnelles pour expliquer la volatilité observée dans les primes de risques des marchés émergents. Ce modèle repose sur l'hypothèse selon laquelle les agents reçoivent régulièrement de nouvelles informations sur la capacité du pays à rembourser sa dette souveraine. Nous étudions ensuite de façon empirique les prédictions originales du modèle théorique, en utilisant les données mensuelles des marchés émergents au cours de la période 1994-2006.</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Probability of default, private and public information</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">The first chapter focuses on three elements of bank runs in reality which combined are less wellunderstood. The first element is the fact that information about the quality of banks' long-run investments is not perfect. The second one is the fact that the quality of banks' investments may be correlated. The third one is the fact that depositors in one bank can observe when there is a run in another bank. This chapter extends the application of global games to examine how these elements affect the deposit contract that banks offer to depositors and the ex ante probability of sequential bank run.The second chapter shares with the first chapter the attention given to the fact that information about the quality of banks' long-run investments is not perfect and that this quality may be correlated. But instead of focusing on sequentiality, the second chapter focuses on the interbank market. Chapter 2 also extends the application of global games to examine this time how the combination of these three new elements affects the deposit contract that banks offer to depositors and the ex ante probability of bank run. The third chapter proposes a dynamic, rational expectation model explain the observed volatility in emerging market risk premia. The model relies on the assumption that investors update their expectations about the unobserved emerging country's capacity to service its sovereign debt if default, based on available periodic information. It then empirically tests the theoretical predictions of the model, using a monthly panel data for 17 EMs over the period 1994-2006.</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option intranet">
+			<div class="tampon"></div>
+			<a href="http://publications.univ-tlse1.fr/11004/" target="_blank"><strong>Accéder</strong> sur intranet</a>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : Université Toulouse 1 Capitole. Bibliothèque électronique.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/165832266" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

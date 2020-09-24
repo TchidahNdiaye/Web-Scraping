@@ -1,0 +1,873 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Etude empirique, mod&eacute;lisation et applications des trades &agrave; limites multiples dans les carnets d'ordre"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2012ECAP0050"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Cette th&egrave;se &eacute;tudie certains &eacute;v&egrave;nements particuliers des carnets d&rsquo;ordre - les &rdquo;trades traversants&rdquo;. Dans le premier chapitre, on d&eacute;finit les trades traversants comme &eacute;tant ceux qui consomment la liquidit&eacute; pr&eacute;sente dans le carnet d&rsquo;ordres sur plusieurs limites, sans laisser le temps &agrave; la meilleure limite de se remplir par l&rsquo;arriv&eacute;e de nouveaux ordres limites. On &eacute;tudie leurs propri&eacute;t&eacute;s empiriques en fournissant des statistiques de liquidit&eacute;, de volume, de distribution de leurs temps d&rsquo;arriv&eacute;es, de clustering et de relaxation du spread. Leur impact de march&eacute; est sup&eacute;rieur &agrave; celui des trades classiques, et ce m&ecirc;me &agrave; volume comparable : les trades traversants pr&eacute;sentent donc un contenu informationnel plus grand. On propose deux applications au probl&egrave;me du lead-lag entre actifs/march&eacute;s, d&rsquo;abord pour r&eacute;pondre &agrave; la question de savoir quel actif bouge en premier, et ensuite pour mesurer la force du signal des trades traversants dans le cadre d&rsquo;une strat&eacute;gie d&rsquo;investissement bas&eacute;e sur le lead-lag entre actifs. Le chapitre suivant approfondit l&rsquo;&eacute;tude empirique du clustering de l&rsquo;arriv&eacute;e des trades traversants. On y mod&eacute;lise leur arriv&eacute;e par des processus stochastiques auto-excit&eacute;s (les processus de Hawkes). Une &eacute;tude statistique de la calibration obtenue avec des mod&egrave;les &agrave; noyaux exponentiels pour la d&eacute;croissance temporelle de l&rsquo;impact est men&eacute;e et assure une mod&eacute;lisation satisfaisante avec deux processus ind&eacute;pendants, un pour le bid et un pour l&rsquo;ask. La classe de mod&egrave;les propos&eacute;e &agrave; la calibration est bien adapt&eacute;e puisqu&rsquo;il n&rsquo;existe pas d&rsquo;effet inhibiteur apr&egrave;s l&rsquo;arriv&eacute;e d&rsquo;un trade traversant. On utilise ces r&eacute;sultats pour calculer un indicateur d&rsquo;intensit&eacute; bas&eacute; sur l&rsquo;arriv&eacute;e des trades traversants, et am&eacute;liorer ainsi une strat&eacute;gie d&rsquo;investissement de type &rdquo;momentum&rdquo;. Enfin, une calibration non-param&eacute;trique du noyau de d&eacute;croissance temporel d&rsquo;impact fournit une d&eacute;croissance empirique encore plus forte qu&rsquo;une loi exponentielle, et davantage proche d&rsquo;une loi-puissance. Le dernier chapitre rappelle une m&eacute;thode g&eacute;n&eacute;rale de d&eacute;tection statistique de sauts dans des s&eacute;ries temporelles de prix/rendements qui soit robuste au bruit de microstructure. On g&eacute;n&eacute;ralise les r&eacute;sultats empiriques connus &agrave; de nouveaux indices financiers. On adapte cette m&eacute;thode de d&eacute;tection statistique de sauts &agrave; des trajectoires intraday afin d&rsquo;obtenir la distribution de la proportion de sauts d&eacute;tect&eacute;s au cours de la journ&eacute;e. Les valeurs extr&eacute;males et les plus grandes variations de cette proportion se d&eacute;roulent &agrave; des heures pr&eacute;cises de la journ&eacute;e (14 :30, 15 :00 et 16 :30, heure de Paris), d&eacute;j&agrave; rencontr&eacute;es dans l&rsquo;&eacute;tude des trades traversants. Gr&acirc;ce &agrave; eux, on propose une explication des caract&eacute;ristiques principales du profil intraday de la proportion de sauts d&eacute;tect&eacute;s par le test, qui s&rsquo;appuie sur une modification de la part relative de chacune des composantes de sauts dans la trajectoire des actifs consid&eacute;r&eacute;s (la composante des mouvements continus et celle li&eacute;e aux mouvements de sauts purs)."/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2012ECAP0050.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Fabrizio Pomponio , Etude empirique, mod&eacute;lisation et applications des trades &agrave; limites multiples dans les carnets d'ordre">
+<meta name="description" content="Cette th&egrave;se &eacute;tudie certains &eacute;v&egrave;nements particuliers des carnets d&rsquo;ordre - les &rdquo;trades traversants&rdquo;. Dans le premier chapitre, on d&eacute;finit les trades traversants comme &eacute;tant ceux qui consomment la liquidit&eacute; pr&eacute;sente dans le carnet d&rsquo;ordres sur plusieurs limites, sans laisser le temps &agrave; la meilleure limite de se remplir par l&rsquo;arriv&eacute;e de nouveaux ordres limites. On &eacute;tudie leurs propri&eacute;t&eacute;s empiriques en fournissant des statistiques de liquidit&eacute;, de volume, de distribution de leurs temps d&rsquo;arriv&eacute;es, de clustering et de relaxation du spread. Leur impact de march&eacute; est sup&eacute;rieur &agrave; celui des trades classiques, et ce m&ecirc;me &agrave; volume comparable : les trades traversants pr&eacute;sentent donc un contenu informationnel plus grand. On propose deux applications au probl&egrave;me du lead-lag entre actifs/march&eacute;s, d&rsquo;abord pour r&eacute;pondre &agrave; la question de savoir quel actif bouge en premier, et ensuite pour mesurer la force du signal des trades traversants dans le cadre d&rsquo;une strat&eacute;gie d&rsquo;investissement bas&eacute;e sur le lead-lag entre actifs. Le chapitre suivant approfondit l&rsquo;&eacute;tude empirique du clustering de l&rsquo;arriv&eacute;e des trades traversants. On y mod&eacute;lise leur arriv&eacute;e par des processus stochastiques auto-excit&eacute;s (les processus de Hawkes). Une &eacute;tude statistique de la calibration obtenue avec des mod&egrave;les &agrave; noyaux exponentiels pour la d&eacute;croissance temporelle de l&rsquo;impact est men&eacute;e et assure une mod&eacute;lisation satisfaisante avec deux processus ind&eacute;pendants, un pour le bid et un pour l&rsquo;ask. La classe de mod&egrave;les propos&eacute;e &agrave; la calibration est bien adapt&eacute;e puisqu&rsquo;il n&rsquo;existe pas d&rsquo;effet inhibiteur apr&egrave;s l&rsquo;arriv&eacute;e d&rsquo;un trade traversant. On utilise ces r&eacute;sultats pour calculer un indicateur d&rsquo;intensit&eacute; bas&eacute; sur l&rsquo;arriv&eacute;e des trades traversants, et am&eacute;liorer ainsi une strat&eacute;gie d&rsquo;investissement de type &rdquo;momentum&rdquo;. Enfin, une calibration non-param&eacute;trique du noyau de d&eacute;croissance temporel d&rsquo;impact fournit une d&eacute;croissance empirique encore plus forte qu&rsquo;une loi exponentielle, et davantage proche d&rsquo;une loi-puissance. Le dernier chapitre rappelle une m&eacute;thode g&eacute;n&eacute;rale de d&eacute;tection statistique de sauts dans des s&eacute;ries temporelles de prix/rendements qui soit robuste au bruit de microstructure. On g&eacute;n&eacute;ralise les r&eacute;sultats empiriques connus &agrave; de nouveaux indices financiers. On adapte cette m&eacute;thode de d&eacute;tection statistique de sauts &agrave; des trajectoires intraday afin d&rsquo;obtenir la distribution de la proportion de sauts d&eacute;tect&eacute;s au cours de la journ&eacute;e. Les valeurs extr&eacute;males et les plus grandes variations de cette proportion se d&eacute;roulent &agrave; des heures pr&eacute;cises de la journ&eacute;e (14 :30, 15 :00 et 16 :30, heure de Paris), d&eacute;j&agrave; rencontr&eacute;es dans l&rsquo;&eacute;tude des trades traversants. Gr&acirc;ce &agrave; eux, on propose une explication des caract&eacute;ristiques principales du profil intraday de la proportion de sauts d&eacute;tect&eacute;s par le test, qui s&rsquo;appuie sur une modification de la part relative de chacune des composantes de sauts dans la trajectoire des actifs consid&eacute;r&eacute;s (la composante des mouvements continus et celle li&eacute;e aux mouvements de sauts purs)." xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Donn&eacute;es financi&egrave;res tick-&agrave;-tick Statistiques empiriques Processus de Hawkes " xml:lang="FR" />
+<meta name="description" content="This thesis aims at studying particular events occurring in the limit order books - the &rsquo;tradesthrough&rsquo;. In the first chapter, we define trades-through as those who consume the liquidity available on several limits of the limit order book, without waiting for the best limit to be filled with new incoming limit orders. We study their empirical properties and present statistics about their liquidity, their volume, their arrival time distribution, their clustering and the spread relaxation that follows their arrival. Their market-impact is higher than the one of the other trades, even with a comparable trading volume : trades-through have a higher informational content. We present two applications linked to the lead-lag between assets/markets : to find which asset moves first, and also to measure the trades-through intensity signal in a simple trading strategy based on lead-lag. The next chapter goes into more detail about the trades-through arrival time clustering. We model their arrival time with self-excited stochastic processes (Hawkes processes). A statistical study of the calibration obtained with models based on exponential-decay kernels for the temporal impact ensures a satisfactory modelling with two independent processes, one for the bid and one for the ask. The model class under scrutiny for the calibration is well-adapted as no inhibitory effects are measured after trades-through arrival. We use those results to compute an intensity indicator based on trades-through arrival, and thus we enhance a simple trading strategy that relies on them. Finally, a non-parametric calibration of the empirical decay kernel for the temporal impact of trades-through indicates a decrease faster than exponential, and closer to a power-law. The last chapter recalls a general statistical method robust to market microstructure noise to find jumps in prices/returns time series. We generalize the empirical results already known in the literature to new financial indices and we adapt this statistical jump detection method to intraday trajectories in order to obtain the intraday proportion of detected jumps. Extreme values and biggest intraday variations of this jump proportion occurs at very specific hours of the day (14:30, 15:00 and 16:30, Paris time reference), already linked with trades-through. Using trades-through, we explain the main characteristics of the intraday proportion of detected jumps with the test using a modification in the relative importance of each jump component in the assets trajectories (the continuous moves component and the pure-jumps component)." xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, Tick-by-tick financial data Empirical statistics Hawkes processes " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Etude empirique, mod&eacute;lisation et applications des trades &agrave; limites multiples dans les carnets d'ordre">
+<meta name="DC.creator" content="Fabrizio Pomponio" />
+<meta name="DC.contributor" content="Abergel Fr&eacute;d&eacute;ric "/>
+<meta name="DC.publisher" content="Ch&acirc;tenay-Malabry, Ecole centrale de Paris" />
+<meta name="DC.description.abstract" content="Cette th&egrave;se &eacute;tudie certains &eacute;v&egrave;nements particuliers des carnets d&rsquo;ordre - les &rdquo;trades traversants&rdquo;. Dans le premier chapitre, on d&eacute;finit les trades traversants comme &eacute;tant ceux qui consomment la liquidit&eacute; pr&eacute;sente dans le carnet d&rsquo;ordres sur plusieurs limites, sans laisser le temps &agrave; la meilleure limite de se remplir par l&rsquo;arriv&eacute;e de nouveaux ordres limites. On &eacute;tudie leurs propri&eacute;t&eacute;s empiriques en fournissant des statistiques de liquidit&eacute;, de volume, de distribution de leurs temps d&rsquo;arriv&eacute;es, de clustering et de relaxation du spread. Leur impact de march&eacute; est sup&eacute;rieur &agrave; celui des trades classiques, et ce m&ecirc;me &agrave; volume comparable : les trades traversants pr&eacute;sentent donc un contenu informationnel plus grand. On propose deux applications au probl&egrave;me du lead-lag entre actifs/march&eacute;s, d&rsquo;abord pour r&eacute;pondre &agrave; la question de savoir quel actif bouge en premier, et ensuite pour mesurer la force du signal des trades traversants dans le cadre d&rsquo;une strat&eacute;gie d&rsquo;investissement bas&eacute;e sur le lead-lag entre actifs. Le chapitre suivant approfondit l&rsquo;&eacute;tude empirique du clustering de l&rsquo;arriv&eacute;e des trades traversants. On y mod&eacute;lise leur arriv&eacute;e par des processus stochastiques auto-excit&eacute;s (les processus de Hawkes). Une &eacute;tude statistique de la calibration obtenue avec des mod&egrave;les &agrave; noyaux exponentiels pour la d&eacute;croissance temporelle de l&rsquo;impact est men&eacute;e et assure une mod&eacute;lisation satisfaisante avec deux processus ind&eacute;pendants, un pour le bid et un pour l&rsquo;ask. La classe de mod&egrave;les propos&eacute;e &agrave; la calibration est bien adapt&eacute;e puisqu&rsquo;il n&rsquo;existe pas d&rsquo;effet inhibiteur apr&egrave;s l&rsquo;arriv&eacute;e d&rsquo;un trade traversant. On utilise ces r&eacute;sultats pour calculer un indicateur d&rsquo;intensit&eacute; bas&eacute; sur l&rsquo;arriv&eacute;e des trades traversants, et am&eacute;liorer ainsi une strat&eacute;gie d&rsquo;investissement de type &rdquo;momentum&rdquo;. Enfin, une calibration non-param&eacute;trique du noyau de d&eacute;croissance temporel d&rsquo;impact fournit une d&eacute;croissance empirique encore plus forte qu&rsquo;une loi exponentielle, et davantage proche d&rsquo;une loi-puissance. Le dernier chapitre rappelle une m&eacute;thode g&eacute;n&eacute;rale de d&eacute;tection statistique de sauts dans des s&eacute;ries temporelles de prix/rendements qui soit robuste au bruit de microstructure. On g&eacute;n&eacute;ralise les r&eacute;sultats empiriques connus &agrave; de nouveaux indices financiers. On adapte cette m&eacute;thode de d&eacute;tection statistique de sauts &agrave; des trajectoires intraday afin d&rsquo;obtenir la distribution de la proportion de sauts d&eacute;tect&eacute;s au cours de la journ&eacute;e. Les valeurs extr&eacute;males et les plus grandes variations de cette proportion se d&eacute;roulent &agrave; des heures pr&eacute;cises de la journ&eacute;e (14 :30, 15 :00 et 16 :30, heure de Paris), d&eacute;j&agrave; rencontr&eacute;es dans l&rsquo;&eacute;tude des trades traversants. Gr&acirc;ce &agrave; eux, on propose une explication des caract&eacute;ristiques principales du profil intraday de la proportion de sauts d&eacute;tect&eacute;s par le test, qui s&rsquo;appuie sur une modification de la part relative de chacune des composantes de sauts dans la trajectoire des actifs consid&eacute;r&eacute;s (la composante des mouvements continus et celle li&eacute;e aux mouvements de sauts purs)." xml:lang="FR"/>
+<meta name="DC.subject" content="Donn&eacute;es financi&egrave;res tick-&agrave;-tick Statistiques empiriques Processus de Hawkes  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="This thesis aims at studying particular events occurring in the limit order books - the &rsquo;tradesthrough&rsquo;. In the first chapter, we define trades-through as those who consume the liquidity available on several limits of the limit order book, without waiting for the best limit to be filled with new incoming limit orders. We study their empirical properties and present statistics about their liquidity, their volume, their arrival time distribution, their clustering and the spread relaxation that follows their arrival. Their market-impact is higher than the one of the other trades, even with a comparable trading volume : trades-through have a higher informational content. We present two applications linked to the lead-lag between assets/markets : to find which asset moves first, and also to measure the trades-through intensity signal in a simple trading strategy based on lead-lag. The next chapter goes into more detail about the trades-through arrival time clustering. We model their arrival time with self-excited stochastic processes (Hawkes processes). A statistical study of the calibration obtained with models based on exponential-decay kernels for the temporal impact ensures a satisfactory modelling with two independent processes, one for the bid and one for the ask. The model class under scrutiny for the calibration is well-adapted as no inhibitory effects are measured after trades-through arrival. We use those results to compute an intensity indicator based on trades-through arrival, and thus we enhance a simple trading strategy that relies on them. Finally, a non-parametric calibration of the empirical decay kernel for the temporal impact of trades-through indicates a decrease faster than exponential, and closer to a power-law. The last chapter recalls a general statistical method robust to market microstructure noise to find jumps in prices/returns time series. We generalize the empirical results already known in the literature to new financial indices and we adapt this statistical jump detection method to intraday trajectories in order to obtain the intraday proportion of detected jumps. Extreme values and biggest intraday variations of this jump proportion occurs at very specific hours of the day (14:30, 15:00 and 16:30, Paris time reference), already linked with trades-through. Using trades-through, we explain the main characteristics of the intraday proportion of detected jumps with the test using a modification in the relative importance of each jump component in the assets trajectories (the continuous moves component and the pure-jumps component)." xml:lang="EN"/>
+<meta name="DC.subject" content="Tick-by-tick financial data Empirical statistics Hawkes processes " xml:lang="EN"/>
+<meta name="DC.date" content="2012-12-14" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2012ECAP0050" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2012ECAP0050"/>
+<title> theses.fr – Fabrizio Pomponio , Etude empirique, mod&eacute;lisation et applications des trades &agrave; limites multiples dans les carnets d'ordre</title>
+<meta name="citation_title" content="Etude empirique, mod&eacute;lisation et applications des trades &agrave; limites multiples dans les carnets d'ordre" />
+<meta name="citation_author" content="Pomponio, Fabrizio" />
+<meta name="citation_publication_date" content="2012/12/14" />
+<meta name="citation_dissertation_institution" content="Ch&acirc;tenay-Malabry, Ecole centrale de Paris" />
+<meta name="citation_pdf_url" content="http://www.theses.fr/2012ECAP0050.pdf" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2012ECAP0050&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2012ECAP0050" title="Français" class="lang_fr current"></a>
+        <a href="/en/2012ECAP0050"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2012ECAP0050&lng=fr&ppn_origine=027960250&appli_origine=Star" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2012ECAP0050.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2012ECAP0050.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2012ECAP0050.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2012ECAP0050/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Etude empirique, modélisation et applications des trades à limites multiples dans les carnets d'ordre</h1>
+    <h2>par  <a href="172612845" rel="dcterms:creator" resource="http://www.idref.fr/172612845/id"><span property="foaf:name">Fabrizio Pomponio</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Finance Quantitative</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="149786271" rel="dcterms:contributor" resource="http://www.idref.fr/149786271/id"><span property="foaf:name">Frédéric Abergel</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue le <span property="dc:date" content=14-12-2012 datatype="xsd:date">14-12-2012</span></p>
+      <p>à <a href="027960250" rel="dcterms:contributor" resource="http://www.idref.fr/027960250/id"><span property="foaf:name">Châtenay-Malabry, Ecole centrale de Paris</span></a>
+, dans le cadre de  <a href="147964679" rel="dcterms:contributor" resource="http://www.idref.fr/147964679/id">
+<span property="foaf:name">École doctorale Sciences pour l'Ingénieur (Châtenay-Malabry, Hauts de Seine)</span></a>
+, en partenariat avec <a href="14797299X" rel="dcterms:contributor" resource="http://www.idref.fr/14797299X/id">
+<span property="foaf:name">Laboratoire de mathématiques et informatique pour la complexité et les systèmes (Gif-sur-Yvette, Essonne)</span></a>
+  (laboratoire) 
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/125947844" rel="dcterms:contributor" resource="http://www.idref.fr/125947844/id"><span property="foaf:name">Mathieu Rosenbaum</span></a>. 
+</p>
+      <p>Le jury était composé de 
+<a href="/fr/149786271" rel="dcterms:contributor" resource="http://www.idref.fr/149786271/id"><span property="foaf:name">Frédéric Abergel</span></a>, 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Fabrizio Lillo</span></span>, 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Janos Kertesz</span></span>, 
+<a href="/fr/03548151X" rel="dcterms:contributor" resource="http://www.idref.fr/03548151X/id"><span property="foaf:name">Jean-Philippe Bouchaud</span></a>, 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Stéphane Tyc</span></span>. 
+</p>
+      <p>Les rapporteurs étaient 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Fabrizio Lillo</span></span>, 
+<span rel="dcterms:contributor"><span typeof="foaf:Person" property="foaf:name">Janos Kertesz</span></span>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Données financières tick-à-tick">
+<span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="fr">Données financières tick-à-tick
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Statistiques empiriques">
+<span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="fr">Statistiques empiriques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Processus de Hawkes">
+<span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="fr">Processus de Hawkes
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finances Statistiques">
+<span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="fr">Finances -- Statistiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Processus stochastiques">
+<span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="fr">Processus stochastiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Cette thèse étudie certains évènements particuliers des carnets d’ordre - les ”trades traversants”. Dans le premier chapitre, on définit les trades traversants comme étant ceux qui consomment la liquidité présente dans le carnet d’ordres sur plusieurs limites, sans laisser le temps à la meilleure limite de se remplir par l’arrivée de nouveaux ordres limites. On étudie leurs propriétés empiriques en fournissant des statistiques de liquidité, de volume, de distribution de leurs temps d’arrivées, de clustering et de relaxation du spread. Leur impact de marché est supérieur à celui des trades classiques, et ce même à volume comparable : les trades traversants présentent donc un contenu informationnel plus grand. On propose deux applications au problème du lead-lag entre actifs/marchés, d’abord pour répondre à la question de savoir quel actif bouge en premier, et ensuite pour mesurer la force du signal des trades traversants dans le cadre d’une stratégie d’investissement basée sur le lead-lag entre actifs. Le chapitre suivant approfondit l’étude empirique du clustering de l’arrivée des trades traversants. On y modélise leur arrivée par des processus stochastiques auto-excités (les processus de Hawkes). Une étude statistique de la calibration obtenue avec des modèles à noyaux exponentiels pour la décroissance temporelle de l’impact est menée et assure une modélisation satisfaisante avec deux processus indépendants, un pour le bid et un pour l’ask. La classe de modèles proposée à la calibration est bien adaptée puisqu’il n’existe pas d’effet inhibiteur après l’arrivée d’un trade traversant. On utilise ces résultats pour calculer un indicateur d’intensité basé sur l’arrivée des trades traversants, et améliorer ainsi une stratégie d’investissement de type ”momentum”. Enfin, une calibration non-paramétrique du noyau de décroissance temporel d’impact fournit une décroissance empirique encore plus forte qu’une loi exponentielle, et davantage proche d’une loi-puissance. Le dernier chapitre rappelle une méthode générale de détection statistique de sauts dans des séries temporelles de prix/rendements qui soit robuste au bruit de microstructure. On généralise les résultats empiriques connus à de nouveaux indices financiers. On adapte cette méthode de détection statistique de sauts à des trajectoires intraday afin d’obtenir la distribution de la proportion de sauts détectés au cours de la journée. Les valeurs extrémales et les plus grandes variations de cette proportion se déroulent à des heures précises de la journée (14 :30, 15 :00 et 16 :30, heure de Paris), déjà rencontrées dans l’étude des trades traversants. Grâce à eux, on propose une explication des caractéristiques principales du profil intraday de la proportion de sauts détectés par le test, qui s’appuie sur une modification de la part relative de chacune des composantes de sauts dans la trajectoire des actifs considérés (la composante des mouvements continus et celle liée aux mouvements de sauts purs).</span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+          <li><a href="/fr?q=*:Tick-by-tick financial data"name="MotsClesAutre" > <span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="en">Tick-by-tick financial data</span></a></li>
+          <li><a href="/fr?q=*:Empirical statistics"name="MotsClesAutre" > <span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="en">Empirical statistics</span></a></li>
+          <li><a href="/fr?q=*:Hawkes processes"name="MotsClesAutre" > <span about="http://www.theses.fr/2012ECAP0050/id" property="dc:subject" xml:lang="en">Hawkes processes</span></a></li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Empirical study, modelling and applications of multiple limits trades in limit order books</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">This thesis aims at studying particular events occurring in the limit order books - the ’tradesthrough’. In the first chapter, we define trades-through as those who consume the liquidity available on several limits of the limit order book, without waiting for the best limit to be filled with new incoming limit orders. We study their empirical properties and present statistics about their liquidity, their volume, their arrival time distribution, their clustering and the spread relaxation that follows their arrival. Their market-impact is higher than the one of the other trades, even with a comparable trading volume : trades-through have a higher informational content. We present two applications linked to the lead-lag between assets/markets : to find which asset moves first, and also to measure the trades-through intensity signal in a simple trading strategy based on lead-lag. The next chapter goes into more detail about the trades-through arrival time clustering. We model their arrival time with self-excited stochastic processes (Hawkes processes). A statistical study of the calibration obtained with models based on exponential-decay kernels for the temporal impact ensures a satisfactory modelling with two independent processes, one for the bid and one for the ask. The model class under scrutiny for the calibration is well-adapted as no inhibitory effects are measured after trades-through arrival. We use those results to compute an intensity indicator based on trades-through arrival, and thus we enhance a simple trading strategy that relies on them. Finally, a non-parametric calibration of the empirical decay kernel for the temporal impact of trades-through indicates a decrease faster than exponential, and closer to a power-law. The last chapter recalls a general statistical method robust to market microstructure noise to find jumps in prices/returns time series. We generalize the empirical results already known in the literature to new financial indices and we adapt this statistical jump detection method to intraday trajectories in order to obtain the intraday proportion of detected jumps. Extreme values and biggest intraday variations of this jump proportion occurs at very specific hours of the day (14:30, 15:00 and 16:30, Paris time reference), already linked with trades-through. Using trades-through, we explain the main characteristics of the intraday proportion of detected jumps with the test using a modification in the relative importance of each jump component in the assets trajectories (the continuous moves component and the pure-jumps component).</span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option internet">
+			<div class="tampon"></div>
+			<a href="/2012ECAP0050/document" 
+ title="" target="_blank"><strong>Accéder</strong> en ligne</a>
+		</div>
+		<p> <br/> Il est disponible au sein de la bibliothèque de l'établissement de soutenance.</p>
+<div class="clearer"></div>
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+		<div class="option consulter">
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe
+</h2>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Informations</strong></p>
+ 				<ul>
+ 					<li>Détails :  1 vol. (105 p.)</li>
+ 					<li>Notes :  Publication autorisée par le jury</li>
+ 					<li>Annexes :  Bibliogr. p. 102-105</li>
+ 				</ul>
+ 			</div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li>Bibliothèque : CentraleSupélec. bibliothèque.</li>
+ 					<li> Non disponible pour le PEB</li>
+ 					<li>Cote : TH 68350</li>
+ 					<li>Bibliothèque : CentraleSupélec. Bibliothèque électronique.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&TRM=172721199 OR 179342126" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>

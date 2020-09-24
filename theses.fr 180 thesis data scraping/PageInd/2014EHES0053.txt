@@ -1,0 +1,906 @@
+<!--b>SANS SNOWBALL</b-->
+
+<!--Page détail : pour afficher PPN ou NNT-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <!-- ABES : 3a0fdbcb40ac867881546bd4e09f7bda -->
+         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:title" content="Essais sur la finance et la croissance"/>
+<meta property="og:type" content="book"/>
+<meta property="og:url" content="http://www.theses.fr/2014EHES0053"/>
+<meta property="og:site_name" content="http://www.theses.fr/"/>
+<meta property="og:description" content="Les march&eacute;s financiers jouent un r&ocirc;le important dans l'expansion de la croissance &eacute;conomique. N&eacute;anmoins, ils sont sujets &agrave; de tr&egrave;s grandes imperfections financi&egrave;res dans les &eacute;conomies en d&eacute;veloppement. Cette th&egrave;se examine les causes de ces imperfections, leur impact h&eacute;t&eacute;rog&egrave;ne sur les agents et leurs effets sur les canaux pour lesquels la finance peut stimuler la croissance dans les &eacute;conomies en d&eacute;veloppement. Chaque chapitre est consacr&eacute; &agrave; l'analyse d'un type d&rsquo;imperfection financi&egrave;re. Le premier chapitre soutient que le ralentissement &eacute;conomique observ&eacute; dans les march&eacute;s &eacute;mergents qui suit les chocs de taux d'int&eacute;r&ecirc;t peut s'attribuer &agrave; des imperfections financi&egrave;res qui affectent principalement les activit&eacute;s non marchandes. Le deuxi&egrave;me chapitre examine les causes de l'augmentation de la productivit&eacute; agr&eacute;g&eacute;e suite aux &eacute;pisodes d&rsquo;ouverture financi&egrave;re. Il soutient que cette expansion peut principalement &ecirc;tre due &agrave; des r&eacute;ductions de distorsions sur le march&eacute; du capital encourageant ainsi la concurrence et l'investissement en technologie &agrave; travers deux sources. Tout d'abord, l'am&eacute;lioration des conditions de cr&eacute;dit encourage les firmes qui acc&egrave;dent &agrave; des fonds internationaux &agrave; investir davantage en technologie. Deuxi&egrave;mement, les forces pro-concurrentielles induisent leurs rivaux &agrave; faire de m&ecirc;me. Le troisi&egrave;me chapitre examine si l&rsquo;existence d&rsquo;imperfections sur les march&eacute;s &agrave; terme conduit les entreprises &agrave; aligner leurs d&eacute;cisions commerciales et de financement. Il soutient que l'&eacute;lasticit&eacute; d'exportation au taux de change peut &ecirc;tre plus importante par rapport aux estimations pr&eacute;c&eacute;dentes si le bilan des firmes pr&eacute;sente des d&eacute;s&eacute;quilibres entre l'actif et le passif en devise. "/>
+<meta property="og:image" content="http://www.theses.fr/images/theses.gif" />
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="alternate" href="http://www.theses.fr/2014EHES0053.rdf" type="application/rdf+xml" title="RDF+XML" />
+<meta name="title" content=" theses.fr – Liliana Veronica Varela , Essais sur la finance et la croissance">
+<meta name="description" content="Les march&eacute;s financiers jouent un r&ocirc;le important dans l'expansion de la croissance &eacute;conomique. N&eacute;anmoins, ils sont sujets &agrave; de tr&egrave;s grandes imperfections financi&egrave;res dans les &eacute;conomies en d&eacute;veloppement. Cette th&egrave;se examine les causes de ces imperfections, leur impact h&eacute;t&eacute;rog&egrave;ne sur les agents et leurs effets sur les canaux pour lesquels la finance peut stimuler la croissance dans les &eacute;conomies en d&eacute;veloppement. Chaque chapitre est consacr&eacute; &agrave; l'analyse d'un type d&rsquo;imperfection financi&egrave;re. Le premier chapitre soutient que le ralentissement &eacute;conomique observ&eacute; dans les march&eacute;s &eacute;mergents qui suit les chocs de taux d'int&eacute;r&ecirc;t peut s'attribuer &agrave; des imperfections financi&egrave;res qui affectent principalement les activit&eacute;s non marchandes. Le deuxi&egrave;me chapitre examine les causes de l'augmentation de la productivit&eacute; agr&eacute;g&eacute;e suite aux &eacute;pisodes d&rsquo;ouverture financi&egrave;re. Il soutient que cette expansion peut principalement &ecirc;tre due &agrave; des r&eacute;ductions de distorsions sur le march&eacute; du capital encourageant ainsi la concurrence et l'investissement en technologie &agrave; travers deux sources. Tout d'abord, l'am&eacute;lioration des conditions de cr&eacute;dit encourage les firmes qui acc&egrave;dent &agrave; des fonds internationaux &agrave; investir davantage en technologie. Deuxi&egrave;mement, les forces pro-concurrentielles induisent leurs rivaux &agrave; faire de m&ecirc;me. Le troisi&egrave;me chapitre examine si l&rsquo;existence d&rsquo;imperfections sur les march&eacute;s &agrave; terme conduit les entreprises &agrave; aligner leurs d&eacute;cisions commerciales et de financement. Il soutient que l'&eacute;lasticit&eacute; d'exportation au taux de change peut &ecirc;tre plus importante par rapport aux estimations pr&eacute;c&eacute;dentes si le bilan des firmes pr&eacute;sente des d&eacute;s&eacute;quilibres entre l'actif et le passif en devise. " xml:lang="FR"/>
+<meta name="keywords" content="theses, doctorat, Imperfections financi&egrave;res Croissance &eacute;conomique Productivit&eacute; Concurrence imparfaite H&eacute;t&eacute;rog&eacute;n&eacute;it&eacute; des firmes Commerce ext&eacute;rieur March&eacute;s &eacute;mergents &Eacute;conomie en d&eacute;veloppement " xml:lang="FR" />
+<meta name="description" content="Financial markets play an important role in promoting economic growth. However, they are subject to large financial frictions in developing economies. This thesis explores the causes of these frictions, their heterogeneous impact on agents, and their effects on the channels through which finance can spur growth in these economies. Each chapter is devoted to the analysis of one type of financial imperfections. The first chapter argues that the economic downturn observed in emerging markets following interest rate shocks can be associated with financial frictions affecting non-tradable activities. Using a new database on sectoral output and credit in emerging markets, I show that changes in credit conditions significantly affect output growth in the non-tradable sector, but they only affect output marginally in the tradable sector. The second chapter investigates the causes of the increase in aggregate productivity following financial openness. It argues that this expansion can be mainly attributed to reductions in distortions in capital markets that promote competition and encourage investments in technology through two sources. First, better credit conditions encourage firms that gain access to international funds to raise their innovation efforts. Second, pro-competitive forces induce their market rivals to do the same. The third chapter analyzes whether imperfections in futures markets lead firms to align their trading and financing decisions. It shows that firms' export elasticity to exchange rate can be substantially larger than previous estimates if firms are exposed to imbalances between the currency denomination of their assets and liabilities. " xml:lang="EN"/>
+<meta name="keywords" content="theses, PhD, dissertations, " xml:lang="EN" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> <meta name="DC.title" content="Essais sur la finance et la croissance">
+<meta name="DC.creator" content="Liliana Veronica Varela" />
+<meta name="DC.contributor" content="Carvalho Vasco Ranci&egrave;re Romain "/>
+<meta name="DC.publisher" content="Paris, EHESS" />
+<meta name="DC.description.abstract" content="Les march&eacute;s financiers jouent un r&ocirc;le important dans l'expansion de la croissance &eacute;conomique. N&eacute;anmoins, ils sont sujets &agrave; de tr&egrave;s grandes imperfections financi&egrave;res dans les &eacute;conomies en d&eacute;veloppement. Cette th&egrave;se examine les causes de ces imperfections, leur impact h&eacute;t&eacute;rog&egrave;ne sur les agents et leurs effets sur les canaux pour lesquels la finance peut stimuler la croissance dans les &eacute;conomies en d&eacute;veloppement. Chaque chapitre est consacr&eacute; &agrave; l'analyse d'un type d&rsquo;imperfection financi&egrave;re. Le premier chapitre soutient que le ralentissement &eacute;conomique observ&eacute; dans les march&eacute;s &eacute;mergents qui suit les chocs de taux d'int&eacute;r&ecirc;t peut s'attribuer &agrave; des imperfections financi&egrave;res qui affectent principalement les activit&eacute;s non marchandes. Le deuxi&egrave;me chapitre examine les causes de l'augmentation de la productivit&eacute; agr&eacute;g&eacute;e suite aux &eacute;pisodes d&rsquo;ouverture financi&egrave;re. Il soutient que cette expansion peut principalement &ecirc;tre due &agrave; des r&eacute;ductions de distorsions sur le march&eacute; du capital encourageant ainsi la concurrence et l'investissement en technologie &agrave; travers deux sources. Tout d'abord, l'am&eacute;lioration des conditions de cr&eacute;dit encourage les firmes qui acc&egrave;dent &agrave; des fonds internationaux &agrave; investir davantage en technologie. Deuxi&egrave;mement, les forces pro-concurrentielles induisent leurs rivaux &agrave; faire de m&ecirc;me. Le troisi&egrave;me chapitre examine si l&rsquo;existence d&rsquo;imperfections sur les march&eacute;s &agrave; terme conduit les entreprises &agrave; aligner leurs d&eacute;cisions commerciales et de financement. Il soutient que l'&eacute;lasticit&eacute; d'exportation au taux de change peut &ecirc;tre plus importante par rapport aux estimations pr&eacute;c&eacute;dentes si le bilan des firmes pr&eacute;sente des d&eacute;s&eacute;quilibres entre l'actif et le passif en devise. " xml:lang="FR"/>
+<meta name="DC.subject" content="Imperfections financi&egrave;res Croissance &eacute;conomique Productivit&eacute; Concurrence imparfaite H&eacute;t&eacute;rog&eacute;n&eacute;it&eacute; des firmes Commerce ext&eacute;rieur March&eacute;s &eacute;mergents &Eacute;conomie en d&eacute;veloppement  en français" xml:lang="FR"/>
+<meta name="DC.description.abstract" content="Financial markets play an important role in promoting economic growth. However, they are subject to large financial frictions in developing economies. This thesis explores the causes of these frictions, their heterogeneous impact on agents, and their effects on the channels through which finance can spur growth in these economies. Each chapter is devoted to the analysis of one type of financial imperfections. The first chapter argues that the economic downturn observed in emerging markets following interest rate shocks can be associated with financial frictions affecting non-tradable activities. Using a new database on sectoral output and credit in emerging markets, I show that changes in credit conditions significantly affect output growth in the non-tradable sector, but they only affect output marginally in the tradable sector. The second chapter investigates the causes of the increase in aggregate productivity following financial openness. It argues that this expansion can be mainly attributed to reductions in distortions in capital markets that promote competition and encourage investments in technology through two sources. First, better credit conditions encourage firms that gain access to international funds to raise their innovation efforts. Second, pro-competitive forces induce their market rivals to do the same. The third chapter analyzes whether imperfections in futures markets lead firms to align their trading and financing decisions. It shows that firms' export elasticity to exchange rate can be substantially larger than previous estimates if firms are exposed to imbalances between the currency denomination of their assets and liabilities. " xml:lang="EN"/>
+<meta name="DC.subject" content="" xml:lang="EN"/>
+<meta name="DC.date" content="2014-01-01" />
+<meta name="DC.type" content="thesis" />
+<meta name="DC.identifier" content="http://www.theses.fr/2014EHES0053" />
+<meta name="DC.source" content="http://www.theses.fr"/>
+<meta property="fb:admins" content="100002130582014"/>
+<link rel="canonical" href="http://www.theses.fr/2014EHES0053"/>
+<title> theses.fr – Liliana Veronica Varela , Essais sur la finance et la croissance</title>
+<meta name="citation_title" content="Essais sur la finance et la croissance" />
+<meta name="citation_author" content="Varela, Liliana Veronica" />
+<meta name="citation_publication_date" content="2014/01/01" />
+<meta name="citation_dissertation_institution" content="Paris, EHESS" />
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+        <link rel="stylesheet" href="/css/jquery-ui-1.8.11.custom.css"/>
+
+        <!--link rel="alternate" type="application/atom+xml" title="Theses.fr Flux Atom" href="/?q=2014EHES0053&sort=dateSoutenance+desc&format=atom" /-->
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="theses.fr :: search" />
+       
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-wBVG1XfQBk_ytrA0CVsBTLOYE2QULjs&sensor=false"></script>
+        <script src="/js/jquery-1.8.3.js"></script>
+        <script src="/js/jquery-ui.js"></script>
+        <script src="/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.clearableTextField.js"></script>
+
+        <script type="text/javascript" src="/js/jquery.countdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+
+        <script src="https://outils.abes.fr/cookie-banner/bandeau.js" 
+        type="text/javascript" 
+        id="cookie-banner-script" 
+        data-cookie-banner-decline="true" 
+        data-cookie-banner-text="En poursuivant votre navigation, vous acceptez le dépôt de cookies tiers destinés à vous proposer des vidéos, des boutons de partage, des remontées de contenus de plateformes sociales"
+        data-cookie-banner-text-accept="OK, tout accepter"
+        data-cookie-banner-text-decline="Tout refuser"
+        data-cookie-banner-text-more="En savoir plus"
+        data-cookie-banner-url="donnees_personnelles"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+    </head>
+    <body onload="initialize_maps();chasseAuxLivres();">     
+        <script type="text/javascript">
+            function chasseAuxLivres(){  
+                $(".ISBN").each(function() {
+                    var lisbn = this.id;
+                    var isbn = lisbn.replace(/-/g,"");
+                    var lng = "";
+                    
+                    lng = "fr";
+                    if (lng == "") {
+                        lng= "fr";
+                    }
+                    $.ajax({
+                        url:"/Recherche?chasseAuxLivres="+isbn+"&lng="+lng,
+                        async:true,
+                        success: function(data) {
+                            $('#'+lisbn).append(data);
+                        }
+                    });
+                });
+            }
+        </script>
+<div class="conteneur">
+<!--DEBUT jspf/recherche.jspf-->
+<!--Encart de recherche/Entete-->
+<div id="entete">
+  <div id="topnav" class="topnav"> <a href="#" class="signin"><span>Connexion</span></a> </div>
+  <fieldset style="display: none;" id="signin_menu">
+  </fieldset>
+
+    <div id="aide">
+        <a href="http://documentation.abes.fr/aidethesesfr/index.html" title="Documentation" class="interrogation"></a>
+    </div>
+
+  <div id="selLng"> 
+        <a href="/2014EHES0053" title="Français" class="lang_fr current"></a>
+        <a href="/en/2014EHES0053"  title="English" class="lang_en"></a>
+    </div>
+  </div>
+<div class="clearer"></div>
+  <div id="logo">
+    <a href="/fr/"><img src="/images/theses-petit.gif" title="Retour à l'accueil" alt="Retour à l'accueil" /></a>
+  </div>
+  <div id="header">
+    <div class="clearer"></div>
+    <div id="perimetres">
+    <ul>
+      <li><a href="#" onclick="changePeri('fr'+'/');return false;" class="selection">Toutes les thèses</a></li>
+      <li><a href="#" onclick="changePeri('fr'+'/sujets/');return false;" id="periSujet" >Thèses en préparation<!-- ACT pour la CGE -->
+              </a></li>
+      <li><a href="#" id="periPersonne"  onclick="changePeri('fr'+'/personnes/');return false;">Personnes</a></li>
+      <li><a href="#" id="periOrganisme"  onclick="alert('Bientôt disponible.')">Organismes</a></li>
+    </ul>
+  </div>
+    <div id="autoCs" style="">
+         <a href="#" title="" id="autoCO" onclick="autoC('non');">Désactiver l'autocomplétion</a>
+         <a href="#" title="" id="autoCN" onclick="autoC('oui');" style="display:none;">Activer l'autocomplétion </a>
+    </div>
+    <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <div id="rech" style="">
+        <input name="q" id="q" size="36" type="text" value="" placeholder='' autocomplete="off" class="auto-focus" />
+        <div style="display: none;" id="autocomplete_q" class="autocomplete"></div>
+        <input value="Rechercher" type="submit" id="qButton" />
+      </div>
+     </form>
+      <!-- ACT pour la CGE -->
+     <form action="/fr/">
+      <input name="q" type="text" value="" style="display:none;"></input> 
+  <!--Recherche avancée-->
+  <script type="text/javascript">
+    function rechercheAvancee() {
+        videRecherches();
+        $('#rechAvancee2').toggle();
+        if ($('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').removeAttr('disabled');
+            $('#rech, #autoCs').hide();
+            $('#libLienRechAv').text("Recherche simple");
+            
+        }
+        else {
+            $('#rechAvancee2 :input').attr('disabled', true);
+            $('#rech, #autoCs').show();
+            $('#libLienRechAv').text("Recherche avancée");
+        }
+    }
+
+    function videRecherches() {
+        $('#zone1').val("titreRAs");
+        $('#val1').val("");
+        $('#op1').val("AND");
+        $('#zone2').val("auteurs");
+        $('#val2').val("");
+        $('#op2').val("AND");
+        $('#zone3').val("etabSoutenances");
+        $('#val3').val("");
+        $('#op3').val("AND");
+        $('#zone4').val("dateSoutenance");
+        $('#q').val("");
+        $('#val4a').val("");
+        $('#val4b').val("");
+    }
+
+    $(function() {
+
+        if (!$('#rechAvancee2').is(':visible')) {
+            $('#rechAvancee2 :input').attr('disabled', true);
+        }
+
+        $( "#val4a" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4a" ).datepicker( "option", "minDate", selectedDate );
+            }
+        });
+        
+        $.datepicker.regional['fr'] = {clearText: 'Effacer', clearStatus: '',
+                closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+                prevText: '<Préc', prevStatus: 'Voir le mois précédent',
+                nextText: 'Suiv>', nextStatus: 'Voir le mois suivant',
+                currentText: 'Courant', currentStatus: 'Voir le mois courant',
+                monthNames: ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'],
+                monthNamesShort: ['Jan','Fév','Mar','Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc'],
+                monthStatus: 'Voir un autre mois', yearStatus: 'Voir un autre année',
+                weekHeader: 'Sm', weekStatus: '',
+                dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+                dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+                dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+                dayStatus: 'Utiliser DD comme premier jour de la semaine', dateStatus: 'Choisir le DD, MM d',
+                dateFormat: 'dd/mm/yy', firstDay: 0, 
+                initStatus: 'Choisir la date', isRTL: false};
+        $.datepicker.setDefaults($.datepicker.regional['fr']);
+        
+        $( "#val4b" ).datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            changeYear: true,
+            numberOfMonths: 3,
+            onClose: function( selectedDate ) {
+                $( "#val4b" ).datepicker( "option", "maxDate", selectedDate );
+            }
+        });
+    });
+    </script>
+
+     <div id="rechAvancee2" style="display:none;">
+         <br/>
+
+        <select name="zone1" id="zone1">
+        <optgroup label="La thèse">
+            <option value="titreRAs" selected="selected">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val1" id="val1" value=""/>
+        <select name="op1" id="op1">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone2" id="zone2">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs" selected="selected">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val2" id="val2" value=""/>
+        <select name="op2" id="op2">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+        <select name="zone3" id="zone3">
+        <optgroup label="La thèse">
+            <option value="titreRAs">Titre</option>
+            <option value="motCleRAs">Mots clés</option>
+            <option value="abstracts">Résumé</option>
+            <option value="disciplines">Discipline</option>
+            <option value="textes">Texte intégral</option>
+        </optgroup>
+        <optgroup label="Les personnes">
+            <option value="auteurs">Auteur</option>
+            <option value="directeurTheses">Directeur de thèse</option>
+            <option value="presidentJurys">Président du jury</option>
+            <option value="rapporteurs">Rapporteur</option>
+            <option value="membreJurys">Membre du jury</option>
+            <option value="personneRAs">Tous rôles</option>
+        </optgroup>
+        <optgroup label="Les organismes">
+            <option value="etabSoutenances" selected="selected">Etablissement de soutenance </option>
+            <option value="coTutelles">Etablissement de cotutelle</option>
+            <option value="ecoleDoctorales">Ecole doctorale</option>
+            <option value="partenaireLabos">Laboratoire</option>
+            <option value="partenaireEquipeDeRecherches">Equipe de recherche</option>
+            <option value="partenaireEntreprises">Entreprise</option>
+            <option value="partenaireFondations">Fondation</option>
+            <option value="partenaireAutres">Autre partenaire</option>
+        </optgroup>
+</select> 
+        <input type="text" name="val3" id="val3" value=""/> 
+
+        <select name="op3" id="op3">
+            <option value="AND" selected="selected">et</option>
+            <option value="OR">ou</option>
+</select>
+        <br/>
+
+        <select name="zone4" id="zone4">
+            <option value="dateSoutenance" selected="selected">Date de soutenance</option>
+            <option value="sujDatePremiereInscription">Date d'inscription en doctorat</option>
+            <option value="sujDateSoutenancePrevue">Date de soutenance prévue</option>
+</select> 
+
+        <span id="dateRA" style="margin-left: 20px">
+            <label for="from">De</label>
+            <input type="text" id="val4a" name="val4a" value=""/>
+            <label for="to">à</label>
+            <input type="text" id="val4b" name="val4b" value=""/>
+        </span>
+        <br/><br/>
+        <a href="#" style="float:left; margin-right: 10px" onclick="videRecherches();" title="Effacer"> Effacer<img src="/images/clear_cross.png"/></a>
+        <input value="Recherche avancée" type="submit" id="qButtonAvancee" style="float:right;"/>
+        <br/><br/>
+        
+    </div> 
+    <!--Fin de la recherche avancée -->
+
+    <a id="libLienRechAv" href="#" onclick="rechercheAvancee();" style=""><i> Recherche avancée</i></a> 
+    </form>
+
+<script type="text/javascript">
+
+    //Changement de périmètre
+    function changePeri(peri) {
+        // Cas d'une autre page (détail), on essaie de prendre le paramètre q
+        if (!$('#q').hasClass('placeholder') && jQuery.trim($('#q').val())!="") {
+            window.location="/"+peri+"?q="+jQuery.trim($('#q').val());
+        } else {
+            window.location="/"+peri;
+        }
+    }
+
+    //Affiche/cache l'encart recherche avancée
+    function affichRechercheAvancee() {
+        $('#rechercheAvancee').toggle();
+        return false;
+    }
+</script>
+
+<!--FIN jspf/recherche.jspf-->
+
+<div class="clearer"></div>
+<div id="checks">
+<input style="display:none;" type="checkbox" onchange="" name="perimetre" id="perimetre" value=""/>
+       <div
+          
+          style="display:none;"
+          
+        >
+            <input type="checkbox" onchange="handleChangePrevision(this);" name="prevision" id="prevision" value=""/>
+            Uniquement les thèses en préparation dont la soutenance est prévue dans les 6 prochains mois </div>
+        <div class="clearer"></div>
+      <div
+          
+          style="display:none;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangePersonnes(this);" name="filtrepersonne" id="filtrepersonne" value="" class="pos_left"/>
+          Uniquement les personnes en lien avec une thèse soutenue ou en préparation depuis moins de 5 ans</div>
+ <div class="clearer"></div>
+      <div
+          
+          style="display:block;"
+          
+      >
+
+          <input type="checkbox" onchange="handleChangeStatus(this);" name="status" id="status" value="" class="pos_left"/>
+          Uniquement les thèses soutenues<input type="checkbox" onchange="handleChangeAccess(this);" name="access" id="access" value="" class="pos_right"/>
+          Uniquement les thèses soutenues accessibles en ligne</div>
+ </div>
+</div>
+
+<div class="clearer"></div>
+
+<script type="text/javascript">
+
+    $('input[placeholder]').placeholder();
+
+    $(document).ready(function(){
+        $(".signin").click(function() {
+            $("fieldset#signin_menu").toggle();
+            $(".signin").toggleClass("menu-open");
+        });
+
+        $("#partager").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#abonner").tooltip({ offset: [10, 0], effect: 'slide'});
+        $("#exporter").tooltip({ delay:30, offset: [5,20], effect: 'slide'});
+        $("#internet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+        $("#intranet_tip").tooltip({ relative:true, offset: [8, 0], effect: 'slide'});
+
+        $("fieldset#signin_menu").mouseup(function() {
+            return false
+        });
+
+        $(document).mouseup(function(e) {
+            if($(e.target).parent("a.signin").length==0) {
+                $(".signin").removeClass("menu-open");
+                $("fieldset#signin_menu").hide();
+            }
+        });
+
+        $('#q').clearableTextField();
+        
+        if ($('#q').val()!="") trigger($('#q'));
+        var cookieq = readCookie("q");
+        //alert('cookieq : '+cookieq);
+        $('#q').val(cookieq);
+        if ($('#q').val()=="null") $('#q').val("");
+        $( "#q" ).autocomplete({
+            source: '/Recherche?autoc=true'
+        }).data( "autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li></li>" )
+                .data( "item.autocomplete", item )
+                .append( "<a>" + item.label + " <i>[" + item.type + "]</i></a>" )
+                .appendTo( ul );
+        };
+
+        var liftoffTime = new Date();
+        var nbjours =  "13";
+
+        liftoffTime.setDate(liftoffTime.getDate() +parseInt(nbjours));
+        $('#calendrier_soutenance').countdown({until: liftoffTime, format: 'd'});
+
+        // Script de base pour ouvrir n'importe quel overlay sur la page
+        if ($.browser.msie == true) {
+            $("div[rel]").overlay({});
+        } else {
+            $("div[rel]").overlay({
+                mask:{
+                    color: '#000',
+                    loadSpeed: 200,
+                    opacity: 0.8
+                }
+            });
+        }
+
+        // Script spécifique pour ouvrir Consulter en bibliothèque dans l'overlay Acheter
+        $("#acheter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+        // Script spécifique pour ouvrir Acheter la thèse dans l'overlay Consulter
+        $("#consulter_these a.overlay_autre").click(function () {
+            $('a.close').trigger('click');
+            $("#consulter_these_autreVersion").overlay({
+                mask:{
+                    color: '#000',
+                    opacity: 0.8
+                },
+                load: true,
+                onLoad: function() {
+                    var t = $.mask;
+                    if(!t.isLoaded()) {
+                        t.load();
+                        var ov = this.getOverlay();
+                        ov.css('z-index', '9999');
+                    }
+                }
+            });
+            e.preventDefault();
+        });
+
+    });//fin ready
+
+function encode(startpage) {
+    var selObj =  document.getElementById('selectsort');
+    var selIndex = selObj.selectedIndex;
+    window.location=  '/'+startpage+'&sort='+selObj.options[selIndex].value;
+}
+
+function handleChangeAccess(cb) {
+    if (cb.checked) {
+        document.getElementById('access').value = 'accessible:oui';
+    } else {
+        document.getElementById('access').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangeStatus(cb) {
+    if (cb.checked) {
+        document.getElementById('status').value = 'status:soutenue';
+    } else {
+        document.getElementById('status').value = '';
+    }
+    window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePrevision(cb) {
+    if (cb.checked) {
+        document.getElementById('prevision').value = 'oui';
+    } else {
+        document.getElementById('prevision').value = '';
+    }
+  window.location=  '/?q='+$('#q').val()+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+
+function handleChangePersonnes(cb) {
+    if (cb.checked) {
+        document.getElementById('filtrepersonne').value = 'oui';
+    } else {
+        document.getElementById('filtrepersonne').value = '';
+    }
+    window.location=  '?q='+$('#q').val()+'&fq=dateSoutenance:['+$("#datedebsoutenance").html()+'-01-01T23:59:59Z%2BTO%2B'+$("#datefinsoutenance").html()+'-12-31T23:59:59Z]'+'&checkedfacets='+document.getElementById('facetsvalues').innerHTML+'&status='+document.getElementById('status').value+'&access='+document.getElementById('access').value+'&access='+document.getElementById('access').value+'&prevision='+document.getElementById('prevision').value+'&filtrepersonne='+document.getElementById('filtrepersonne').value+'&zone1=titreRAs&val1=&op1=AND&zone2=auteurs&val2=&op2=AND&zone3=etabSoutenances&val3=';
+}
+</script>
+
+<div class="clearer"></div>
+
+<!-- Barre latérale -->
+<div class="barre_laterale barre_these">
+	<div class="conteneur">
+		<div class="ariane_back">
+
+		</div>
+		<div class="ariane_encart signaler">
+<a href="feedbacktheses.jsp?origine=2014EHES0053&lng=fr&ppn_origine=026374889&appli_origine=Sudoc" target="_blank"><strong>SIGNALER</strong> une erreur </a>
+		</div>
+<div class="ariane_encart exporter">
+<a id="exporter" title=""><strong>EXPORTER</strong> les infos</a></div>
+
+<div class="tooltip">
+<ul>
+  <li><a href="/2014EHES0053.ris" target="_blank">format RIS</a></li>
+  <li><a href="/2014EHES0053.bib" target="_blank">format BibTeX</a></li>
+  <li><a href="/2014EHES0053.xml" target="_blank">format XML</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+var addthis_config = {
+      ui_language: "fr" 
+} 
+</script>
+		<!-- Temporairement caché
+		<div class="ariane_encart abonner">
+			<a id="abonner" title=""><strong>S'abonner</strong> à theses.fr</a>
+		</div>
+		<div class="tooltip">
+			<h5><a href="#">Flux ATOM</a></h5>
+			<h5><a href="#">S'abonner à la newsletter</a></h5>
+		</div>
+		-->
+	</div>
+</div><div class="clearer"></div>
+<!--Affichage NNT ou PPN-->
+
+<div class="conteneur">
+    <div id="resultat">
+        <div class="clearer"></div>
+        
+<!--Affichage NNT ou PPN-->
+<div class="conteneur" about="http://www.theses.fr/2014EHES0053/id" typeof="bibo:Thesis">
+<div id="ficheTitre">
+<div class="these_navigation">
+<h5 class="precedente" style = "visibility:hidden"><a href="" title="" >thèse précédente</a></h5>
+<h5 class="suivante" style = "visibility:hidden"><a href="" title="" >thèse suivante</a></h5>
+</div>
+  <div class="these_titre">
+    <h1 property="dc:title" xml:lang="fr">Essais sur la finance et la croissance</h1>
+    <h2>par <a href="184967082" rel="dcterms:creator" resource="http://www.idref.fr/184967082/id"><span property="foaf:name">Liliana Veronica Varela</span></a></h2>
+</div>
+<div class="these_soutenue">
+<p> Thèse de doctorat en <span property="dc:subject">Analyse et politique économiques</span></p>
+</div>
+<div class="clearer"></div>
+    <div class="donnees-ombre">
+      <p>Sous la direction de 
+<a href="18496489X" rel="dcterms:contributor" resource="http://www.idref.fr/18496489X/id"><span property="foaf:name">Vasco Carvalho</span></a> et de 
+<a href="159799309" rel="dcterms:contributor" resource="http://www.idref.fr/159799309/id"><span property="foaf:name">Romain Rancière</span></a>.
+</p>
+    </div>
+    <div class="donnees-ombre">
+      <p>Soutenue en <span property="dc:date" content=2014 datatype="xsd:date">2014</span></p>
+      <p>à <a href="026374889" rel="dcterms:contributor" resource="http://www.idref.fr/026374889/id"><span property="foaf:name">Paris, EHESS</span></a>
+, dans le cadre de  <a href="165850264" rel="dcterms:contributor" resource="http://www.idref.fr/165850264/id">
+<span property="foaf:name">École doctorale d'Économie (Paris)</span></a>
+.
+    </div>
+    <div class="donnees" >
+      <p>Le président du jury était 
+<a href="/fr/099029286" rel="dcterms:contributor" resource="http://www.idref.fr/099029286/id"><span property="foaf:name">Aaron Tornell</span></a>. 
+</p>
+      <p>Les rapporteurs étaient 
+<a href="/fr/184966264" rel="dcterms:contributor" resource="http://www.idref.fr/184966264/id"><span property="foaf:name">Alessandra Bonfiglioli</span></a>, 
+<a href="/fr/109973380" rel="dcterms:contributor" resource="http://www.idref.fr/109973380/id"><span property="foaf:name">Mathias Thoenig</span></a>. 
+</p>
+    </div>
+  <div style="width: 660px; float: left; margin: 60px 0;">
+    <ul class="tabs">
+      <li><a class="current" href="#">Description en français</a></li>
+      <li><a href="#">Description en anglais</a></li>
+    </ul>
+    <div class="panes">
+      <div>
+        <ul class="mots">
+          <h2><img src="/images/liste.png" alt="mots clés" /> mots clés</h2>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Imperfections financières">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Imperfections financières
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Croissance économique">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Croissance économique
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Productivité">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Productivité
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Concurrence imparfaite">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Concurrence imparfaite
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Hétérogénéité des firmes">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Hétérogénéité des firmes
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Commerce extérieur">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Commerce extérieur
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Marchés émergents">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Marchés émergents
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Économie en développement">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Économie en développement
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Finances Pays en voie de développement Thèses et écrits académiques">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Finances -- Pays en voie de développement -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Marché financier Pays en voie de développement Thèses et écrits académiques">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Marché financier -- Pays en voie de développement -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Entreprises Croissance Pays en voie de développement Thèses et écrits académiques">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Entreprises -- Croissance -- Pays en voie de développement -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Productivité Pays en voie de développement Thèses et écrits académiques">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Productivité -- Pays en voie de développement -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+<li>
+<a  name="MotsClesFr" class="libVal"> </a>
+<a href="/fr?q=*:Concurrence imparfaite Pays en voie de développement Thèses et écrits académiques">
+<span about="http://www.theses.fr/2014EHES0053/id" property="dc:subject" xml:lang="fr">Concurrence imparfaite -- Pays en voie de développement -- Thèses et écrits académiques
+</span>
+</a>
+</li>
+        </ul>
+        <ul class="resume">
+          <li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="fr">Les marchés financiers jouent un rôle important dans l'expansion de la croissance économique. Néanmoins, ils sont sujets à de très grandes imperfections financières dans les économies en développement. Cette thèse examine les causes de ces imperfections, leur impact hétérogène sur les agents et leurs effets sur les canaux pour lesquels la finance peut stimuler la croissance dans les économies en développement. Chaque chapitre est consacré à l'analyse d'un type d’imperfection financière. Le premier chapitre soutient que le ralentissement économique observé dans les marchés émergents qui suit les chocs de taux d'intérêt peut s'attribuer à des imperfections financières qui affectent principalement les activités non marchandes. Le deuxième chapitre examine les causes de l'augmentation de la productivité agrégée suite aux épisodes d’ouverture financière. Il soutient que cette expansion peut principalement être due à des réductions de distorsions sur le marché du capital encourageant ainsi la concurrence et l'investissement en technologie à travers deux sources. Tout d'abord, l'amélioration des conditions de crédit encourage les firmes qui accèdent à des fonds internationaux à investir davantage en technologie. Deuxièmement, les forces pro-concurrentielles induisent leurs rivaux à faire de même. Le troisième chapitre examine si l’existence d’imperfections sur les marchés à terme conduit les entreprises à aligner leurs décisions commerciales et de financement. Il soutient que l'élasticité d'exportation au taux de change peut être plus importante par rapport aux estimations précédentes si le bilan des firmes présente des déséquilibres entre l'actif et le passif en devise. </span></p></li>
+        </ul>
+      </div>
+      <div>
+        <ul class="resume">
+          <li>
+          <h2>Titre traduit </h2>
+            <p><span property="dcterms:alternative" xml:lang="en">Essays on finance and growth</span></p></li>
+          <li>
+<br />
+            <h2>Résumé</h2>
+            <p><span property="dc:description" xml:lang="en">Financial markets play an important role in promoting economic growth. However, they are subject to large financial frictions in developing economies. This thesis explores the causes of these frictions, their heterogeneous impact on agents, and their effects on the channels through which finance can spur growth in these economies. Each chapter is devoted to the analysis of one type of financial imperfections. The first chapter argues that the economic downturn observed in emerging markets following interest rate shocks can be associated with financial frictions affecting non-tradable activities. Using a new database on sectoral output and credit in emerging markets, I show that changes in credit conditions significantly affect output growth in the non-tradable sector, but they only affect output marginally in the tradable sector. The second chapter investigates the causes of the increase in aggregate productivity following financial openness. It argues that this expansion can be mainly attributed to reductions in distortions in capital markets that promote competition and encourage investments in technology through two sources. First, better credit conditions encourage firms that gain access to international funds to raise their innovation efforts. Second, pro-competitive forces induce their market rivals to do the same. The third chapter analyzes whether imperfections in futures markets lead firms to align their trading and financing decisions. It shows that firms' export elasticity to exchange rate can be substantially larger than previous estimates if firms are exposed to imbalances between the currency denomination of their assets and liabilities. </span></p></li>
+        </ul>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <script>
+$(function() {
+	$("ul.tabs").tabs("div.panes > div");
+});
+</script>
+</div>
+	<div id="options_editions"><!-- Début Options -->
+		<div class="option consulter">
+			<div class="tampon"></div>
+			<div rel="#consulter_these"><a href="#" title=""><strong>Consulter</strong>  en bibliothèque</a></div>
+		</div>
+	</div><!-- Fin Options -->
+</div><!-- END -->
+<div class="clearer"></div>
+ 	<!-- Overlay - Consulter -->
+ 	<div class="these_overlay" id="consulter_these">
+ 		<h1 class="consulter"><strong>Consulter</strong>  en bibliothèque</h1>
+ 		<div style="float: left; margin-left: 30px; width: 670px;">
+ 			<h2 class="forme_papier">La version de soutenance existe  sous forme papier
+</h2>
+ 			<div class="tampon_overlay"></div>
+ 			<div class="clearer"></div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Informations</strong></p>
+ 				<ul>
+ 					<li>Détails :  1 vol. (143 p.)</li>
+ 					<li>Annexes :  Bibliogr. p.135-143. Notes bibliogr.</li>
+ 				</ul>
+ 			</div>
+ 			<div class="overlay_informations">
+ 				<p><strong>Où se trouve cette thèse\u00a0?</strong></p>
+ 				<ul>
+ 					<li><strong>Bibliothèque : École des hautes études en sciences sociales. Thèses.
+</strong></li>
+ 					<li> Non disponible pour le PEB</li>
+ 					<li>Cote : TPE 2014-53</li>
+ 					<li><strong>Bibliothèque : Fondation Maison des sciences de l&apos;homme. Bibliothèque.
+</strong></li>
+ 					<li> PEB soumis à condition</li>
+ 				</ul>
+ 			</div>
+ 			<div class="clearer"></div>
+ 			<a href="http://www.sudoc.fr/184963583" class="overlay_sudoc" target="_blank">Voir dans le Sudoc, catalogue collectif des bibliothèques de l'enseignement supérieur et de la recherche.</a>
+ 	</div>
+</div>
+ <script type="text/javascript">function initialize_maps(){};</script></div>
+</div>
+<div class="clearer"></div>
+ <!--Ce test pr le cas de recherche.jsp avec param format-->
+<!--Pied de page-->
+<div id="pied">
+  <div class="footer" style="float: right;"> <a href="http://www.abes.fr" target="_blank"><img src="/images/logo-abes.png" alt="ABES" /></a> </div>
+    <div class="footer" style="margin: 36px 50px 0 0; float: right;">
+    <h5>
+        <a href="/apropos.html" title="A propos">A propos</a> |
+            <a href="https://stp.abes.fr/node/3?origine=thesesFr" title="Assistance" target="_blank"> Assistance</a> |
+            <a href="/conditions.html" title="CGU" >CGU</a> |
+        <a href="/donnees_personnelles" >Donn&eacute;es personnelles</a> |
+              <a href="/mentions_legales" >Mentions l&eacute;gales</a>
+    </h5>
+  </div>
+
+</div>
+
+<script src="/js/ga.js" async="" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else expires = "";
+        document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = decodeURIComponent(document.cookie).split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    //Lien activer/desactiver autocompletion
+    function autoC(rep){
+        //Si desactive autocomplete
+        if (rep=="non") {
+            $('#autoCO').hide();
+            $('#autoCN').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: true });
+        }
+        else { //sinon
+            $('#autoCN').hide();
+            $('#autoCO').show();
+            createCookie("autoC", rep, 15);
+            $( "#q" ).autocomplete({ disabled: false });
+        }
+    }
+
+    //Lecture cookie pour activer/desactiver autocompletion
+    $(document).ready(function($) {
+        var cookie = readCookie("autoC");
+        var rep = cookie ? cookie : "oui";
+        autoC(rep);
+    });
+
+    //<!-- Piwik -->
+    var _paq = _paq || [];
+    _paq.push(['setRequestMethod', 'POST']);
+    _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+    _paq.push(['appendToTrackingUrl', 'rec=1&bots=1']);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+          var u="https://piwik.abes.fr/";
+     _paq.push(["setTrackerUrl", u+"piwik.php"]); 
+     _paq.push(["setSiteId", "5"]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; 
+     g.type="text/javascript"; g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s); })();
+    //<!-- End Piwik Code -->
+
+    //Lien google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18937154-1']);
+    _gaq.push(['_setDomainName', '.theses.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<noscript><p><img src="https://piwik.abes.fr/piwik.php?idsite=5&rec=1&bots=1" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>
