@@ -7,7 +7,7 @@ import html
 import csv
  
 L=os.listdir('pages_ratios')
-Base=[['firme','stock','book_to_market','price_to_sales','price_to_cash_flow','price_to_book','dividend_yield','g','payout_ratio']]
+Base=[['firme','stock','book_value_per_share','price_to_sales','price_to_cash_flow','price_to_book','dividend_yield','g','payout_ratio']]
 for k in L:
         with open('pages_ratios/'+k,'r',encoding='utf8') as output:
                     content = output.read()
@@ -31,12 +31,12 @@ for k in L:
             print("le sigle de l\'action est:",stock)
 
         pattern3 = 'Valeur comptable par action <i class="lighterGrayFont arial_11">MRQ</i></span></td>\n                                <td>(.+?(?=</td>))'
-        book_to_market = re.findall(pattern3,content)
-        if book_to_market==[]:
+        book_value_per_share = re.findall(pattern3,content)
+        if book_value_per_share==[]:
             print("Problème d\'extraction de ma valeur comptable sur la valeur de marché de: ",k)
         else:
-            print(book_to_market)
-            print("la valeur comptable sur la valeur de marché de",k,"est:",book_to_market)
+            print(book_value_per_share)
+            print("la valeur comptable sur la valeur de marché de",k,"est:",book_value_per_share)
         
         pattern4 = 'Cours/Ventes <i class="lighterGrayFont arial_11">TTM</i></span></td>\n                                <td>(.+?(?=</td>))'
         price_to_sales = re.findall(pattern4,content)
@@ -88,7 +88,7 @@ for k in L:
 
         firme = firme[0]
         stock = stock[0]
-        book_to_market = book_to_market[0]
+        book_value_per_share = book_value_per_share[0]
         price_to_sales = price_to_sales[0]
         price_to_cash_flow = price_to_cash_flow[0]
         price_to_book = price_to_book[0]
@@ -96,7 +96,7 @@ for k in L:
         g = g[0]
         payout_ratio = payout_ratio[0]
 
-        Result = [firme,stock,book_to_market,price_to_sales,price_to_cash_flow,price_to_book,dividend_yield,g,payout_ratio]
+        Result = [firme,stock,book_value_per_share,price_to_sales,price_to_cash_flow,price_to_book,dividend_yield,g,payout_ratio]
         Base.append(Result)
         
 
