@@ -13,9 +13,4 @@ contenudelapage=req.text
 with open('sbf_120/sbf-120-components.txt','w',encoding='utf8') as output:
     output.write(contenudelapage)
 
-with open('sbf_120/sbf-120-components.html','w',encoding='utf8') as output:
-    output.write(contenudelapage)
-
 pdb.set_trace()
-
-
