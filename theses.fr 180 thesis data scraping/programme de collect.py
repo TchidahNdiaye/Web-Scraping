@@ -28,6 +28,7 @@ for k in ['l.v.m.h.','accor','air-liquide','eads','arcelormittal-reg','atos-orig
                 i=i+1
                 time.sleep(1)
 
+        
     if i==1000:
         print("code source de la page",k,"est collecté")
     else:
