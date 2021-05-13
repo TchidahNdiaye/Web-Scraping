@@ -37,6 +37,3 @@ for k in ['l.v.m.h.','accor','air-liquide','eads','arcelormittal-reg','atos-orig
             print("problème au niveau du timeout",k)
 
 pdb.set_trace()
-
-# -*- coding: utf8
-# -*- coding: utf8 -*-
