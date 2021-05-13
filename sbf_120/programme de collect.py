@@ -39,7 +39,7 @@ for k in ['l.v.m.h.','accor','air-liquide','eads','arcelormittal-reg','atos-orig
 pdb.set_trace()
 
 
-# -*- coding:
+# -*-
 
 # -*- coding: utf8 -*-
 # -*- coding: utf8 -*-
