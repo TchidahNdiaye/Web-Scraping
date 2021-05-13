@@ -40,7 +40,7 @@ pdb.set_trace()
 
 
 # -*- coding: utf8 -*
-# -*- coding
+# -*-
 
 # -*- coding: utf8 -*-
 # -*- coding: utf8 -*-
